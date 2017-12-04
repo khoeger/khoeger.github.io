@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2017-12-04 14:23:17 -0500
+categories: jekyll update
+---
+Welcome to my blog!
+
+I plan to use this blog to keep a public record of any music, mathematics, operations research, computer science, music technology, or other topics I explore. It will also double as a normal blog.
+
+The first tech related issue to discuss is actually blog creation! Last Monday was Cyber Monday, and I decided to celebrate it by buying a cheap domain name and DNS from [Namecheap](https://www.namecheap.com). It took a little while, but now this blog is up and running.
