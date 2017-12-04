@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Katarina. I play flute, compose music, and use computers to create music, often shaped by mathematics. I sometimes make algorithms. I like to read, dance, and explore.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am currently an instructor at [The Digital Arts Experience](https://www.thedae.com), a STEAM learning center in Westchester. I am the *public relations coordinator* of [Music Community Lab](http://musiccommunitylab.org) and regularly help produce the [Monthly Music Hackathon NYC](http://monthlymusichackathon.org) series. I am a member of the [Lehman College and Community Band](http://www.lehman.edu/academics/arts-humanities/music/community-band.php), a latin jazz ensemble, and a community marching band for young women.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am formerly of [Harvey Mudd College](https://www.hmc.edu), where I studied mathematics and was introduced to music technology (B.S. Math '13), and the [College of William & Mary](http://www.wm.edu), where I studied Computational Operations Research (M.S. Computer Science '15).
 
-
-[jekyll-organization]: https://github.com/jekyll
+Please see my [LinkedIn](https://www.linkedin.com/in/katarinahoeger/) or [email me](mailto:katarina@katarinahoeger.com) for a resume or further details.
