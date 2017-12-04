@@ -4,8 +4,12 @@ title:  "Welcome!"
 date:   2017-12-04 14:23:17 -0500
 categories: jekyll update
 ---
-Welcome to my blog!
+Welcome to my blog.
 
-I plan to use this blog to keep a public record of any music, mathematics, operations research, computer science, music technology, or other topics I explore. It will also double as a normal blog.
+I plan to use this blog to keep a public record of any music, mathematics, operations research, computer science, music technology, or other topics I explore. It will also double as a normal blog, with exciting life updates and travels.
 
-The first tech related issue to discuss is actually blog creation. Last Monday was Cyber Monday, and I decided to celebrate it by buying a cheap domain name and DNS from [Namecheap](https://www.namecheap.com). It took a little while, but now this blog is up and running.
+The first tech related issue to discuss is actually blog creation. Last Monday was Cyber Monday, and I decided to celebrate it by buying a cheap domain name and DNS from [Namecheap](https://www.namecheap.com). I had already decided to host the blog using [Github](https://github.com). It took a little while, and needed some help from friends and family, but now this blog is up and running.
+
+Some stumbling blocks I ran into came from configuring a custom domain name with Github, especially when configuring the CNAME file. It turns out, Namecheap's example CNAME Record, A Record, and URL Redirect Record need to be removed, otherwise the DNS does not map the domain name to the github repo properly, and your Jekyll blog only loads sporadically.
+
+Also, it's good to note that deleting the master branch of a github repo leads to all sorts of interesting errors that seem like pointer errors Additionally, once master's gone, it seems like you can't bring it back by pointing the repository to earlier commits. In summary, don't do it, future Katarina!
