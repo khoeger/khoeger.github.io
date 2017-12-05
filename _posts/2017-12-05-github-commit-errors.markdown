@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog Maintenance Errors"
-date:   2017-12-05 1:23:17 -0500
+date:   2017-12-05 13:23:17 -0500
 categories: github jekyll update
 published: true
 ---
