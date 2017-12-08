@@ -31,6 +31,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
