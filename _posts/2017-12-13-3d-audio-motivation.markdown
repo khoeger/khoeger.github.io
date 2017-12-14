@@ -2,7 +2,7 @@
 layout: post
 title:  "Investigating 3D Audio: Motivation"
 date:   2017-12-13 21:00:00 -0500
-categories: 3d_audio ambisonic csound python
+categories: 3d_audio csound python
 published: true
 mathjax: false
 ---
