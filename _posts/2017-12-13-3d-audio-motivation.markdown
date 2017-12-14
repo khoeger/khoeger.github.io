@@ -10,7 +10,7 @@ mathjax: false
 Back in October, I had a thought.
 > Wouldn't it be cool if I could work 3D audio into my compositions?
 
-I envisioned all sorts of interesting ways I could incorporate 3D Audio into my music making.
+I envisioned all sorts of interesting ways I could incorporate 3D audio into my music making.
 Most involved applying 3D effects to my music through the use of algorithms.
 What I realized, after lots of daydreaming, was that I do not truly know how we hear in 3D.
 What sort of signals do I need?
@@ -29,7 +29,7 @@ When investigating concepts, I aim to keep the following questions in mind:
 * Have I found pre-existing solutions that will make implementing my ideas easier?
 
 I routinely use [Python 3.6](https://docs.python.org/3/) to analyze data, but could also use the [R Programming Language](https://www.r-project.org/) to analyze data.
-I have used MIT's [music 21] Python library to generate music within python in the past, but as implementing multi-channel solutions is not a feature of music 21's, I need to generate audio in some other fashion.
+I have used MIT's [music 21](http://web.mit.edu/music21/) Python library to generate music within python in the past, but as implementing multi-channel solutions is not a feature of music 21's, I need to generate audio in some other fashion.
 As I am comfortable with Python, and know that I can use it as an interface to [Csound](http://www.csounds.com/) to create music, and the Csound library is well-maintained and has a wealth of functions I can draw upon, I will search for solutions that will be possible using a mix of both programs.
 
 ## To be continued...
