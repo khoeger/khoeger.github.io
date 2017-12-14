@@ -2,7 +2,7 @@
 layout: post
 title:  "Investigating 3D Audio"
 date:   2017-12-13 13:23:17 -0500
-categories: ambisonic csound python
+categories: 3d_audio ambisonic csound python
 published: true
 mathjax: true
 ---
@@ -20,7 +20,7 @@ Luckily, the [Immersive Music Hackathon](http://monthlymusichackathon.org/post/1
 This gave me sufficient motivation to look up psychoacoustics, figure out what sort of concepts I would want to know to start to tackle a project for the hackathon.
 As an organizer, I would not have much time to work on the project while at the event. But perhaps I would have enough time to work on a scheme for creating 3D audio appropriate for my music.
 
-While the hackathon was a resounding success, and Alex, Charles, Jason, Paul, Rachel, and Thor were amazing people to bounce ideas off of, I ended up needing a bit more time to do the research. Some concepts I was introduced to are *HRTFs* and *ambisonic technology*.
+While the hackathon was a resounding success, and Alex, Charles, Jason, Paul, Rachel, and Thor were amazing people to bounce ideas off of, I ended up needing a bit more time to do the research. Some concepts I was introduced to at the hackathon are *HRTFs* and *ambisonic technology*. While I wasn't introduced to it at the hackathon, I was reminded of the *Doppler effect* and it's uses in audio.  Other concepts I will expound upon follow from my investigations into these topics.
 
 ## Investigating concepts
 When investigating concepts, I aim to keep the following questions in mind:
@@ -34,9 +34,10 @@ As I am comfortable with Python, and know that I can use it as an interface to [
 
 
 ### How do we process sounds?
+#### Sound localization
 
-### Ambisonic technology
-Many of the hackathon's speakers mentioned ambisonic technology.
+### Ambisonics
+Many of the hackathon's speakers mentioned ambisonics.
 #### What is it?
 The creators of Ambisonics set out to improve upon the "quadraphonic" systems, as the quality of sound output by these systems varied wildly based upon the location of the listener with relation to the speaker, and the transmission of sounds was made easier. See [Why Ambisonics Offers "The Best Sounds Surround"](#ambisonics) for more details.
 
@@ -67,7 +68,7 @@ Perhaps this is a feature of using `Python 3.6.2`?
 * If I wish to use ambisonics, I have found relevant technology that I can use with my python/csound process. This will save me time during implementation, as well as insure the continued effectiveness of my piece when my listeners are not using headphones, or when the number of channels accessible changes.
 * Ambisonics itself does not include distance measurements. It works on a unit sphere. Other spatialization techniques are used to implement this.
 * Csound is one possible way to take my python data manipulation and get music output 3d audio using ambisonics. I could use high quality sound output, and any existing Csound instruments.
-* While a python version is available, I need to do more exploration before I can use it. There's a good chance that it's only usable with `Python 2`.
+* While a python version is available, I need to do more exploration before I can use it. There's a good chance that it's only usable with `Python 2`. This is worth investigating in more detail, because while Csound is robust, using only one language, at least for experimentation purposes, is preferable.  
 
 
 ### HRTFs
