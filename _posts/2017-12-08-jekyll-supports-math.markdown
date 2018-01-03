@@ -24,7 +24,7 @@ Next, I combined advice from the MathJax site, Gaston Sanchez's blog post, and [
 {{ "{% endif "}}%}
 {% endhighlight %}
 
-(If you want to learn how I highlighted the liquid templating language above, see this [post](http://tesoriere.com/2010/08/25/liquid-code-in-a-liquid-template-with-jekyll/) or this markdown file. Lots of brackets and strangely placed quotation marks come into play.)
+(If you want to learn how I highlighted the liquid templating language above, see this [post](http://tesoriere.com/2010/08/25/liquid-code-in-a-liquid-template-with-jekyll/) or the [markdown file](https://github.com/khoeger/khoeger.github.io/blob/master/_posts/2017-12-08-jekyll-supports-math.markdown) for this page. Lots of brackets and strangely placed quotation marks come into play.)
 
 Lastly, I added `mathjax: true` to the YAML of this post's markdown file, so that I can render mathematics for this article.
 
