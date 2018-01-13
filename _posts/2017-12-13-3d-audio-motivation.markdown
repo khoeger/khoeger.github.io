@@ -33,4 +33,4 @@ I have used MIT's [music 21](http://web.mit.edu/music21/) Python library to gene
 As I am comfortable with Python, and know that I can use it as an interface to [Csound](http://www.csounds.com/) to create music, and the Csound library is well-maintained and has a wealth of functions I can draw upon, I will search for solutions that will be possible using a mix of both programs.
 
 ## To be continued...
-Exploration of concepts will be continued on another day, in other posts.
+Exploration of concepts will be continued on another day, in [3D Audio: How We Hear]({{ site.baseurl }}{% post_url 2018-01-14-3d-audio-how-we-hear %}).
