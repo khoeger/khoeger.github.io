@@ -2,14 +2,20 @@
 layout: post
 title:  "Investigating 3D Audio: How We Hear"
 date:   2018-01-14 13:23:17 -0500
-categories: 3d_audio ambisonic csound python
+categories: 3d_audio 
 published: true
 mathjax: true
 ---
 
+Something moves.
+This object's motion get's transmitted through a medium in the form of a wave, your body processes the information, and, if the original wave meets the correct conditions, you hear a sound. What
+
 ### How do we process sounds?
+
 #### Sound localization
 
+
+----------------------------------
 ### Ambisonics
 Many of the hackathon's speakers mentioned ambisonics.
 #### What is it?
