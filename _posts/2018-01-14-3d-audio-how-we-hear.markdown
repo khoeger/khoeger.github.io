@@ -1,16 +1,20 @@
 ---
 layout: post
 title:  "Investigating 3D Audio: How We Hear"
-date:   2018-01-14 13:23:17 -0500
-categories: 3d_audio 
+date:   2018-01-13 13:23:17 -0500
+categories: 3d_audio
 published: true
 mathjax: true
 ---
+Something moves. [[1]](#soundphysics)
+This object's motion get's transmitted through a medium. The vibration caused by the motion travels through the medium the form of a wave. The wave hits your body, your body processes information from it, and, if the original wave meets the correct conditions, you hear a sound.
 
-Something moves.
-This object's motion get's transmitted through a medium in the form of a wave, your body processes the information, and, if the original wave meets the correct conditions, you hear a sound. What
+What exactly happens so that we can hear sounds and understand things about their origins?
 
 ### How do we process sounds?
+For humans to hear an externally produced sound, the information from a sound wave needs to make its way inside the body to be processed. Let's consider how sound travels through one ear.
+
+#### Sound's path through one ear
 
 #### Sound localization
 
@@ -59,6 +63,8 @@ Perhaps this is a feature of using `Python 3.6.2`?
 
 
 ## References
+[1]<a name="soundphysics"></a> G. Elert. [The Physics Hypertextbook: The Nature of Sound](https://physics.info/sound/). (accessed January 13, 2018)
+
 [1]<a name="surroundsound_csound_tutorial"></a> Panning and Spatialization. [http://files.csound-tutorial.net/floss_manual/Release03/Cs_FM_03_ScrapBook/b-panning-and-spatialization.html](http://files.csound-tutorial.net/floss_manual/Release03/Cs_FM_03_ScrapBook/b-panning-and-spatialization.html). Berlin, 2011. Referenced on December 13, 2017.
 
 [2]<a name="ambisonics"></a> Why Ambisonics Offers "The Best Sounds Surround". [http://www.ambisonic.net/](http://www.ambisonic.net/). Referenced on December 13, 2017.
