@@ -30,7 +30,7 @@ As we learned earlier, sounds are the products of vibrations that start from a m
 
 ### Spatial Localization
 
-Spatial localization is how to tell where a sound is coming from based off of it's location of origin in space with respect to the ear of interest. [[2]](#localization) This is done by assuming the ear of interest is at the center of a sphere, and that the sound originates on the surface of the sphere. You can describe the sound's point of origin with respect to the sphere's origin (you ear) using angles and distance.
+Spatial localization is how to tell where a sound is coming from based off of it's location of origin in space with respect to the ear of interest. [[2]](#localization) This is done by assuming the ear of interest is at the center of a sphere, and that the sound originates on the surface of the sphere. You can describe the sound's point of origin with respect to the sphere's origin (your ear) using angles and distance.
 
 You have two ears. Therefore, there are two different spheres from which to your brain can glean information about the sound's origin. Some ways to gain information are through analyzing the *inter-aural intensity difference (IID)* and *inter-aural timing difference (ITD)* between the ears. [[2]](#localization) Basically, given the intensity (loudness) of a sound at ear A and the intensity of the sound at ear B, along with the timing of the sound at ear A and the timing of the sound at ear B, you can tell a lot about where the sound originates from. The possible origins of the sound narrow down from an entire sphere to only a few possible points.
 
