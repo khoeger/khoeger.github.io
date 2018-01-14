@@ -18,7 +18,7 @@ Thank you, [Blank Forms](https://blankforms.org), for sponsoring this once-in-a-
 ### *Sunday, November 19, 2017*
 **Lovinger Theatre, Lehman College, Bronx, NY**
 
-I am a second flute in the Lehman College and Community Band. My bandmates and I, led by our wonderful conductor Alan Hollander, played a very vigorous and diverse instrumental program.
+I am a second flute in the Lehman College and Community Band. My bandmates and I, led by our wonderful conductor [Alan Hollander](http://www.lehman.edu/academics/arts-humanities/music/hollander.php), played a very vigorous and diverse instrumental program.
 
 - America the Beautiful, *Samuel A. Ward*
 - Lincolnshire Posy, *Percy Grainger, ed. Frederick Fennell*
