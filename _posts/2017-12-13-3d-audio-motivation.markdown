@@ -6,6 +6,8 @@ categories: 3d_audio csound python
 published: true
 mathjax: false
 ---
+###### This post is the first in a series of posts on 3D Audio. The next post in the series is [Investigating 3D Audio: How We Hear]({{ site.baseurl }}{% post_url 2018-01-14-3d-audio-how-we-hear %}).
+
 ## Motivation
 Back in October, I had a thought.
 > Wouldn't it be cool if I could work 3D audio into my compositions?
@@ -32,5 +34,5 @@ I routinely use [Python 3.6](https://docs.python.org/3/) to analyze data, but co
 I have used MIT's [music 21](http://web.mit.edu/music21/) Python library to generate music within python in the past, but as implementing multi-channel solutions is not a feature of music 21's, I need to generate audio in some other fashion.
 As I am comfortable with Python, and know that I can use it as an interface to [Csound](http://www.csounds.com/) to create music, and the Csound library is well-maintained and has a wealth of functions I can draw upon, I will search for solutions that will be possible using a mix of both programs.
 
-## To be continued...
-Exploration of concepts will be continued on another day, in [3D Audio: How We Hear]({{ site.baseurl }}{% post_url 2018-01-14-3d-audio-how-we-hear %}).
+###### Exploration of concepts will be continued on another day, in [Investigating 3D Audio: How We Hear]({{ site.baseurl }}{% post_url 2018-01-14-3d-audio-how-we-hear %}).
+###### Last edited -- January 13, 2018.

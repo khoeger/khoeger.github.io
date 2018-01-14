@@ -6,6 +6,8 @@ categories: 3d_audio sound_localization
 published: true
 mathjax: true
 ---
+###### This post is the second in a series of posts exploring 3D Audio. It is a continuation of [Investigating 3D Audio: Motivation]({{site.baseurl}}{% post_url 2017-12-13-3d-audio-motivation%})
+
 Something moves. [[1]](#soundphysics)
 This object's motion gets transmitted through a medium, such as air. The vibration caused by the motion travels through the medium in the form of a wave. The wave hits your body, your body processes information from it, and, if the original wave meets the correct conditions, you hear a sound.
 
@@ -30,13 +32,14 @@ As we learned earlier, sounds are the products of vibrations that start from a m
 
 Spatial localization is how to tell where a sound is coming from based off of it's location of origin in space with respect to the ear of interest. [[2]](#localization) This is done by assuming the ear of interest is at the center of a sphere, and that the sound originates on the surface of the sphere. You can describe the sound's point of origin with respect to the sphere's origin (you ear) using angles and distance.
 
-You have two ears. Therefore, there are two different spheres from which to your brain can glean information about the sound's origin. Some ways to gain information are through analyzing the inter-aural intensity difference (IID) and inter-aural timing difference (ITD) between the ears. [[2]](#localization) Basically, given the intensity (loudness) of a sound at ear A and the intensity of the sound at ear B, along with the timing of the sound at ear A and the timing of the sound at ear B, you can tell a lot about where the sound originates from. The possible origins of the sound narrow down from an entire sphere to only a few possible points.
+You have two ears. Therefore, there are two different spheres from which to your brain can glean information about the sound's origin. Some ways to gain information are through analyzing the *inter-aural intensity difference (IID)* and *inter-aural timing difference (ITD)* between the ears. [[2]](#localization) Basically, given the intensity (loudness) of a sound at ear A and the intensity of the sound at ear B, along with the timing of the sound at ear A and the timing of the sound at ear B, you can tell a lot about where the sound originates from. The possible origins of the sound narrow down from an entire sphere to only a few possible points.
 
 ## Tricking Your Ear
-Lots of factors go into telling where sounds originate from. So far, all of the possible equations that I have found to help with sound localization are only found on Wikipedia's [Sound Localization](https://en.wikipedia.org/wiki/Sound_localization) page. While I would learn lots by trying to implement my own sound localization scheme, now that I understand what sorts of concepts come into play when your ear tries to determine where sound comes from, I can now look into using existing sound localization tools and packages. As I understand some of what's going into them, I will feel more comfortable using pre-made solutions to eventually trick your ears.
+Lots of factors go into telling where sounds originate from. So far, all of the possible equations that I have found to help with *sound localization* are only found on Wikipedia's [Sound Localization](https://en.wikipedia.org/wiki/Sound_localization) page. While I would learn lots by trying to implement my own sound localization scheme, my friends are right. I should use a pre-built solution if I ever want to get around to music making. Now that I understand what sorts of concepts come into play when your ear tries to determine where sound comes from, I will be more comfortable looking into existing sound localization tools and packages and using their pre-made solutions.
 
-*This series of posts on 3d Audio will be continued in future posts.*
+One day, I hope to trick your ears.
 
+###### Exploration of concepts will be continued on another day, in future posts.
 ---------------------------------
 ## References
 [1]<a name="soundphysics"></a> G. Elert. [The Physics Hypertextbook: The Nature of Sound](https://physics.info/sound/). (accessed January 13, 2018).
