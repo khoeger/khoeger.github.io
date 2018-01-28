@@ -70,6 +70,7 @@ Unfortunately, attempts to install this will need to take up a new post.
 * Csound is one possible way to take my python data manipulation and get music output 3d audio using ambisonics. I could use high quality sound output, and any existing Csound instruments.
 * While a python version is available, I need to do more exploration before I can use it. There's a good chance that it's only usable with `Python 2`. This is worth investigating in more detail, because while Csound is robust, using only one language, at least for experimentation purposes, is preferable.  
 
+###### Exploration of concepts will be continued on another day.
 
 ## References
 [1]<a name="surroundsound_csound_tutorial"></a> Panning and Spatialization. [http://files.csound-tutorial.net/floss_manual/Release03/Cs_FM_03_ScrapBook/b-panning-and-spatialization.html](http://files.csound-tutorial.net/floss_manual/Release03/Cs_FM_03_ScrapBook/b-panning-and-spatialization.html). Berlin, 2011. Referenced on December 13, 2017.
