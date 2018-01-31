@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Investigating 3D Audio: Ambisonics"
-date:   2018-01-27 13:23:17 -0500
+date:   2018-01-30 21:00:00 -0500
 categories: 3d_audio ambisonic csound python
 published: true
 mathjax: true
