@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Oscillators in Pure Data "
-date:   2018-02-25 09:00:00 -0500
+date:   2018-02-25 17:00:00 -0500
 categories: oscillators pureData
 published: true
 mathjax: true
