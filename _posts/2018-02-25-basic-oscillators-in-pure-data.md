@@ -66,6 +66,7 @@ This is really similar. Follow the directions above, but change the following st
 **Step 12:** Put > Array > name > *sawtooth*
 
 You should have code that looks like:
+
 ![Sawtooth wave oscillator code in pure data]({{ "assets\img\2018_02_25\sawtooth_osc2.png" | absolute_url }})
 
 ### Square Wave Oscillator
@@ -78,5 +79,7 @@ Also really similar. Follow the directions above, but change the following steps
 **Step 8:** Put > Object > tabwrite~ *square*
 
 **Step 12:** Put > Array > name > *square*
+
 You should have code that looks like:
+
 ![Sawtooth wave oscillator code in pure data]({{ "assets\img\2018_02_25\square_osc3.png" | absolute_url }})
