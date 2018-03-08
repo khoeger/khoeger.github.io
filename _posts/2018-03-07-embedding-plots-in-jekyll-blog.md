@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Embedding Plots in Jekyll Blogs"
+date:   2018-03-07 17:00:00 -0500
+categories: bokeh matplotlib networkx plotly plotting python
+published: true
+mathjax: true
+---
+I've been meaning to write posts using a graph. Also, generally, I would like to create plots that I an embed in my browser, as opposed to taking images and using those.
+
+I plan to use python to create the graphs, so the packages I use should take python code as input.
+# Bokeh
+I was not able to create an interactive Graph in Bokeh using the directions for the [Visualizing Network Graphs](https://bokeh.pydata.org/en/latest/docs/user_guide/graph.html) tutorial. Problems specifically stemmed from the fact that in version **0.12.14** or **0.12.16**, which I was using, the package `bokeh.models` is missing the classes `GraphRenderer` and `graphs`.
+
+I can make plots! And I have a lot of control over them. And they're in html form.
+
+But embedding them into the jekyll blog page is a bit awkward, and not working at the moment. [Instructions](https://jekyllrb.com/docs/includes/) are here, but following them is difficult.
+
+<!-- {% include html/sinCos.html %} -->
+
+# Matplotlib
+# Plotly
+With Plotly, I was able to create an interactive graph, rendered in the browser.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~khoeger/38.embed"></iframe>
+
+## Running the Tutorial's Example
+I followed along with Plotly's instructions for creating a random [network graph](https://plot.ly/python/network-graphs/) very closely. My code is almost the same as written, but there are two slight modifications I needed to run the program from the command line.
+### Change to Networkx package
+Python's **`networkx`** package underwent a change between when the tutorial was released and when I ran the tutorial. The `networkx.classes.graph.Graph` class's attribute `adjacency_list()` has been renamed to `adjacency()`. Thus, when running the code, I needed to change the section of the tutorial where we find nodes connected with each other from
+to
+{%highlight python%}
+for node, adjacencies in enumerate(G.adjacency()):
+{%endhighlight%}
+
+### Plotting
+As usual, I ran python on my personal machine, instead of online or in a jupyter notebook. Because of this, the last line of the tutorial needs to be changed, from `py.iplot` to `py.plot`. This leaves the code I used as
+{%highlight python%}
+py.plot(fig, filename='networkx_plotly_test1')
+{%endhighlight%}
+
+## Observations
+
+### Plotly Pros
+- It plots graphs!
+- It works with networkx
+- The plots are relatively easy to embed. Just embed an `<iframe>...<\iframe>` in the markdown file.
+
+### Plotly Cons
+- I do not really own the graph. It is created and hosted on plotly's site, and I load it into my page, such as I would a tweet, or soundcloud or youtube post.
+- When you load the page, it takes a while for the graph to appear.
