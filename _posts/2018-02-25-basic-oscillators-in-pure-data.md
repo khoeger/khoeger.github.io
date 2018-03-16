@@ -54,7 +54,7 @@ The steps followed to make a sine wave oscillator, with variable inputs, were as
 
 That's it! Your code should look like the following. (Yes, puredata is a picture based language.)
 
-![Sine wave oscillator code in pure data]({{ "assets/img/2018_02_25/sine_osc1.png" | absolute_url }})
+![Sine wave oscillator code in pure data]({{ "assets/img/2018/2018_02_25/sine_osc1.png" | absolute_url }})
 
 ### Sawtooth Wave Oscillator
 This is really similar. Follow the directions above, but change the following steps:
@@ -67,7 +67,7 @@ This is really similar. Follow the directions above, but change the following st
 
 You should have code that looks like:
 
-![Sawtooth wave oscillator code in pure data]({{ "assets/img/2018_02_25/sawtooth_osc2.png" | absolute_url }})
+![Sawtooth wave oscillator code in pure data]({{ "assets/img/2018/2018_02_25/sawtooth_osc2.png" | absolute_url }})
 
 ### Square Wave Oscillator
 Also really similar. Follow the directions above, but change the following steps:
@@ -82,4 +82,4 @@ Also really similar. Follow the directions above, but change the following steps
 
 You should have code that looks like:
 
-![Square wave oscillator code in pure data]({{ "assets/img/2018_02_25/square_osc3.png" | absolute_url }})
+![Square wave oscillator code in pure data]({{ "assets/img/2018/2018_02_25/square_osc3.png" | absolute_url }})
