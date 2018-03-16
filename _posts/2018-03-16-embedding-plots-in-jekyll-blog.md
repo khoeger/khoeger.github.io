@@ -1,17 +1,15 @@
 ---
 layout: post
 title:  "Embedding Plots in Jekyll Blogs"
-date:   2018-03-07 17:00:00 -0500
+date:   2018-03-16 15:00:00 -0500
 categories: bokeh matplotlib networkx plotly plotting python
-published: true
-mathjax: true
 ---
-I've been meaning to write posts using a graph. Also, generally, I would like to create plots that I an embed in my browser, as opposed to taking images and using those.
+I've been meaning to write posts using plots. Also, generally, I would like to create plots that I an embed in my browser, as opposed to taking images and using those.
 
 I plan to use python to create the graphs, so the packages I use should take python code as input.
 # Bokeh
 With Bokeh, I created the following interactive plot.
-{% include 2018/03_16/sinCos_3_13_2018.html %}
+{% include 2018/03-16/sinCos_3_13_2018.html %}
 
 ## Plotting
 I can make plots! And I have a lot of control over them. And they're in html form, so I can generate them by adding the following to my python code:
@@ -25,7 +23,7 @@ This allowed me to save my work as an html file, and then include the html file.
 
 ### Coding the Plot
 {% highlight python%}
-{% include 2018/03_16/sinCosine.py %}
+{% include 2018/03-16/sinCosine.py %}
 {% endhighlight %}
 
 
@@ -41,15 +39,15 @@ This allowed me to save my work as an html file, and then include the html file.
 I can make many impressive graphics using Matplotlib, such as different views of a vortex, shown below.
 This is a standard tool for all sorts of academic work with Python.
 
-![Side view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018_03_16/hurricane.png" | absolute_url }})
+![Side view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018-03-16/hurricane.png" | absolute_url }})
 
-![Slightly off of top view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018_03_16/hurricane_top.png" | absolute_url }})
+![Slightly off of top view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018-03-16/hurricane_top.png" | absolute_url }})
 
 Here's an example of a 2-D embeddable and interactive image.
-{% include 2018/03_16/testMpld3.html %}
+{% include 2018/03-16/testMpld3.html %}
 The code for this, came from [here](https://mpld3.github.io/quickstart.html), with a minor tweak (adding lines 3 and 6) so that I could save.
 {% highlight python linenos %}
-{% include  2018/03_16/testMpld3.py%}
+{% include  2018/03-16/testMpld3.py%}
 {% endhighlight %}
 
 ## Observations
