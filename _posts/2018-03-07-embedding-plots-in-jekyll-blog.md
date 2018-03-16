@@ -45,6 +45,9 @@ This is a standard tool for all sorts of academic work with Python.
 
 ![Slightly off of top view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018_03_16/hurricane_top.png" | absolute_url }})
 
+Here's an example of a 2-D embeddable and interactive image. 
+{% include 2018/03_16/testMpld3.html %}
+
 ## Observations
 My plots are not as easily pretty as in Bokeh or Plotly, but they're functional.
 
@@ -60,7 +63,7 @@ Other goodies include adding a [navigation toolbar](https://matplotlib.org/users
 
 
 ### Matplotlib Cons
-- Difficult to create [html embeddable images](https://mpld3.github.io/modules/API.html#interactive-d3-rendering-of-matplotlib-images) for some types of plots, such as 3d plots. But for  2-d, this works great
+- Difficult to create [html embeddable images](https://mpld3.github.io/modules/API.html#interactive-d3-rendering-of-matplotlib-images), especially for 3d plots.
 
 
 # Plotly
