@@ -45,11 +45,16 @@ This is a standard tool for all sorts of academic work with Python.
 
 ![Slightly off of top view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018_03_16/hurricane_top.png" | absolute_url }})
 
-Here's an example of a 2-D embeddable and interactive image. 
+Here's an example of a 2-D embeddable and interactive image.
 {% include 2018/03_16/testMpld3.html %}
+The code for this, came from [here](https://mpld3.github.io/quickstart.html), with a minor tweak (adding lines 3 and 6) so that I could save.
+{% highlight python linenos %}
+{% include  2018/03_16/testMpld3.py%}
+{% endhighlight %}
 
 ## Observations
 My plots are not as easily pretty as in Bokeh or Plotly, but they're functional.
+Also, the way the interactivity only works when activated by pushing the cross-like arrow button is really cool.
 
 ### Matplotlib Pros
 - Interactive 2-D Plots in HTML
