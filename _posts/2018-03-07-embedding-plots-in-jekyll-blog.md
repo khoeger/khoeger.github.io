@@ -10,15 +10,35 @@ I've been meaning to write posts using a graph. Also, generally, I would like to
 
 I plan to use python to create the graphs, so the packages I use should take python code as input.
 # Bokeh
+With Bokeh, I created the following interactive plot.
+{% include 2018/03_16/sinCos_3_13_2018.html %}
+
+## Plotting
+I can make plots! And I have a lot of control over them. And they're in html form, so I can generate them by adding the following to my python code:
+{% highlight python %}
+html = file_html(p, CDN,"Sine vs. Cos. Sample Plot")
+outFile = open("sinCos_3_13_2018.html",'w')
+outFile.write(html)
+outFile.close()
+{% endhighlight %}
+This allowed me to save my work as an html file, and then include the html file. The only thing to remember? Remove `<!DOCTYPE html>` from the top of the code.
+
+### Coding the Plot
+{% highlight python%}
+{% include 2018/03_16/sinCosine.py %}
+{% endhighlight %}
+
+
+## Observations
+### Bokeh Pros
+- Interactive Plots
+- Plot source is my own server
+
+### Bokeh Cons
 I was not able to create an interactive Graph in Bokeh using the directions for the [Visualizing Network Graphs](https://bokeh.pydata.org/en/latest/docs/user_guide/graph.html) tutorial. Problems specifically stemmed from the fact that in version **0.12.14** or **0.12.16**, which I was using, the package `bokeh.models` is missing the classes `GraphRenderer` and `graphs`.
 
-I can make plots! And I have a lot of control over them. And they're in html form.
-
-But embedding them into the jekyll blog page is a bit awkward, and not working at the moment. [Instructions](https://jekyllrb.com/docs/includes/) are here, but following them is difficult.
-
-<!-- {% include html/sinCos.html %} -->
-
 # Matplotlib
+
 # Plotly
 With Plotly, I was able to create an interactive graph, rendered in the browser.
 
@@ -42,7 +62,7 @@ py.plot(fig, filename='networkx_plotly_test1')
 ## Observations
 
 ### Plotly Pros
-- It plots graphs!
+- Makes interactive plots!
 - It works with networkx
 - The plots are relatively easy to embed. Just embed an `<iframe>...<\iframe>` in the markdown file.
 
