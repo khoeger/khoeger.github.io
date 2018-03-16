@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embedding Plots in Jekyll Blogs"
-date:   2018-03-16 15:00:00 -0500
+date:   2018-03-16 19:00:00 -0500
 categories: bokeh matplotlib networkx plotly plotting python
 ---
 I've been meaning to write posts using plots. Also, generally, I would like to create plots that I an embed in my browser, as opposed to taking images and using those.
