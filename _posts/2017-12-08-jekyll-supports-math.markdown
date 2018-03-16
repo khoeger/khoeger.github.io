@@ -18,13 +18,13 @@ Next, I needed to create a [default post layout](https://jekyllrb.com/docs/confi
 
 Next, I combined advice from the MathJax site, Gaston Sanchez's blog post, and [mmistake's advice](https://github.com/mmistakes/minimal-mistakes/issues/735), and added the following into `post.html`, above `</article>`.
 
-\{ % if page.mathjax % \}
-{% highlight html %}
-  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+{% highlight liquid %}
+{{ "{% if page.mathjax "}} %}
+<script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+{{ "{% endif "}}%}
 {% endhighlight %}
-\{ % endif % \}
 
-(Side note: If you know read this and how to highlight liquid things/nested ruby? and html properly, let me know!)
+(If you want to learn how I highlighted the liquid templating language above, see this [post](http://tesoriere.com/2010/08/25/liquid-code-in-a-liquid-template-with-jekyll/) or the [markdown file](https://github.com/khoeger/khoeger.github.io/blob/master/_posts/2017-12-08-jekyll-supports-math.markdown) for this page. Lots of brackets and strangely placed quotation marks come into play.)
 
 Lastly, I added `mathjax: true` to the YAML of this post's markdown file, so that I can render mathematics for this article.
 
