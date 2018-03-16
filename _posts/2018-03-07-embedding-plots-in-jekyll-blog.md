@@ -35,9 +35,33 @@ This allowed me to save my work as an html file, and then include the html file.
 - Plot source is my own server
 
 ### Bokeh Cons
-I was not able to create an interactive Graph in Bokeh using the directions for the [Visualizing Network Graphs](https://bokeh.pydata.org/en/latest/docs/user_guide/graph.html) tutorial. Problems specifically stemmed from the fact that in version **0.12.14** or **0.12.16**, which I was using, the package `bokeh.models` is missing the classes `GraphRenderer` and `graphs`.
+- Not able to figure out how to creat an interactive Graph in Bokeh using the directions for the [Visualizing Network Graphs](https://bokeh.pydata.org/en/latest/docs/user_guide/graph.html) tutorial. Problems specifically stemmed from the fact that in version **0.12.14** or **0.12.16**, which I was using, the package `bokeh.models` is missing the classes `GraphRenderer` and `graphs`.
 
 # Matplotlib
+I can make many impressive graphics using Matplotlib, such as different views of a vortex, shown below.
+This is a standard tool for all sorts of academic work with Python.
+
+![Side view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018_03_16/hurricane.png" | absolute_url }})
+
+![Slightly off of top view of a vortex, created from red dots, in Matplotlib]({{ "assets/img/2018/2018_03_16/hurricane_top.png" | absolute_url }})
+
+## Observations
+My plots are not as easily pretty as in Bokeh or Plotly, but they're functional.
+
+### Matplotlib Pros
+- Interactive 2-D Plots in HTML
+- Graphs
+- 3-D Plots
+- Everything is on my computer
+
+Other goodies include adding a [navigation toolbar](https://matplotlib.org/users/navigation_toolbar.html)
+(to be used with GUIs on your computer or built into non-web apps, from my understanding) and
+[animations](https://matplotlib.org/examples/animation/).
+
+
+### Matplotlib Cons
+- Difficult to create [html embeddable images](https://mpld3.github.io/modules/API.html#interactive-d3-rendering-of-matplotlib-images) for some types of plots, such as 3d plots. But for  2-d, this works great
+
 
 # Plotly
 With Plotly, I was able to create an interactive graph, rendered in the browser.
