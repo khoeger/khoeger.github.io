@@ -69,6 +69,7 @@ h2 ~ p {
 .header {
   background-color: #aaa;
   height: 300px;
+  position: relative;
   width: 100%;
 }
 
@@ -103,7 +104,12 @@ h2 ~ p {
   color: #f648f9;/*ed6e2f;*/
 }
 .header-nav > li:first-child a:hover {
-  color: #000;
+  color: #fff;
+  /*color: #000;*/
+}
+.header-logo{
+  bottom: 50px;
+  position: absolute;
 }
 
 /* HERO STYLES */
