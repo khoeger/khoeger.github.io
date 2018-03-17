@@ -68,10 +68,10 @@ h2 ~ p {
 /* HEADER STYLES */
 .header {
   background-color: #000;*/
-  color: #fff;/*
-  height: 300px;
-  position: relative;
-  width: 100%;*/
+  color: #fff;
+  position: fixed;
+  width: 100%;
+  z-index: 20;
 }
 .header-logo{
   background-color: #000;
