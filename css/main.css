@@ -104,6 +104,11 @@ h2 ~ p {
 .header-nav > li:first-child a:hover {
   color: #000;
 }
+.header-logo {
+  bottom: 50px;
+  position: absolute;
+}
+.
 
 /* HERO STYLES */
 .full-hero {
