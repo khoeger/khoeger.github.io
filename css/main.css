@@ -67,7 +67,8 @@ h2 ~ p {
 
 /* HEADER STYLES */
 .header {
-  background-color: #aaa;
+  background-color: #000;
+  color: #fff;
   height: 300px;
   position: relative;
   width: 100%;
@@ -81,11 +82,11 @@ h2 ~ p {
   margin-left: 1em;
 }
 .header-nav > li ~ li {
-  border-left: 1px solid rgba(0, 0, 0, 0.3);
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
   padding-left: 1em;
 }
 .header-nav a {
-  color: #000;
+  color: #fff;
   font-size: 0.8rem;
   font-weight: bold;
   text-decoration: none;
