@@ -68,10 +68,10 @@ h2 ~ p {
 /* HEADER STYLES */
 .header {
   background-color: #000;*/
-  color: #fff;
+  color: #fff;/*
   height: 300px;
   position: relative;
-  width: 100%;
+  width: 100%;*/
 }
 .header-nav {
   float: right;
