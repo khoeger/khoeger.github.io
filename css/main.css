@@ -47,6 +47,10 @@ a img {
 /* END RESET*/
 
 /* GLOBAL STYLES */
+html {
+  box-shadow: 0 0 0 30px #000 inset;
+  padding: 0 29.5px; /*30px;*/
+}
 body {
   font-family: helvetica, arial, sans;
 }
