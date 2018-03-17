@@ -74,6 +74,14 @@ a {
   text-decoration: none;
   text-transform: uppercase;
 }
+.header-nav a:hover,
+.header-nav a:active {
+  color: #f648f9;/*ed6e2f;*/
+}
+.header-logo:hover,
+.header-logo:active {
+  opacity: 0.5;
+}
 
 /* HERO STYLES */
 .full-hero {
