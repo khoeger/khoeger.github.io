@@ -161,6 +161,7 @@ h2 ~ p {
 }
 .hero-home {
   background-image: url(../assets/img/hero/crocuses.jpg);
+  background-position: center top;
 }
 
 /* SOCIAL STYLES */
