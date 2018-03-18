@@ -93,7 +93,7 @@ h2 ~ p {
   width: 100%;
   z-index: 20;
 }
-.header-logo{
+.header-logo {
   background-color: #000;
   box-sizing: border-box;
   display: block;
@@ -139,7 +139,7 @@ h2 ~ p {
   padding: 10vh 0 15vh;
   text-align: center;
 }
-.footer-logo img{
+.footer-logo img {
   width: 50px;
 }
 .footer h3 {
@@ -177,7 +177,8 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url(../assets/img/hero/bark.jpg);
+  background-image: url("../assets/img/hero/maple.jpg");
+  /*background-image: url({{"assets/img/hero/maple.jpg" | absolute_url}});*/
   background-position: center top;
 }
 .hero-content {
