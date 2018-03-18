@@ -160,10 +160,30 @@ h2 ~ p {
   padding-top: 10vh;
 }
 .hero-home {
-  background-image: url(../assets/img/hero/crocuses.jpg);
+  background-image: url(../assets/img/hero/bark.jpg);
   background-position: center top;
 }
-
+.hero-content {
+  color: #fff;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+.hero-content h1 {
+  color: rgba(255,255,255,0.8);
+  font-size: 7vw;
+  margin-bottom: 0.25em;
+}
+.hero-content .social-link {
+  background-color: rgba(255,255,255,0.8);
+  color: #557c83;
+}
+.hero-content .social-link:hover {
+  background-color: #000;
+  color: #fff;
+}
 /* SOCIAL STYLES */
 .social-link {
   background: rgba(150, 150, 150, 0.5);
