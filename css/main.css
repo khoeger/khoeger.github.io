@@ -74,6 +74,7 @@ a {
 }
 p {
   line-height: 1.5;
+  margin: 0.75em 0;
 }
 h2 ~ p {
   font-size: 0.8em;
@@ -185,7 +186,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url("../assets/img/hero/maple.jpg");
+  background-image: url("../assets/img/hero/bark.jpg");
   /*background-image: url({{"assets/img/hero/maple.jpg" | absolute_url}});*/
   background-position: center top;
 }
@@ -249,16 +250,27 @@ h2 ~ p {
   text-align: center;
 }
 .home-callout {
+  display: flex;
+  align-items: center;
   background-color: #000;
   color: #fff;
   padding: 7vh 0;
 }
+.home-callout h3 {
+  color: inherit;
+  margin-top: 1em;
+}
 .callout-title {
+  flex-grow: 1;
+  flex-basis: 0;
   font-size: 5.75vw;
   text-align: right;
   text-transform: uppercase;
 }
 .callout-copy {
+  flex-shrink: 0;
+  flex-basis: 45em;
+  padding: 0 3vw;
   font-size: 0.8rem;
 }
 
