@@ -30,7 +30,7 @@ soundcloud_username: katarina-hoeger
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 permalink: /:year/:month/:day/:title
