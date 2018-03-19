@@ -360,6 +360,9 @@ h2 ~ p {
 .gallery-thumbs .current img {
   box-shadow: 0 0 0 5px #f648f9;/*ed6e2f;*/
 }
+.gallery-thumbs .current {
+  cursor: default;
+}
 .gallery-photo {
   position: relative;
 }
