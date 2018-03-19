@@ -14,22 +14,22 @@ layout: default
       </ul>
     </div>
     <div class="col col-content blog-previews">
+      {% for post in site.posts %}
       <div class="blog-posts">
         <header class="post-header">
-          <h2><a href="">I am the title of an article</a></h2>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <div class="post-byline">
-  <img src="https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150">
-            <a href="#" class="social-link">Tw</a>
-            by: Me, Myself, and I
-            <span> - Month Day, year</span>
+            <img src="{{ post.gravatar }}"/>
+            <a href="{{ post.authorTwitter }}" class="social-link">Tw</a>
+            by: {{ post.author }}
+            <span> -{{ post.date | date '%B %d, %Y' }}</span>
           </div>
         </header>
-      <div class="posts-image" style="background-image:url('/assets/img/hero/maple.jpg')">
+      <div class="posts-image" style="background-image:url({{ post.postHero }})">
       </div>
-        <p>
-          Blurb
-        </p>
+        {{ post.excerpt }}
       </div>
+      {% endfor %} 
     </div>
   </div>
 </div>
