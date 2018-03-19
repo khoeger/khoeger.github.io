@@ -187,7 +187,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url("../assets/img/hero/bark.jpg");
+  background-image: url("../assets/img/hero/rainbowWall.jpg");
   /*background-image: url({{"assets/img/hero/maple.jpg" | absolute_url}});*/
   background-position: center top;
 }
