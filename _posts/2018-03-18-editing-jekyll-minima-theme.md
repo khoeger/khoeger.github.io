@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Editing Jekyll Minima Theme
-postHero: "/assets/img/hero/crocuses.jpg"
+postHero: /assets/img/hero/crocuses.jpg
 author: Katarina Hoeger
 authorTwitter: http://twitter.com/kfhoeger
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
@@ -12,6 +12,6 @@ Minima's great, but everyone's blog looked like mine. So, I decide to follow alo
 I needed a sample post while following along with Learn Enough Society's [tutorial](https://www.learnenough.com/css-and-layout-tutorial?single_page=1#code-post-start).
 
 We'll add another image of a cat below, pulled from online.
-![kitten]("http://placekitten.com/g/400/200").
+![kitten]({{ "http://placekitten.com/g/400/200" | absolute_url }}).
 
 Ta-da! I can continue on with the tutorial.
