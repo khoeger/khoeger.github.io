@@ -13,6 +13,10 @@ I needed a sample post while following along with it. While I have many posts al
 
 For the tutorial, we pull a image of a cat from online. While they used an `Html` method, I've used the standard `Liquid` way.
 
-![kitten]({{ "http://placekitten.com/g/400/200" | absolute_url }}){: .pull-left}
+![kitten]({{ "http://placekitten.com/g/400/200" | absolute_url }}){: .pull-left }
 
-Ta-da! I can continue on with the tutorial.
+Now, I get to type lots of random text. I want to see if the kitten will be properly surrounded by the text. It should be on the left, with text wrapping it from a nice distance to the right.
+
+Notice, it works! But only if I have a lot of text after the picture. Otherwise, the footer interferes.
+
+No matter. For now, this looks decent enough I can continue on with the tutorial.
