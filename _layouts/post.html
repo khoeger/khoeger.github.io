@@ -13,8 +13,13 @@ layout: default
         <a href="{{ page.authorTwitter }}" class="social-link">Tw</a>
         by: {{ page.author }}
       -->
-        <span>{{ page.date | date: site.date_format }}</span>
-      </div>
+          {% if page.author %}
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            </span>
+          {% endif %}
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            <span>{{ page.date | date: site.date_format }}</span>
+        </div>
     </header>
       {{ content}}
   </article>
