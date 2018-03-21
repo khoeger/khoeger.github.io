@@ -28,6 +28,7 @@ twitter_username: kfhoeger
 github_username:  khoeger
 soundcloud_username: katarina-hoeger
 date_format: "%-d %B %Y"
+short_date_format: "%-d %B"
 
 # Build settings
 markdown: kramdown
