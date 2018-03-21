@@ -19,4 +19,6 @@ Now, I get to type lots of random text. I want to see if the kitten will be prop
 
 Notice, it works! But only if I have a lot of text after the picture. Otherwise, the footer interferes.
 
-No matter. For now, this looks decent enough I can continue on with the tutorial.
+No matter. For now, this post looks decent enough I can continue on with the tutorial.
+
+I will have to come back in the future, and make a more detailed post and css exploring what each of the #H1, ##H2, ... , ######H6 tags end up doing in this new layout. Some of my past posts are currently formatted strangely. 
