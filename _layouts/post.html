@@ -35,9 +35,11 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content}}
     </div>
-    <footer class="post-footer">
-      {{ page.postFooter }}
-    </footer>
+      <footer class="post-footer">
+        {% if page.postFooter %}
+        {{ page.postFooter }}
+        {% endif %}
+      </footer>
 
     {% if site.disqus.shortname %}
       {% include disqus_comments.html %}

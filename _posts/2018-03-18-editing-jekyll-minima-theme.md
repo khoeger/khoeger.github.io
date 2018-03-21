@@ -11,7 +11,8 @@ Minima's great, but everyone's blog looked like mine. So, I decide to follow alo
 
 I needed a sample post while following along with it. While I have many posts already, I'm using this one as the post that I can compare specifically with their example.
 
-For the tutorial, we pull a image of a cat from online. While they used an `Html` method, I've used the standard `Liquid` way. 
-![kitten]({{ "http://placekitten.com/g/400/200" | absolute_url }}).
+For the tutorial, we pull a image of a cat from online. While they used an `Html` method, I've used the standard `Liquid` way.
+
+![kitten]({{ "http://placekitten.com/g/400/200" | absolute_url }}){: .pull-left}
 
 Ta-da! I can continue on with the tutorial.
