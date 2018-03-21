@@ -3,7 +3,10 @@ layout: default
 ---
 <div class="post">
   <div class ="half-hero" style="background-image:url({{ page.postHero }})"></div>
- {{ content}}
+
+  <article class="page" itemscope itemtype="http://schema.org/BlogPosting">
+  {{ content}}
+</article>
 </div>
 <!--
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
