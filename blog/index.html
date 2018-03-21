@@ -22,7 +22,7 @@ layout: default
             <img src="{{ post.gravatar }}"/>
             <a href="{{ post.authorTwitter }}" class="social-link">Tw</a>
             by: {{ post.author }}
-            <span> - {{ post.date | date '%B %d, %Y' }}</span>
+            <span> - {{ post.date | date: '%B %d, %Y' }}</span>
           </div>
         </header>
         {% if post.postHero %}
