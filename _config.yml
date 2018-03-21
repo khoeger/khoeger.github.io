@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kfhoeger
 github_username:  khoeger
 soundcloud_username: katarina-hoeger
+date_format: "%-d %B %Y"
 
 # Build settings
 markdown: kramdown
