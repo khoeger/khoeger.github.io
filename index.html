@@ -52,11 +52,13 @@ layout: default
         </a>
       </h2>
       <div class="post-byline">
+        <!--
         <img src=" {{ site.posts.first.gravatar }}">
         <a href="{{ site.posts.first.authorTwitter }}"
         class="social-link">Tw</a>
         by: {{site.posts.first.author }}
-        <span> - {{ site.posts.first.date | date: site.date_format }}</span>
+        <span> - -->
+        <span> {{ site.posts.first.date | date: site.date_format }}</span>
       </div>
     </header>
     <div class="posts-image"
