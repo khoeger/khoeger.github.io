@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modelling a Hurricane"
-date:   2018-03-23 19:00:00 -0500
+date:   2018-04-20 19:00:00 -0500
 categories: matplotlib plotting python
 mathjax: true
 ---
