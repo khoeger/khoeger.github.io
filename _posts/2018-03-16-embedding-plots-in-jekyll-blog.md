@@ -9,7 +9,9 @@ I've been meaning to write posts using plots. Also, generally, I would like to c
 I plan to use python to create the graphs, so the packages I use should take python code as input.
 # Bokeh
 With Bokeh, I created the following interactive plot.
+{% comment %}
 {% include 2018/03-16/sinCos_3_13_2018.html %}
+{% endcomment %}
 
 ## Plotting
 I can make plots! And I have a lot of control over them. And they're in html form, so I can generate them by adding the following to my python code:
