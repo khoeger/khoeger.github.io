@@ -83,25 +83,6 @@ h4 {
   font-weight: bold;
   text-transform: uppercase;
 }
-ol {
-  list-style-type: decimal;
-  list-style-position: outside;
-  margin: 2em 2em 2em 2em;
-  font-size: 1em;
-  /*color: grey;*/
-}
-ol li{
-  margin: 1em;
-}
-ul {
-  list-style-type: none;
-  list-style-position: outside;
-  margin: 2em 2em 2em 2em;
-  font-size: 1em;
-}
-ul li{
-  margin: 1em;
-}
 /* NAV LINKS */
 .nav-links a {
   font-size: 0.8rem;
@@ -516,6 +497,25 @@ ul li{
 .post-content h6{
   font-size: 1em;
   font-style: italic;
+}
+.post-content ol {
+  list-style-type: decimal;
+  list-style-position: outside;
+  margin: 2em 2em 2em 2em;
+  font-size: 1em;
+  /*color: grey;*/
+}
+.post-content ol li{
+  margin: 1em;
+}
+.post-content ul {
+  list-style-type: none;
+  list-style-position: outside;
+  margin: 2em 2em 2em 2em;
+  font-size: 1em;
+}
+.post-content ul li{
+  margin: 1em;
 }
 /*
 .post-content h2 ~ p{
