@@ -78,10 +78,29 @@ p {
   line-height: 1.5;
   margin: 0.75em 0;
 }
-h4{
+h4 {
   color: #999;
   font-weight: bold;
   text-transform: uppercase;
+}
+ol {
+  list-style-type: decimal;
+  list-style-position: outside;
+  margin: 2em 2em 2em 2em;
+  font-size: 1em;
+  /*color: grey;*/
+}
+ol li{
+  margin: 1em;
+}
+ul {
+  list-style-type: none;
+  list-style-position: outside;
+  margin: 2em 2em 2em 2em;
+  font-size: 1em;
+}
+ul li{
+  margin: 1em;
 }
 /* NAV LINKS */
 .nav-links a {
