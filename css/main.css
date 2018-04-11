@@ -78,14 +78,6 @@ p {
   line-height: 1.5;
   margin: 0.75em 0;
 }
-/*
-h2 ~ p {
-  font-size: 0.8em;
-  font-style: italic;
-  margin: 1em auto 0;
-  max-width: 70%;
-  text-align: center;
-}*/
 h4{
   color: #999;
   font-weight: bold;
