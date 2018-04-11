@@ -542,6 +542,9 @@ h4 {
 .post-content {
   font-size: 1.1rem;
 }
+.post-content img{
+  max-width: 100%;
+}
 .post-footer {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   font-style: italic;
