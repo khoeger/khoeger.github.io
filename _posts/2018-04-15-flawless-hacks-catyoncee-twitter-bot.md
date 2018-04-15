@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Flawless Hacks and Catyoncé Twitter Bot"
-date:   2018-04-14 15:00:00 -0500
+date:   2018-04-15 10:00:00 -0500
 categories: api Beyoncé bot cats FlawlessHacks glitch js json hackathon petfinder twitter twitterbot
+published: false
 postHero: assets/img/2018/2018-04-14/flawlessNotClawless.png
 ---
 Last Saturday, April 7, I attended [Flawless Hackathon 2018](http://flawlesshacks.com).
