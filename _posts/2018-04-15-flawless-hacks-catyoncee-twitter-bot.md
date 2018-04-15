@@ -3,6 +3,7 @@ layout: post
 title:  "Flawless Hacks and Catyoncé Twitter Bot"
 date:   2018-04-14 15:00:00 -0500
 categories: api Beyoncé bot cats FlawlessHacks glitch js json hackathon petfinder twitter twitterbot
+postHero: assets/img/2018/2018-04-14/flawlessNotClawless.png
 ---
 Last Saturday, April 7, I attended [Flawless Hackathon 2018](http://flawlesshacks.com).
 
@@ -44,4 +45,4 @@ The information returned needed to be reformatted a bit before I could parse it.
 
 ## Final Thoughts
 
-I really enjoyed being a participant at Flawless Hacks! I planted what I hope are the seeds of friendship with some awesome female or non-binary gender identifying participants, learned a lot, and made a cute project to show off. As a hackathon organizer (yay, [Monthly Music Hackathon NYC](http://monthlymusichackathon.org)!) myself, I hope that participants of my hackathons enjoy themselves at least as much.
+I really enjoyed being a participant at Flawless Hacks! I planted what I hope are the seeds of friendship with some awesome female or non-binary gender identifying participants, learned a lot, and made a cute project to show off. As a hackathon organizer myself, (yay, [Monthly Music Hackathon NYC](http://monthlymusichackathon.org)!), I hope that participants of my hackathons enjoy themselves at least as much.
