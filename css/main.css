@@ -542,7 +542,7 @@ h4 {
 .post-content {
   font-size: 1.1rem;
 }
-.post-content img{
+.post-content img, iframe{
   max-width: 100%;
 }
 .post-footer {
