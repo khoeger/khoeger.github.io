@@ -542,7 +542,8 @@ h4 {
 .post-content {
   font-size: 1.1rem;
 }
-.post-content img, iframe{
+.post-content iframe, img,
+              mpld3-figure {
   max-width: 100%;
 }
 .post-footer {
@@ -551,4 +552,8 @@ h4 {
   font-size: 0.8em;
   margin-top: 3em;
   padding-top: 2em;
+}
+/*BAD! Hard CODING*/
+.post-content fig_el470815911030150648777209330{
+  max-width: 100%;
 }
