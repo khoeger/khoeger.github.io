@@ -69,6 +69,7 @@ Other goodies include adding a [navigation toolbar](https://matplotlib.org/users
 
 ### Matplotlib Cons
 - Difficult to create [html embeddable images](https://mpld3.github.io/modules/API.html#interactive-d3-rendering-of-matplotlib-images), especially for 3d plots.
+- *[Added April 15, 2018]* The embedded plots are not responsive. I have wrapped the output html in a `div` and given it a class, which helps, but in the long run, the plot will not reduce in size to fit a smaller screen. When working with fancier CSS, this may cause design flaws. See this post in a smaller browser setting for proof.
 
 
 # Plotly
