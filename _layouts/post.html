@@ -41,6 +41,14 @@ layout: default
     <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
     {% endif %}
 
+    {% if page.bokeh %}
+    <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.css" type="text/css" />
+    <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.css" type="text/css" />
+    <script src="https://cdn.pydata.org/bokeh/release/bokeh-tables-0.12.6.min.js"></script>
+    {% endif %}
+
   </article>
 </div>
 <!--
