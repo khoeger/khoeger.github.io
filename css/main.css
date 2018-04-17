@@ -100,7 +100,7 @@ h4 {
   color: #fff;
   position: fixed;
   width: 100%;
-  z-index: 20;
+  z-index: 200;
 }
 .header-logo {
   background-color: #000;
@@ -542,7 +542,8 @@ h4 {
 .post-content {
   font-size: 1.1rem;
 }
-.post-content iframe, img,
+.post-content bk-root,
+              iframe, img,
               mpld3-plot {
   max-width: 100%;
 }
@@ -553,4 +554,3 @@ h4 {
   margin-top: 3em;
   padding-top: 2em;
 }
-/* TEST Function */
