@@ -65,10 +65,10 @@ p.legend.label_text_alpha = 0.5
 show(p)
 script, div = components(p)
 
-outFile = open("sinCos_4_16_2018_script.html",'w')
+outFile = open("sinCos_4_17_2018_script.html",'w')
 outFile.write(script)
 outFile.close()
 
-outFile2 = open("sinCos_4_16_2018_div.html",'w')
+outFile2 = open("sinCos_4_17_2018_div.html",'w')
 outFile2.write(div)
 outFile2.close()
