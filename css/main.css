@@ -72,7 +72,7 @@ h2 {
   font-size: 2em;
 }
 a {
-  color: #6397b5;
+  color: #2773FF;/*#6397b5;*/
 }
 p {
   line-height: 1.5;
@@ -479,6 +479,13 @@ h4 {
   max-width: 40em;
   width: 85vw;
 }
+.post-content h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #9A1FCC;
+  text-align: left;
+  margin: 1em 0em;
+}
 .post-content h1{
   font-size: 5vw;
 }
@@ -530,14 +537,22 @@ h4 {
   margin: 2em -2% 2em 2em;
 }
 .post-aside {
-  background-color: rgba(0, 0, 0, 0.01);
+  background-color: #FFF4A7;/*rgba(0, 0, 0, 0.01);*/
   float: right;
   margin: 0 0 2em 2em;
   padding: 2em;
 }
+.post-aside h4 {
+  color: #0CA609;/*#999;*/
+}
 .post .post-header {
   margin-bottom: 2.5em;
   text-align: center;
+}
+.post .post-byline {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 3vh;
 }
 .post-content {
   font-size: 1.1rem;
