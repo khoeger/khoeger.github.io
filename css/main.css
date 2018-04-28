@@ -569,3 +569,36 @@ h4 {
   margin-top: 3em;
   padding-top: 2em;
 }
+
+/* -- Mobile Ready, Responsive Design -- */
+@media (max-width: 800px) {
+  html {
+    box-shadow: none;
+    padding: 0;
+  }
+  /* Header Styles */
+  .header-nav {
+    padding: 2vh 1em 0 0;
+  }
+  .header-nav > li {
+   margin-left: 0.25em;
+  }
+  .header-nav > li ~ li {
+  padding-left: 0.25em;
+  }
+  .nav-links a {
+  font-size: 3.25vw;
+  }
+  .header-logo {
+    left: auto;
+  }
+  /* Blog Styles */
+  .post-aside {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .half-hero {
+    display: none;
+  }
+}
