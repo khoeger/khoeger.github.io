@@ -152,6 +152,7 @@ h4 {
   width: 50px;
 }
 .footer h3 {
+  text-align: inherit;
   color: #fff;
   padding-top: 1.5em;
   text-transform: uppercase;
