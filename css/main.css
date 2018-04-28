@@ -612,6 +612,12 @@ h4 {
   .post-aside {
     display: none;
   }
+  .blog-recent {
+    display: none;
+  }
+  .blog-previews {
+    padding: 0;
+  }
   /* GALLERY STYLES */
   .gallery {
     flex-direction: column;
