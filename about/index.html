@@ -1,0 +1,8 @@
+---
+layout: about
+title: About
+---
+{% capture my_include %}
+{% include_relative about.md %}
+{% endcapture %}
+{{ my_include | markdownify }}
