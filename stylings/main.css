@@ -500,6 +500,9 @@ h4 {
   height: 2.5em;
   vertical-align: middle;
 }
+.post-title {
+  font-size: 3em;
+}
 .posts-image {
   background-position: center;
   background-size: cover;
