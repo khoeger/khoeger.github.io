@@ -53,6 +53,15 @@ a img {
   --kh-edge: #000;
   --kh-links: #2773FF;
   --kh-borders: #FFF;
+  --kh-footer-span: #AAA;
+  --kh-footer-nav: #CCC;
+  --kh-hero-background:#C7DBFC;
+  --kh-social-link-detail: #557C83;
+  --kh-headers: #9A1FCC;
+  --kh-post-aside-background: #FFF4A7;
+  --kh-post-aside-header: #0CA609;
+  --kh-drop-menu: #333;
+  --kh-responsive-navigation: #444;
 }
 html {
   box-shadow: 0 0 0 30px var(--kh-edge) inset;
@@ -187,14 +196,14 @@ h4 {
   text-transform: uppercase;
 }
 .footer h3 span {
-  color: #aaa;
+  color: var(--kh-footer-span);
 }
 .footer-nav li {
   display: inline-block;
   margin: 2em 1em 0;
 }
 .footer-nav a {
-  color: #ccc;
+  color: var(--kh-footer-nav);
 }
 /* COLUMN STYLES */
 .col-three {
@@ -248,7 +257,7 @@ h4 {
 
 /* HERO STYLES */
 .full-hero {
-  background-color: #c7dbfc;
+  background-color: var(--kh-hero-background);
   background-size: cover;/*300px;*/
   box-sizing: border-box;
   height: 90vh; /* 100vh;
@@ -285,7 +294,7 @@ h4 {
 }
 .hero-content .social-link {
   background-color: rgba(255,255,255,0.8);
-  color: #557c83;
+  color: var(--kh-social-link-detail);
 }
 .hero-content .social-link:hover {
   background-color: var(--kh-edge);
@@ -512,7 +521,7 @@ h4 {
 .post-content h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   text-transform: uppercase;
-  color: #9A1FCC;
+  color: var(--kh-headers);
   text-align: left;
   margin: 1em 0em;
 }
@@ -567,13 +576,13 @@ h4 {
   margin: 2em -2% 2em 2em;
 }
 .post-aside {
-  background-color: #FFF4A7;/*rgba(0, 0, 0, 0.01);*/
+  background-color: var(--kh-post-aside-background);/*rgba(0, 0, 0, 0.01);*/
   float: right;
   margin: 0 0 2em 2em;
   padding: 2em;
 }
 .post-aside h4 {
-  color: #0CA609;/*#999;*/
+  color: var(--kh-post-aside-header);/*#999;*/
 }
 .post .post-header {
   margin-bottom: 2.5em;
@@ -671,7 +680,7 @@ h4 {
   border-radius: 0 0 5px 5px;
 }
 .drop-menu a {
-  color: #333;
+  color: var(--kh-drop-menu);
   display: block;
   font-weight: normal;
   padding: 0.5em 2em 0.5em 1em;
@@ -681,7 +690,7 @@ h4 {
 }
 .drop-menu a:hover {
   background-color: rgba(0,0,0,0.1);
-  color: #333;
+  color: var(--kh-drop-menu);
 }
 /* HIDE IN THE FOOTER */
 .footer .dropdown:hover .drop-menu,
@@ -724,7 +733,7 @@ h4 {
     color: white;
   }
   .header-nav {
-    background-color: #444;
+    background-color: var(--kh-responsive-navigation)
     box-sizing: border-box;
     left: 0;
     max-height: 0;
