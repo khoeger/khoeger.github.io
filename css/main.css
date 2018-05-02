@@ -732,6 +732,9 @@ h4 {
     text-transform: uppercase;
     color: white;
   }
+  /*.show-mobile-menu span {
+    background-color: white; /-*var(--kh-borders);*-/
+  }*/
   .header-nav {
     background-color: var(--kh-responsive-navigation)
     box-sizing: border-box;
