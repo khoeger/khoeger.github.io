@@ -55,6 +55,7 @@ a img {
   --kh-borders: #FFF;
   --kh-footer-span: #AAA;
   --kh-footer-nav: #CCC;
+  --kh-footer-desc: #c306c6;
   --kh-hero-background:#C7DBFC;
   --kh-social-link-detail: #557C83;
   --kh-headers: #9A1FCC;
@@ -193,7 +194,7 @@ h4 {
   text-transform: uppercase;
 }
 .footer h3 span {
-  color: var(--kh-footer-span);
+  color: var(--kh-main-highlight);
 }
 .footer-nav li {
   display: inline-block;
