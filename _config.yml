@@ -24,12 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: katarinahoeger
 twitter_username: kfhoeger
 github_username:  khoeger
+soundcloud_username: katarina-hoeger
+date_format: "%-d %B %Y"
+short_date_format: "%-d %B"
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 permalink: /:year/:month/:day/:title

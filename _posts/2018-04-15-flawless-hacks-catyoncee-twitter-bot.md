@@ -24,7 +24,6 @@ I also attended another workshop, taught by [Omayeli](https://twitter.com/YellzH
 
 Catyoncé is a twitter both that tweets catified versions of Beyoncé lyrics alongside pictures of cats from shelters, all findable on Petfinder.com. As someone who does not know much about javascript, JSON, and jQuery, I was quite proud of myself for my contributions to the project. These included pulling data from the Petfinder API, and figuring out how to make the app tweet the shelter name and location.
 
-<!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe src="https://glitch.com/embed/#!/embed/cat-yonce?path=server.js" alt="cat-yonce on glitch" style="height: 100%; width: 100%; border: 0;"></iframe>
 </div>

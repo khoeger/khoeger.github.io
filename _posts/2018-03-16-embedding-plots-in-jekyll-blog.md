@@ -3,13 +3,18 @@ layout: post
 title:  "Embedding Plots in Jekyll Blogs"
 date:   2018-03-16 19:00:00 -0500
 categories: bokeh matplotlib networkx plotly plotting python
+postFooter: Edited on 17 April 2018.
+bokeh: true
 ---
 I've been meaning to write posts using plots. Also, generally, I would like to create plots that I an embed in my browser, as opposed to taking images and using those.
 
 I plan to use python to create the graphs, so the packages I use should take python code as input.
 # Bokeh
 With Bokeh, I created the following interactive plot.
-{% include 2018/03-16/sinCos_3_13_2018.html %}
+
+{% include 2018/03-16/sinCos_4_16_2018_div.html %}
+{% include 2018/03-16/sinCos_4_16_2018_script.html %}
+
 
 ## Plotting
 I can make plots! And I have a lot of control over them. And they're in html form, so I can generate them by adding the following to my python code:
@@ -21,11 +26,50 @@ outFile.close()
 {% endhighlight %}
 This allowed me to save my work as an html file, and then include the html file. The only thing to remember? Remove `<!DOCTYPE html>` from the top of the code.
 
-### Coding the Plot
+### What code did I use?
+When using standard minima, it was relativley easy to embedd the plot. I just generated an html file using the code below.
+
 {% highlight python%}
 {% include 2018/03-16/sinCosine.py %}
 {% endhighlight %}
 
+Then, I included it using the `_includes\filname.html` and `{{ "{%  include filename.html "}} %}` folder and inclusion system standard to jekyll.
+
+#### Generate the plot
+This code generated the plot, and saved the results of the necessary `<div>` and
+`<script>` that then get included.
+{% highlight python%}
+{% include 2018/03-16/sinCosine2.py %}
+{% endhighlight %}
+
+#### Embed the `<div>` and `<script>`
+To embed the `<div>` and `<script>` files, I added them under the `_includes` folder. Then, I included them in this blog post's markdown file using
+
+{% highlight liquid %}
+{{ "{% include 2018/03-16/sinCos_4_16_2018_div.html "}} %}
+{{ "{%  include 2018/03-16/sinCos_4_16_2018_script.html "}} %}
+{% endhighlight %}
+
+#### Getting the graph formatting
+##### Let the post know it has a bokeh plot
+I edited the post's formatter to include the statement
+{% highlight liquid %}
+bokeh: true
+---
+{% endhighlight %}
+
+##### Include the bokeh plot formatting
+To get the graph to render, I needed to include the following in my post layout, stored under `_layouts\post.html`.
+
+{% highlight liquid %}
+{{ "{%if page.bokeh "}} %}
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.css" type="text/css" />
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.js"></script>
+{{ "{% endif "}} %}
+{% endhighlight %}
+
+Note that I need to have the correct version of bokeh listed (`0.12.15`).
+As bokeh improves, I will need to come back and list the proper bokeh versions' stylesheet calls to render the graphs.
 
 ## Observations
 ### Bokeh Pros
@@ -67,6 +111,7 @@ Other goodies include adding a [navigation toolbar](https://matplotlib.org/users
 
 ### Matplotlib Cons
 - Difficult to create [html embeddable images](https://mpld3.github.io/modules/API.html#interactive-d3-rendering-of-matplotlib-images), especially for 3d plots.
+- *[Added April 15, 2018]* The embedded plots are not responsive. I have wrapped the output html in a `div` and given it a class, which helps, but in the long run, the plot will not reduce in size to fit a smaller screen. When working with fancier CSS, this may cause design flaws. See this post in a smaller browser setting for proof.
 
 
 # Plotly
@@ -76,9 +121,9 @@ With Plotly, I was able to create an interactive graph, rendered in the browser.
 
 ## Running the Tutorial's Example
 I followed along with Plotly's instructions for creating a random [network graph](https://plot.ly/python/network-graphs/) very closely. My code is almost the same as written, but there are two slight modifications I needed to run the program from the command line.
+
 ### Change to Networkx package
-Python's **`networkx`** package underwent a change between when the tutorial was released and when I ran the tutorial. The `networkx.classes.graph.Graph` class's attribute `adjacency_list()` has been renamed to `adjacency()`. Thus, when running the code, I needed to change the section of the tutorial where we find nodes connected with each other from
-to
+Python's **`networkx`** package underwent a change between when the tutorial was released and when I ran the tutorial. The `networkx.classes.graph.Graph` class's attribute `adjacency_list()` has been renamed to `adjacency()`. Thus, when running the code, I needed to change the section of the tutorial where we find nodes connected with each other to
 {%highlight python%}
 for node, adjacencies in enumerate(G.adjacency()):
 {%endhighlight%}
