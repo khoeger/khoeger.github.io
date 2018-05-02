@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Website Layout"
-date:   2018-05-01 16:15:00 -0500
+date:   2018-05-02 16:15:00 -0500
 categories: css html jekyll maintenance tutorial website
 published: true
 postHero: /assets/img/2018/2018-05-01/new-blog-layout.png
