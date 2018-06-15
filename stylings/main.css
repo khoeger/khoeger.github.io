@@ -549,7 +549,8 @@ h4 {
   list-style-type: decimal;
   list-style-position: outside;
   margin: 2em 2em 2em 2em;
-  font-size: 1em;
+  font-size: 0.9em;
+  line-height: 1.25em;
   /*color: grey;*/
 }
 .post-content ol li{
@@ -559,7 +560,8 @@ h4 {
   list-style-type: none;
   list-style-position: outside;
   margin: 2em 2em 2em 2em;
-  font-size: 1em;
+  font-size: 0.9em;
+  line-height: 1.25em;
 }
 .post-content ul li{
   margin: 1em;
