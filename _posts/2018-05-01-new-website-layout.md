@@ -5,6 +5,7 @@ date:   2018-05-02 16:15:00 -0500
 categories: css html jekyll maintenance tutorial website
 published: true
 postHero: /assets/img/2018/2018-05-01/new-blog-layout.png
+postFooter: June 14, 2018... Continuing the list of edits to make. 1) Reduce all image file sizes. 2) Add RSS Feed. 3) Lazy-load images. 
 ---
 I have a new website layout!
 
@@ -44,5 +45,5 @@ Some include
 If you see anything that you think I should change, [shoot me an email](mailto:site.email).
 
 ## Special Thanks
-I followed along with Michael Hartl's [Learn Enough CSS and Layout To Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial) tutorial. 
+I followed along with Michael Hartl's [Learn Enough CSS and Layout To Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial) tutorial.
 Additionally, I found inspiration, and borrowed code from the Minima theme team.
