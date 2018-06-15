@@ -4,7 +4,7 @@ title:  "Updates and New Notebook"
 date:   2018-06-14 16:15:00 -0500
 categories: updates notebook
 published: true
-postHero: /assets/img/2018/2018-05-01/new-blog-layout.png
+postHero: /assets/img/2018/2018-06-14/hero.jpg
 ---
 It's been a while since I last blogged.
 So many things have happened in the last month and a bit,
@@ -21,6 +21,10 @@ I will elaborate more on these points in following posts.
 - I had many personal breakthroughs and understandings about what it means to me to be an artist, and have examined its feasibility.
 - I have moving sound, one version of a mathematical model to use with it, and a way to read musicxml scores in python.
 - I learned lots about better web practices, and will try to implement them slowly in this blog. Things like lazy-loading images, how to choose better images for your purpose, hosting what you can on your own server, style rules, and about more dynamic ways to approach using CSS. Much of this was courtesy of Codeland...
+
+I tried to apply some of the web practices in this post.
+I referenced [this article](https://kinsta.com/blog/optimize-images-for-web/)
+and learned that RIOT would help me optimize my image sizes.   
 
 # Notebook Commemoration
 I have been writing all my computer music related notes into a notebook since January 2017. This notebook has reached it's end! Yay for perseverance, it's neat to look back and see all I've learned, and what projects I've worked on since then.
