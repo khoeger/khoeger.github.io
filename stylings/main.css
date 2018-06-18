@@ -273,7 +273,7 @@ h4 {
   width: 0;
 }
 .hero-home {
-  background-image: url("../assets/img/hero/rainbowWall.jpg");
+  background-image: url("../assets/img/hero/rainbowWall_small.jpg");
   /*background-image: url({{"assets/img/hero/maple.jpg" | absolute_url}});*/
   background-position: center top;
 }
