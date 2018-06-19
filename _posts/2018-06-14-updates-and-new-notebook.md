@@ -2,7 +2,7 @@
 layout: post
 title:  "Updates and New Notebook"
 date:   2018-06-14 16:15:00 -0500
-categories: updates notebook
+categories: notebook updates
 published: true
 postHero: /assets/img/2018/2018-06-14/hero.jpg
 ---
