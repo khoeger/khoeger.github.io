@@ -9,6 +9,9 @@ title: Blog
       {% include recent-post-list.html %}
     </div>
     <div class="col col-content blog-previews">
+      <p class="rss-subscribe">subscribe
+        <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+      </p>
       {% for post in site.posts %}
       <div class="blog-posts">
         <header class="post-header">
