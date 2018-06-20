@@ -7,8 +7,8 @@ published: true
 postHero: /assets/img/2018/2018-06-20/sample1.png
 ---
 My current project involves sounds moving in space around a listener's head.
+This post explores one way to make it seem like sound is moving.
 
-Therefore, it is important to learn how to send sound around the listener's head.
 As I am most comfortable coding in python, and can generate text files using it,
 I decided to figure out the mathematical formulas,
 create a Csound `.csd` file that uses this spatial information,
@@ -17,7 +17,7 @@ and render the audio file. To do all this, I needed to investigate how to make i
 # Csound's HRTFMOVE2
 Csound has a few models that can be used to spatially locate sound.
 [HRTFMOVE2](http://www.csounds.com/manual/html/hrtfmove2.html) is a model that
-places a unit sphere around the listenr's head.
+places a unit sphere around the listener's head.
 You can make sound appear to come from anywhere on that sphere.
 
 ## General Csound Background info
@@ -28,7 +28,7 @@ If not, read it. Knowing the organization will help.
 
 In Csound, `;` are comments.
 
-All Csound code starts and ends opening and closing statements, given below.
+All Csound code starts and ends with opening and closing statements, given below.
 This is similar to how HTML starts with `<!Doctype HTML><html>` and ends with `</html>`.
 {% highlight csound %}
 <CsoundSynthesizer>
@@ -115,9 +115,9 @@ ksmps = 1
 nchnls = 2
 {% endhighlight %}
 
-Next, we make two instruments, **instrument 1** to produce the sound we hear,
+Next, we make two instruments, **instrument 1** to produce the sound we hear, and
 **instrument 10** to take the sounds we hear and make them sound like they're coming
-from specific places.
+from specific places. I received lots of help when building both instruments.
 ##### Instrument 1
 **Instrument 1** has many components.
 It is a simple sine oscillator, but it takes in information from the score,
@@ -198,7 +198,7 @@ The line
 {% highlight csound %}
 i1 	0.0 	1.49 	8000 	79
 {% endhighlight %}
-lets us know that instrument 1 plays midi note 70 for 1.49 seconds at an amplitude of 8000, at time 0.0.
+lets us know that instrument 1 plays midi note 79 for 1.49 seconds at an amplitude of 8000, at time 0.0.
 When you have an instrument `i1.1`, `i1.2`, etc., this means that you have a chord.
 
 Instrument 10 plays from time 0 to time 20. So the entire time that instrument 1 plays, instrument 10 will also be playing.
@@ -248,7 +248,7 @@ We replace the beginning of instrument 10 with the below.
   kel	linseg 540, p3, 0
 {% endhighlight %}
 
-This gives us the following, which should also be listened to with earphones. 
+This gives us the following, which should also be listened to with earphones.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/460750554&color=%23f648f9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 It's easier to hear a change in lateral motion than a change in the angle of elevation!
