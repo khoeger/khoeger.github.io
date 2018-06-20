@@ -23,6 +23,9 @@ layout: default
     </header>
     <aside class="post-aside">
       {% include recent-post-list.html %}
+      <p class="rss-subscribe">subscribe
+        <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+      </p>
     </aside>
     <div class="post-content" itemprop="articleBody">
       {{ content}}
