@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moving Sound with Csound's HRTFMOVE2, Basic"
-date:   2018-06-18 16:15:00 -0500
+date:   2018-06-20 16:15:00 -0500
 categories: csound
 published: true
 postHero: /assets/img/2018/2018-06-20/sample1.png
