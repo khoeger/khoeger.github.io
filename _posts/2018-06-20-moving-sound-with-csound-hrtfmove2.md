@@ -237,6 +237,7 @@ e
 
 ### End Results
 The code, as written above, gives us the following sound file.
+Listen using earphones.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/460743945&color=%23f648f9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 Now we change it.
@@ -247,11 +248,11 @@ We replace the beginning of instrument 10 with the below.
   kel	linseg 540, p3, 0
 {% endhighlight %}
 
-This gives us the following.
+This gives us the following, which should also be listened to with earphones. 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/460750554&color=%23f648f9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 It's easier to hear a change in lateral motion than a change in the angle of elevation!
 
 ## More To Do
 Phew! We've covered the basics.
-The next post on this topic will explore using multiple HRTFMOVE2 instruments simultaneously. 
+The next post on this topic will explore using multiple HRTFMOVE2 instruments simultaneously.
