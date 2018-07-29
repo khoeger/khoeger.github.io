@@ -37,6 +37,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 permalink: /:year/:month/:day/:title
+# Collections
+collections:
+  - events_list
 # Defaults
 defaults:
   -
@@ -45,6 +48,12 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+
+    scope:
+      path: ""
+      type: events_list
+    values:
+      layout: page
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
