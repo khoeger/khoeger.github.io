@@ -1,8 +1,7 @@
 ---
 title: Westchester Band Concert
-date: 2018-08-02
-time: 20:00:00 -0500
-image: assets/img/2018/2018-07-29/westchesterBand.jpg
+date: 2018-08-02 20:00:00 -0500
+image: /assets/img/2018/2018-07-29/westchesterBand.jpg
 location-title: Chase Park
 location: 32 Chase Rd, Scarsdale, NY 10583
 type: concert
