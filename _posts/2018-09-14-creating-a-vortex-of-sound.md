@@ -4,16 +4,35 @@ title:  "Creating A Vortex of Sound"
 date:   2018-09-14 16:15:00 -0500
 categories: celebratingABenevolentStorm csound project vortexOfSound
 published: true
-postHero: /assets/img/2018/2018-06-20/sample1.png
+postHero: /assets/img/2018/2018-09-14/DSCF8263_crop2.png
 ---
 
 The project I have been working on over the last year is **Vortex of Sound**.
-The goal is to take mathematics and create an interesting audio experience to
-be heard over headphones. The audio experience? It's what it sounds like -- sound
+The goal is to use mathematics and traditional composition techniques to create an interesting audio experience,
+targeted for headphones. The experience itself? It's what it sounds like -- sound
 spiraling around you in various ways.
 
 # Basic Concept & Inspiration
 
+## Concept
+Imagine a collection of hundreds or thousands of people playing instruments.
+They are standing in a ring around you. What might that musical experience sound like?
+
+Now, imagine that they aren't just stationary, but are circling you while playing.
+How has your listening experience changed?
+
+Now, what if the players could walk through you? And could float?
+In this case, the ring becomes a vortex, and it will move from far away,
+pass through you, and end far away. All the while, it will rotate.
+How will this change your listening experience?
+
+I am not sure what the end result will sound like.
+I hope that the end result is interesting and will take a pleasant musical experience and elevate it.
+
+## Inspiration
+At the Immersive Music Hackathon in December 2018, I was introduced to the concept of an immersive audio experience.
+This is part of my exploration of the concept!
+I came up with the idea at the hackathon, and have been slowly figuring out how to implement it since.  
 
 # Process
 
