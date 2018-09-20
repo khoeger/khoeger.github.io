@@ -14,7 +14,7 @@ title: Events
         <div class="event-type">{{event.type}}</div>
       </div>
       <div class="col-two">
-        <div class="event-title">{{event.title}}</div>
+        <div class="event-title"><a href="{{ event.url }}">{{event.title}}</a></div>
         {% if event.description %}
           <div class="event-desc">{{event.description}}</div>
         {% endif %}
