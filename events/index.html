@@ -5,29 +5,31 @@ title: Events
 <div class="page events-index">
   <h1>{{page.title}}</h1>
   <div class="events-preview">
+    Can I see this
     {% for event in site.events_list %}
-      <div class="events-cols">
-    <!--span>{{event.title}}</span-->
+    and this
+      <!-- <div class="events-cols">
       <div class="col-one">
         <div class="event-date">{{event.date | date: site.date_format}}</div>
         <div class="event-time">{{event.date | date: '%I:%M %p'}}</div>
         <div class="event-type">{{event.type}}</div>
       </div>
-      <div class="col-two">
-        <div class="event-title"><a href="{{ event.url }}">{{event.title}}</a></div>
+      <div class="col-two">-->
+        <!--div class="event-title"><a href="{{ event.url }}">{{event.title}}</a></div-->
+        <!-- <div class="event-title">{{event.title}}</a></div>
         {% if event.description %}
           <div class="event-desc">{{event.description}}</div>
         {% endif %}
       </div>
       {% if event.image %}
-        <div class="col-three">
+        <div class="col-three"> -->
           <div><!-- Empty for spacing purposes --></div>
-          <div class="event-image">
+          <!-- <div class="event-image">
             <img src="{{ event.image }}">
           </div>
         </div>
       {% endif %}
-      </div>
+      </div>  -->
     {% endfor %}
   </div>
 </div>
