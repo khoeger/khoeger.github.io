@@ -1,24 +1,22 @@
 ---
 layout: post
 title:  "Vortex of Sound: Shape"
-date:   2018-09-30 16:00:00 -0500
+date:   2018-10-12 16:00:00 -0500
 categories: mathematics mathmodels matplotlib parabola python vortexOfSound
 published: true
-postHero: /assets/img/2018/2018-09-15/DSCF8263_crop2.png
+postHero: /assets/img/2018/2018-09-30/3d_v2.png
 mathjax: true
 ---
 
-An important part of the **Vortex of Sound** concept is mathematically modelling the shape of a vortex.
-After all, if one wishes to have all the origins points of sounds take the shape of a vortex, one needs to create a vortex.
-Here's how I mathematically built the model of a stationary vortex visualized by an arbitrary number, \\( n \\), of points.
+How can I send music around in a vortex of sound without creating a model of a vortex? A major portion of the work behind the **Vortex of Sound** concept lies in the mathematical modelling of the shape.
 
 ## Vortex Shape Inspiration
-Merriam-Webster defines a vortex as
+What exactly is a vortex? Merriam-Webster defines a [vortex](https://www.merriam-webster.com/dictionary/vortex) as
 >>"a mass of fluid (such as a liquid) with a whirling or circular motion that tends to form a cavity or vacuum in the center of the circle and to draw toward this cavity or vacuum bodies subject to its action."
 
-Therefore, some examples of vortices include whirlpools (natural or  in bottles), tornados, and hurricanes.
+Some examples of vortices include whirlpools (natural or  in bottles), tornados, and hurricanes.
 
-Past physics classes and differential equations classes hint at a few key assumptions I made in creating a vortex.
+Past physics classes and differential equations classes hint at a few of the key assumptions I made in creating a vortex.
 Namely,
 1. If you take a cross-section across a vortex,
 perpendicular to the vacuum in the center,
@@ -38,17 +36,18 @@ fluid particles circle the sink, keeping their respective fixed radii, and none 
 This also saves me from having to replace particles that have cycled out of the top of my model.  
 
 ## How to model the shape
+Now that we know what a vortex is, let's move on to actually modelling a vortex with an an arbitrary number of points, \\( n \\)!
 ### Cross Sectional Views
 Consider a 3-dimensional Cartesian coordinate system.
 
-When looking at a cross section of the shape in the X-Y plane, the shape seen should resemble a donut.
-There will be a fixed inner radius but the outer radius will depend on the Z value.  
+When looking at a cross section of the shape in the \\(X-Y\\) plane, the shape seen should resemble a donut.
+There will be a fixed inner radius but the outer radius will depend on the \\(Z\\) value.  
 
-Now, consider the Y-Z plane cross-section where \\(x=0\\).  
-This should look like a horizontal parabola, reflected across the y axis.
+Now, consider the \\(Y-Z\\) plane cross-section where \\(x=0\\).  
+This should look like a horizontal parabola, reflected across the \\(y\\)-axis.
 There should also be a vertical line, between \\(y=0\\) and the parabola,
 which is the eyewall of the hurricane.
-These two lines define the radii of various circles of motion of points.  There is rotational symmetry along the z axis.
+These two lines define the radii of various circles of motion of points.  There is rotational symmetry along the \\(z\\)-axis.
 
 What does this look like?
 ### Dimensions
@@ -62,7 +61,7 @@ The initial dimensions are the following.
 The center height is calculated by multiplying the maximum height by a **scaling factor** of \\(24/50\\).
 The rest of the dimensions are calculated from diminutization of a hurricane, and substituing feet for miles.
 
-The outline of the shape, to scale, looks something like the following partial cross section of the X-Z plane. The parabola portion is very long and narrow.
+The outline of the shape, to scale, looks something like the following partial cross section of the \\(X-Z\\) plane. The parabola portion is very long and narrow.
 ![Graphic depicting a cross section of the storm. The horizontal, parabolic outer walls are in coral. The vertical inner walls in aqua. The indigo center of the balance of the shape is between the two aqua inner walls, and lines up horizontal with the vertices of the coral parabolas. The yellow ear indicator showing where I imagine my ear height to be roughly located lies slightly above the indigo center of balance.  ]({{"assets//img//2018//2018-09-30//crossection.png" | absolute_url }})
 
 An out of scale, closer look at a portion of the cross section shows that the ears of a listener of my height should be slightly above the center of the parabola. If this cross section portion were to be rotated around the z axis, the section between the aqua inner eyewall and coral outer wall would be the body of the storm.
@@ -131,7 +130,7 @@ Generating points between the eye wall and outer wall involved following the pro
 4. Generate a radius \\(r\\), uniformly at random between \\([0,R(z)]\\).
 5. The specific point lies at \\((r, \theta, z)\\) in cylindrical coordinates.
 
-The resulting shape is not uniformly distributed, but the result seems sufficiently vortex shaped. If points are more likely to be closely packed together the closer they are to \\(z\\) value of the vertex of the parabola, I do not find this particularly problematic. I find it fitting that the most concentrated parts lie towards the center of the shape, as I imagine it is the same for an actual vortex. 
+The resulting shape is not uniformly distributed, but the result seems sufficiently vortex shaped. If points are more likely to be closely packed together the closer they are to \\(z\\) value of the vertex of the parabola, I do not find this particularly problematic. I find it fitting that the most concentrated parts lie towards the center of the shape, as I imagine it is the same for an actual vortex.
 
 Here are an angled view, a side view, and a top-down view of the shape.
 
