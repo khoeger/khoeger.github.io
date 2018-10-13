@@ -147,4 +147,4 @@ From above, we see that the eyewall exists. There will be an eye of calmness ins
 ## Now what?
 We have a basic shape. What's next? We need to assign different instruments different dots in the shape. But that can wait until another post.
 
-The code behind these shapes can be found on my [github](https://github.com/khoeger/vortex-of-sound/tree/master/individualComponents/physicalModel/shape).
+The code behind these shapes can be found on my [github](https://github.com/khoeger/vortex-of-sound/blob/master/individualComponents/physicalModel/shape/generateBasicHurricane.py).
