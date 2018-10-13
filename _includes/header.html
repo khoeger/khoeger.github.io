@@ -1,0 +1,16 @@
+<header class="header">
+  <nav>
+    <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
+    <label for="mobile-menu" class="show-mobile-menu">
+    <!--i class="fab fa-bars"></i-->Menu</label>
+    <ul class="header-nav nav-links">
+      {% include nav-links.html %}
+    </ul>
+  </nav>
+
+
+  <a href="/" class="header-logo">
+    <img src={{ "assets/img/logo/sampleLogo.png" | absolute_url}}
+    alt="KH">
+  </a>
+</header>
