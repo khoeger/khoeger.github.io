@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Vortex of Sound: Shape"
-date:   2018-10-12 16:00:00 -0500
+date:   2018-10-13 10:00:00 -0500
 categories: mathematics mathmodels matplotlib parabola python vortexOfSound
 published: true
 postHero: /assets/img/2018/2018-09-30/3d_v2.png
 mathjax: true
+postFooter: I extend a special thanks to Will Jamieson at the Digital Arts Experience (DAE) for letting me bounce ideas about coding up a basic shape off of him.
 ---
 
 How can I send music around in a vortex of sound without creating a model of a vortex? A major portion of the work behind the **Vortex of Sound** concept lies in the mathematical modelling of the shape.
@@ -132,8 +133,18 @@ Generating points between the eye wall and outer wall involved following the pro
 
 The resulting shape is not uniformly distributed, but the result seems sufficiently vortex shaped. If points are more likely to be closely packed together the closer they are to \\(z\\) value of the vertex of the parabola, I do not find this particularly problematic. I find it fitting that the most concentrated parts lie towards the center of the shape, as I imagine it is the same for an actual vortex.
 
-Here are an angled view, a side view, and a top-down view of the shape.
+Here are an angled view, a side view, and a top-down view of the shape. Keep in mind that if the image were to scale, the images would be much wider than they are tall.
 
+In the angled view, it is easiest to see that the vortex is densest near the vertex of the parabola defining the outer wall.
 ![Angled view of the vortex. A bunch of salmon-colored dots  in the shape of a vortex. This is a 3-dimensional perspective of the shape. ]({{"assets//img//2018//2018-09-30/3d_3000n.png" | absolute_url }})
+
+The side view reassures us that the shape is vortex like. It also shows us that the vortex is slightly top heavy, due to the center of the parabola being below half of the maximum height.
 ![Side view of the vortex, which is represented by a bunch of salmon-colored dots. This is either an x-z or y-z plane view of the overal shape. ]({{"assets//img//2018//2018-09-30/side_3000n.png" | absolute_url }})
+
+From above, we see that the eyewall exists. There will be an eye of calmness inside of the shape. Additionally, we can see that the fringes of the shape have less in them than the denser center.
 ![Top down view of the vortex, which is represented by a bunch of salmon-colored dots. This is a overhead view of the x-y plane. ]({{"assets//img//2018//2018-09-30/top_3000n.png" | absolute_url }})
+
+## Now what?
+We have a basic shape. What's next? We need to assign different instruments different dots in the shape. But that can wait until another post.
+
+The code behind these shapes can be found on my [github](https://github.com/khoeger/vortex-of-sound/tree/master/individualComponents/physicalModel/shape).
