@@ -84,16 +84,16 @@ $$
 The radius of the outer wall depends on the height, \\(z\\) of the point in the storm.
 The radius also is also always between \\(20\\) and \\(100\\) feet, due to the dimensions of the parabolic shape introduced in the section above. Therefore, we need to calculate the parabola defining the outer wall to calculate the maximum radius at a particular height.
 
-A sideways parabola, in the x-z plane, has the equation
+A sideways parabola, in the \\(X-Z\\) plane, has the equation
 
 $$
-(z-k^2) = 4p(r-h).
+(z-k^2) = 4p(x-h).
 $$
 
-Therefore,
+Since we want to deal with a vortex, we will have many rotations of this shape around the z axis. Therefore, we replace the \\(x\\) with an \\(r\\). To calculate the radius at a given height, we rearrange the formula, and get
 
 $$
-r = \frac{(z-k)^2}{4p} +h
+r = \frac{(z-k)^2}{4p} +h.
 $$
 
 In this case, \\(z\\) is the height of the point in the storm.
@@ -102,3 +102,39 @@ The values \\(h\\) and \\(k\\) are determined by the vertex at \\((h,k)\\), whic
 $$
 r(z) = \frac{(z-4.56)^2}{4p} +20.
 $$
+
+To solve for \\(r(z)\\), we need to know the value of \\(p\\). Since the vertex of the parabola is at \\((20, 4.5)\\) and the distance between the \\(z\\) axis and the parabola, \\(r\\), is longest at the bottom, where the parabola hits the ground, the coordinate \\((100, 0)\\) also lies on the parabola. We calculate \\(p\\) as follows:
+
+$$
+p =  \frac{(z-k)^2}{4(r-h)},\\
+  =  \frac{(z-4.5)^2}{4(r-20)},\\
+  =  \frac{(0-4.5)^2}{4(100-20)},\\
+  =  \frac{(-4.5)^2}{320},\\
+  =  \frac{(-4.5)^2}{320},\\
+  = 0.06328125.
+$$
+
+This makes the calculations of the radius at a certain height
+
+$$
+r(z) = \frac{(z-4.56)^2}{4p} +20,\\
+= \frac{(z-4.56)^2}{4*0.06328125} +20,\\
+= \frac{(z-4.56)^2}{0.253125} +20.
+$$
+
+Great! Now that we know the different radii of the outer wall and eye wall, we can generate points between the two.
+### Generate the shape
+Generating points between the eye wall and outer wall involved following the process below for each point in the shape.
+1. Generate a height, \\(z\\), uniformly at random from the range \\([0,9.5]\\).
+2. Generate an angle, \\(\theta\\), uniformly at random from the range \\([0,2\pi)\\).
+3. Calculate the maximum possible radius, \\(R(z)\\) given a particular height \\(z\\).
+4. Generate a radius \\(r\\), uniformly at random between \\([0,R(z)]\\).
+5. The specific point lies at \\((r, \theta, z)\\) in cylindrical coordinates.
+
+The resulting shape is not uniformly distributed, but the result seems sufficiently vortex shaped. If points are more likely to be closely packed together the closer they are to \\(z\\) value of the vertex of the parabola, I do not find this particularly problematic. I find it fitting that the most concentrated parts lie towards the center of the shape, as I imagine it is the same for an actual vortex. 
+
+Here are an angled view, a side view, and a top-down view of the shape.
+
+![Angled view of the vortex. A bunch of salmon-colored dots  in the shape of a vortex. This is a 3-dimensional perspective of the shape. ]({{"assets//img//2018//2018-09-30/3d_3000n.png" | absolute_url }})
+![Side view of the vortex, which is represented by a bunch of salmon-colored dots. This is either an x-z or y-z plane view of the overal shape. ]({{"assets//img//2018//2018-09-30/side_3000n.png" | absolute_url }})
+![Top down view of the vortex, which is represented by a bunch of salmon-colored dots. This is a overhead view of the x-y plane. ]({{"assets//img//2018//2018-09-30/top_3000n.png" | absolute_url }})
