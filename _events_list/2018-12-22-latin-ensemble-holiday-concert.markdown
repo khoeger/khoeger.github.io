@@ -1,6 +1,7 @@
 ---
+layout: event
 title: Latin Ensemble Holiday Concert
-date: 2018-12-22 18:30:00 -0500
+date: 2018-12-20 18:30:00 -0500
 image: /assets/img/2018/2018-12-22/fluteTambourine.jpg
 location-title: iD Studio Theater
 location: 311 E 140th St, Bronx, NY 10454
