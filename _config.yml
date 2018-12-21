@@ -39,7 +39,12 @@ plugins:
 permalink: /:year/:month/:day/:title
 # Collections
 collections:
-  - events_list
+  events_list:
+    output : true
+    #future : true
+
+  posts:
+    output : true
 # Defaults
 defaults:
   -
@@ -47,13 +52,15 @@ defaults:
       path: "" # an empty string means all files in the project
       type: "posts"
     values:
-      layout: "default"
-
+      # layout: "default"
+      layout: "post"
+  -
     scope:
       path: ""
-      type: events_list
+      type: "events_list"
     values:
-      layout: page
+      #layout: "default"
+      layout: "event"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
