@@ -10,13 +10,8 @@ GEM
       sass (>= 3.3.4)
     colorator (1.1.0)
     execjs (2.7.0)
-<<<<<<< HEAD
-    ffi (1.9.23)
-    ffi (1.9.23-x64-mingw32)
-=======
     ffi (1.9.25)
     ffi (1.9.25-x64-mingw32)
->>>>>>> Master
     forwardable-extended (2.6.0)
     jekyll (3.6.2)
       addressable (~> 2.4)
