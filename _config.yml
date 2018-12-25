@@ -30,6 +30,7 @@ github_username:  khoeger
 soundcloud_username: katarina-hoeger
 date_format: "%-d %B %Y"
 short_date_format: "%-d %B"
+future: true
 
 # Build settings
 markdown: kramdown

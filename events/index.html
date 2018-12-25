@@ -5,7 +5,7 @@ title: Events
 <div class="page events-index">
   <h1>{{page.title}}</h1>
   <div class="events-preview">
-    {% assign sortedEvents = (site.events_list | sort: 'date') | reverse %}
+    {% assign sortedEvents = site.events_list | sort: 'date' | reverse %}
     {% for event in sortedEvents %}
       <div class="events-cols">
       <div class="col-one">
