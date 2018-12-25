@@ -12,4 +12,20 @@ categories: concert flute latin
 description: Come dance along to Latin tunes in preparation for the holidays!
 future: true
 ---
-We have an event!
+## Program
+I played on
+- **Mambo Influenciado**, *Chucho Valdes*
+- **Aguacero de Mayo**, *Totó la Momposina*
+- **Coco Mai Mai**, *Manolo Montealegre*
+- **El Alegre Pescador**, *Jose Barros*, arr. Pablo Mayor
+- **La Mulata Rumbera**, *Frank Emilio*
+- **Caribe**, *Pablo Mayor*
+- **Quimbara**, *Celia Cruz*
+
+I played {{page.role}}, and took solos in Mambo Influenciado, Aguacero de Mayo, Coco Mai Mai, La Mulata Rumbera, and Caribe.
+
+## Acknowledgements
+Thanks to our band leader, Pablo Mayor, for all of the arrangements. Thanks to my bandmates, especially Connie, for their assistance. Thanks to Anna for occasional flute tips. Thanks to my parents for being supportive and attending!
+
+**Photo credit:**
+Katarina Hoeger, *December 2018*
