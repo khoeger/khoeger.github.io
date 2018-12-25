@@ -970,10 +970,35 @@ pre > code {
   .gallery .gallery-info {
     flex: 1;
   }
+  /* EVENTS STYLES*/
+  .events-cols {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    text-align: left;
+  }
+  .events-cols .col-one {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+  }
+  .events-cols .col-one .event-type{
+    display: none;
+  }
+  .events-cols .col-two {
+    display: grid;
+    text-align: center;
+    grid-template-rows: 2fr;
+  }
+  .events-cols .col-two .event-desc {
+    display: none;
+  }
+  .events-cols .col-three {
+    display: none;
+  }
 }
 @media (max-width: 600px) {
   .half-hero {
     display: none;
   }
+
 
 }
