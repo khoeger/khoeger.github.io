@@ -13,11 +13,18 @@ layout: default
   <div class="home-callout">
     <h1 class="callout-title">Public Appearances</h1>
     <div class="callout-copy">
-      <h3>Coming soon</h3>
-    <p>
+      <!--h3>Coming soon</h3-->
+      {% assign sortedEvents = site.events_list | where_exp:"event",
+      "event.date >= site.time" |sort: 'date'  %}
+      {% for event in sortedEvents limit:3 %}
+        <div class="featured-event-date">{{event.date | date: site.date_format}}</div>
+        <div class="featured-event-time">{{event.date | date: '%I:%M %p'}}</div>
+        <div class="event-title"><a href="{{ event.url }}">{{event.title}}</a></div>
+      {% endfor %}
+    <!--p>
       This section will list upcoming performances, conferences, hackathons,
       talks, work events, and similar events that I plan on participating in.
-    </p>
+    </p-->
   </div>
 </div>
 
