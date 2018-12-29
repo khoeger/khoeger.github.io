@@ -9,7 +9,11 @@ mathjax: true
 ---
 I picked up a project partner.
 His name is Marc Langer.
+<<<<<<< HEAD
 Marc is a musician who studied physics.
+=======
+Marc is a musician who studied physics. 
+>>>>>>> 5f1a1d8ecff31436cdf998a24f600dd13b9aadd5
 
 ## How
 Back in June, [Music Community Lab](musiccommunitylab.org) held our first
@@ -27,12 +31,20 @@ This helps keep me honest!
 
 ## Why Take on A Partner?
 While I love working on the math aspects of the project, it is intensive.
+<<<<<<< HEAD
 Not only is there lots of cool math, there is lots of music theory, sound theory, and learning Csound involved.
+=======
+Not only is there lots of cool math, there is lots of music theory, sound theory, and learning csound involved.
+>>>>>>> 5f1a1d8ecff31436cdf998a24f600dd13b9aadd5
 As I only have so many hours a day, and an official job, some bands, and a not-for-profit, I appreciate his help.
 
 ## What's he up to?
 Marc's currently working out the math for the rotational motion for the vortex.
 This is complementary to my current work on it's linear motion.
 
+<<<<<<< HEAD
 As more gets done, I will update the blog explaining what he has done.
+=======
+As more get's done, I will update the blog explaining what he has done.
+>>>>>>> 5f1a1d8ecff31436cdf998a24f600dd13b9aadd5
 You will soon be able to see his code in the github repo.
