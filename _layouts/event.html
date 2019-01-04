@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="post">
+  {% if page.image %}
+    <div class ="half-hero" style="background-image:url({{ page.image }})"></div>
+  {% endif %}
+  <article class="page" itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+      <div class="post-byline">
+          <time class="post-time" datetime="{{ event.date | date_to_xmlschema }}" itemprop="datePublished">
+            <span>{{ page.date | date: site.date_format }}</span>
+          </time>
+        </div>
+    </header>
+    <div class="post-content" itemprop="articleBody">
+      {{ content}}
+    </div>
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+
+    {% if page.mathjax %}
+    <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+    {% endif %}
+
+    {% if page.bokeh %}
+    <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.css" type="text/css" />
+    <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.15.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.css" type="text/css" />
+    <script src="https://cdn.pydata.org/bokeh/release/bokeh-tables-0.12.6.min.js"></script>
+    {% endif %}
+
+  </article>
+</div>

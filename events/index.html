@@ -1,0 +1,25 @@
+---
+layout: default
+title: Events
+---
+<div class="page events-index">
+  <h1>{{page.title}}</h1>
+  <div class="events-preview">
+
+    {% assign sortedEvents = site.events_list | where_exp:"event",
+    "event.date >= site.time" |sort: 'date'  %}
+    {% unless sortedEvents == empty %}
+      <h2>Upcoming</h2>
+      {% for event in sortedEvents %}
+        {% include iterated-events.html %}
+      {% endfor %}
+    {% endunless %}
+
+    {% assign reverseEvents = site.events_list | where_exp:"event",
+    "event.date < site.time" | sort: 'date' | reverse  %}
+    <h2>Past</h2>
+    {% for event in reverseEvents limit:5 %}
+      {% include iterated-events.html %}
+    {% endfor %}
+  </div>
+</div>
