@@ -6,7 +6,7 @@ image: /assets/img/2018/2018-07-29/westchesterBand.jpg
 location-title: Chase Park
 location: 32 Chase Rd, Scarsdale, NY 10583
 type: concert
-role: 2nd Flute, 5th seat
+role: flutist
 event-tag: 20180802WestchesterBand
 categories: concert flute outdoor
 description: Come picnic while listening to the 6th Westchester Band concert of the summer 2018 season.

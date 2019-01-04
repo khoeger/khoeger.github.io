@@ -6,7 +6,7 @@ image: /assets/img/2018/2018-12-23/overhead.jpg
 location-title: Lovinger Theatre
 location: 32 Chase Rd, Scarsdale, NY 10583
 type: concert
-role: 2nd Flute, 3rd seat/ 3rd Flute, 1rst seat
+role: flutist
 event-tag: 20181223LehmanBand
 categories: concert holiday flute
 description: Relax to some holiday tunes, before the hectic holiday rush truly starts.
@@ -35,7 +35,7 @@ description: Relax to some holiday tunes, before the hectic holiday rush truly s
 - **Sleigh Ride**, Leroy Anderson
 - **Christmas Festival**, Leroy Anderson
 
-I played {{page.role}}.
+I was a {{page.role}}.
 
 ## Acknowledgements
 Special thanks to my parents, Momoco, and Yukimi for coming to my concert.
