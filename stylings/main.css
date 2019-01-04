@@ -332,6 +332,9 @@ h4 {
 }
 
 /* HOMEPAGE STYLES */
+.home{
+  width: 100%;
+}
 .home h2 ~ p {
   font-size: 0.8em;
   font-style: italic;
@@ -385,7 +388,10 @@ h4 {
   padding: 0 3vw;
   font-size: 0.8rem;
 }
-
+.featured-event ~ .featured-event {
+  margin-top: 0.75em;
+  padding-top: 0.75em;
+}
 /* BIO STYLES */
 .bio-wrapper {
   font-size: 24px;
