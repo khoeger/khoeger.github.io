@@ -480,7 +480,7 @@ h4 {
 }
 .events-cols .col-one {
   display: grid;
-  grid-template-rows: 1fr 2fr 1fr 10fr;
+  grid-template-rows: 1fr 2fr 1fr 1fr;/*10fr;*/
 }
 .events-cols .col-one .event-date {
   font-weight: bold;
@@ -492,7 +492,7 @@ h4 {
 }
 .events-cols .col-two {
   display: grid;
-  grid-template-rows: 3fr 11fr;
+  grid-template-rows: 3fr 2fr;/*11fr;*/
 }
 .events-cols .col-two .event-title {
   font-size: 1.75em;
@@ -504,7 +504,7 @@ h4 {
 }
 .events-cols .col-three {
   display: grid;
-  grid-template-columns: 1fr 30fr;
+  grid-template-columns: 1fr 4fr;/*30fr;*/
 }
 /* BLOG STYLES */
 .blog-recent {
