@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vortex of Sound: Split Parts In Vortex"
-date:   2019-02-03 10:00:00 -0500
+date:   2019-02-04 14:20:00 -0500
 categories: levels parts vortex vortexOfSound
 postHero: /assets/img/2019/20190203Vortex2_oil.png
 mathjax: true
