@@ -558,8 +558,7 @@ h4 {
   width: 100%;
 }
 .post-content,
-.post-footer,
-.post-rel-articles {
+.post-footer {
   margin: auto;
   max-width: 40em;
   width: 85vw;
@@ -621,7 +620,11 @@ h4 {
 .post-content h2 ~ p{
   font-size: 1em;
 }*/
-
+.post-rel-articles {
+  margin: auto;
+  max-width: 40em;
+  width: 85vw;
+}
 .post-rel-articles h3 {
   font-weight: bold;
   text-transform: uppercase;
@@ -636,7 +639,7 @@ h4 {
   font-weight: bold;
   text-decoration: none;
   color: var(--kh-headers);
-  /*text-shadow: 1px 1px 1px var(--kh-drop-menu);*/
+  /* text-shadow: 1px 1px 1px var(--kh-drop-menu); */
 }
 .pull-left {
   float: left;
