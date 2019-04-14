@@ -558,12 +558,18 @@ h4 {
   width: 100%;
 }
 .post-content,
-.post-footer {
+.post-footer,
+.post-rel-articles {
   margin: auto;
   max-width: 40em;
   width: 85vw;
 }
-.post-content h1, h2, h3, h4, h5, h6 {
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
   font-weight: bold;
   text-transform: uppercase;
   color: var(--kh-headers);
@@ -576,7 +582,8 @@ h4 {
 .post-content h2{
   font-size: 1.75em;
 }
-.post-content h3{
+.post-content h3,
+.post-rel-articles h3 {
   font-size: 1.5em;
 }
 .post-content h4{
@@ -614,6 +621,23 @@ h4 {
 .post-content h2 ~ p{
   font-size: 1em;
 }*/
+
+.post-rel-articles h3 {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+  margin: 1em 0em;
+}
+.rel-article-title{
+  text-transform: uppercase;
+  text-align: left;
+}
+.rel-article-title a{
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--kh-headers);
+  /*text-shadow: 1px 1px 1px var(--kh-drop-menu);*/
+}
 .pull-left {
   float: left;
   margin: 2em 2em 2em -2%;
