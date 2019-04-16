@@ -17,22 +17,27 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content}}
     </div>
-    <div class="post-rel-articles">
-      <h3>Related Posts</h3>
-      {% for tag in page.event-tag %}
+    {% assign taggedArticles = site.posts | where_exp: "article",
+                                            "article.event-tag == page.event-tag"%}
+    {% unless taggedArticles == empty %}
+        <h3>Related Posts</h3>
+        <div class="post-rel-articles">
+          {% for tag in page.event-tag %}
 
-        {% for article in site.posts %}
-          {% if article.event-tag == tag %}
+            {% for article in site.posts %}
+              {% if article.event-tag == tag %}
 
-            <div class="rel-article-title">
-                <h6>
-                  <a href="{{ article.url }}">{{ article.title}}</a
-                </h6>
-            </div>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </div>
+                <div class="rel-article-title">
+                    <h6>
+                      <a href="{{ article.url }}">{{ article.title}}</a
+                    </h6>
+                </div>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </div>
+    {% endunless %}
+
     {% if site.disqus.shortname %}
       {% include disqus_comments.html %}
     {% endif %}
