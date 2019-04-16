@@ -20,8 +20,9 @@ layout: default
     {% assign taggedArticles = site.posts | where_exp: "article",
                                             "article.event-tag == page.event-tag"%}
     {% unless taggedArticles == empty %}
-        <h3>Related Posts</h3>
+
         <div class="post-rel-articles">
+          <h3>Related Posts</h3>
           {% for article in taggedArticles %}
             <div class="rel-article-title">
                 <h6>
