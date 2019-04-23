@@ -70,14 +70,12 @@ sw.stop()
 
 dr.stop()
 
-Clock.clear()
-print(SynthDefs)
-
-
-
 
 
 # -- Thoughts on instrument choices that sound decent
+# - To see all, use command
+# -     print(SynthDef)
+# --------------------------------
 # scatter - soso, not accurate
 # charm
 # bell
