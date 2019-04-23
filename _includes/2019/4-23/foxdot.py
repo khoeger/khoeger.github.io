@@ -62,13 +62,13 @@ dr >> play("xxxxxxxx        xxxxxxxx",
 
 
 # -- Halt all insruments
-s1.stop()
-
-db.stop()
-
-sw.stop()
-
-dr.stop()
+# s1.stop()
+#
+# db.stop()
+#
+# sw.stop()
+#
+# dr.stop()
 
 
 
