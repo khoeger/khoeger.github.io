@@ -30,6 +30,7 @@ github_username:  khoeger
 soundcloud_username: katarina-hoeger
 date_format: "%-d %B %Y"
 short_date_format: "%-d %B"
+future: true
 
 # Build settings
 markdown: kramdown
@@ -37,6 +38,14 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 permalink: /:year/:month/:day/:title
+# Collections
+collections:
+  events_list:
+    output : true
+    #future : true
+
+  posts:
+    output : true
 # Defaults
 defaults:
   -
@@ -44,7 +53,15 @@ defaults:
       path: "" # an empty string means all files in the project
       type: "posts"
     values:
-      layout: "default"
+      # layout: "default"
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "events_list"
+    values:
+      #layout: "default"
+      layout: "event"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

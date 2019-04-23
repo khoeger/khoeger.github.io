@@ -1,0 +1,21 @@
+<div class="events-cols">
+<div class="col-one">
+  <div class="event-date">{{event.date | date: site.date_format}}</div>
+  <div class="event-time">{{event.date | date: '%I:%M %p'}}</div>
+  <div class="event-type">{{event.type}}</br>{{event.role}}</div>
+</div>
+<div class="col-two">
+  <div class="event-title"><a href="{{ event.url }}">{{event.title}}</a></div>
+  {% if event.description %}
+    <div class="event-desc">{{event.description}}</div>
+  {% endif %}
+</div>
+{% if event.image %}
+  <div class="col-three">
+    <div><!-- Empty for spacing purposes --></div>
+     <div class="event-image">
+      <img src="{{ event.image }}">
+    </div>
+  </div>
+{% endif %}
+</div>
