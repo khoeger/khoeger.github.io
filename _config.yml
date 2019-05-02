@@ -40,6 +40,9 @@ plugins:
 permalink: /:year/:month/:day/:title
 # Collections
 collections:
+  projects_list:
+    output : true
+
   events_list:
     output : true
     #future : true
@@ -62,6 +65,12 @@ defaults:
     values:
       #layout: "default"
       layout: "event"
+  -
+    scope:
+      path: ""
+      type: "projects_list"
+    values:
+      layout: project
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

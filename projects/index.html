@@ -2,8 +2,15 @@
 layout: default
 title: Projects
 ---
+{% assign umbrellaProjects = site.projects_list | sort: 'start-date' | reverse %}
 <div class="page events-index">
   <h1>{{page.title}}</h1>
 
-
+  <div class="iterate-umbrella-projects">
+      {% for proj in umbrellaProjects %}
+        <div class="umbrella-project">
+            <div class="umbrella-project-title">{{proj.title}}</div>
+        </div>
+      {% endfor %}
+  </div>
 </div>
