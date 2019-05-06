@@ -538,6 +538,7 @@ h4 {
 .umbrella-project-title {
   text-transform: uppercase;
   padding: 0em 0em 0.5em 0em;
+  height: 2em;
 }
 .umbrella-project-image {
   background-position: center;
