@@ -518,16 +518,23 @@ h4 {
   color: #444;
 }
 .umbrella-project {
-  border: 2px solid #e7e7e7;
-  background-color: #444;
-  color: #fff;
+  border: 2px solid var(--kh-main-highlight);
+  text-shadow: 2px 2px 5px var(--kh-main-highlight);
+  background-color: var(--kh-edge);
+  color: var(--kh-borders);
   border-radius: 10px;
   padding: 20px;
   /* height: 250px; */
 }
+.umbrella-project:hover {
+  border: 2px solid var(--kh-edge);
+  background-color: var(--kh-main-highlight);
+  text-shadow: 2px 2px 5px var(--kh-edge);
+  color: var(--kh-edge);
+  font-weight: bold;
+}
 .umbrella-project-title {
   text-transform: uppercase;
-
 }
 .umbrella-project-image {
   background-position: center;
@@ -535,6 +542,11 @@ h4 {
   height: 12.5em;
   margin: 0.5em 0;
   border-radius: 10px;
+  box-shadow: 0px 0px 20px var(--kh-main-highlight);
+  /* border: 2px ridge var(--kh-main-highlight); */
+}
+.umbrella-project:hover .umbrella-project-image {
+  box-shadow: 0px 0px 30px var(--kh-edge);
 }
 .umbrella-project-years {
 
