@@ -1,46 +1,35 @@
 ---
 layout: event
-title: Lehman Band Holiday Concert
-date: 2018-12-23 14:00:00 -0500
-image: /assets/img/2018/2018-12-23/overhead.jpg
-location-title: Lovinger Theatre
-location: 32 Chase Rd, Scarsdale, NY 10583
-type: concert
-role: flutist
-event-tag: 20181223LehmanBand
-categories: concert holiday flute
-description: Relax to some holiday tunes, before the hectic holiday rush truly starts.
-published: false
+title: Flawless Hacks 2019
+date: 2019-04-27 9:30:00 -0500
+image: /assets/img/2019/20190427FlawlessHacks.jpg
+location-title: 2U
+location: 55 Prospect St, Brooklyn, NY 11201
+type: hackathon
+role: participant
+event-tag: 20190427FlawlessHacks
+categories: hackathon
+description: A Beyoncé themed hackathon.
+published: true
 ---
-## Program
-- **America the Beautiful**, *Samuel A. Ward*, arr. Carmen Dragon
-- **Troika, from Lietuenant Kijé Suite**, *Sergei Prokofiev*, arr. Harold L. Walters
-- **Norman Rockwell Suite**, *Hayato Hirose*
-  - I. The Marraige License
-  - II. Shuffleton's Barbershop
-  - III. Christmas Homecoming
-- **Minor Alterations: Christmas Through the Looking Glass**, *David Lovrien*
-- **Scenes from the Lovure, based on Ancient Airs**, *Norman Dello Joio*
-  - I. The Portals
-  - II. Children's Gallery
-  - IV. The Nativity Paintings
-  - V. Finale
-- **Festive Sounds of Hanukah**, arr. Bill Holcombe
-    - Maoz Tsur (Rock of Ages)
-    - Mi Y'Malel (Who Can Retell)
-    - Hanukah, Hanukah
-    - My Dreidel
-    - S'Vivon (Spin, Dreidel)
-    - Hanukah, O Hanukah
-- **Greensleeves**, arr. Alfred Reed
-- **Sleigh Ride**, Leroy Anderson
-- **Christmas Festival**, Leroy Anderson
+[Flawless Hacks](http://flawlesshacks.com) is a yearly hackathon in NYC that serves as a meetup for non-male identifying people interested in code to learn and make projects together.
 
-I was a {{page.role}}.
+## Project
+I began work on a `Blues Dance Music Playlist Generator`. This year, I did not have partners.
 
-## Acknowledgements
-Special thanks to my parents, Momoco, and Yukimi for coming to my concert.
-Special thanks to my fellow flute players, the rest of the band members, and our conductor, Alan Hollander.
+### Concept
+The idea:
+- make a list of blues artists
+- search Spotify using its API for the artist's music
+- make a playlist from the result, limiting the list to a certain BPM
+
+### Code
+Coming soon to Github.
+
+### Media
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you, <a href="https://twitter.com/FlawlessHack?ref_src=twsrc%5Etfw">@FlawlessHack</a> for the experience :) I always enjoy your hackathons! It was great mingling with other women who code, known and new.<br><br>Maybe I&#39;ll finish this sometime - now that I&#39;ve got the hang of using the API, I want to be able to use the hack for my own purposes. <a href="https://t.co/UxhDsS4djB">https://t.co/UxhDsS4djB</a></p>&mdash; KHoeger (@kfhoeger) <a href="https://twitter.com/kfhoeger/status/1122559942307848192?ref_src=twsrc%5Etfw">April 28, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 **Photo credit:**
-Momoco Takesue, *December 2018*
+Flawless Hacks, *April 2019*
