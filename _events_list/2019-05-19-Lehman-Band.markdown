@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Lehman Band Spring Conceret 2019
+title: Lehman Band Spring Concert 2019
 date: 2019-05-19 14:00:00 -0500
 image: /assets/img/2019/lehmanBandPlaceholder.jpg
 location-title: Lovinger Theatre
