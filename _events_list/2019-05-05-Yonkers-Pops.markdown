@@ -2,7 +2,7 @@
 layout: event
 title: Yonkers Pops Concert 2019
 date: 2019-05-05 14:00:00 -0500
-image: /assets/img/2019/lehmanBandPlaceh.jpg
+image: /assets/img/2019/20190505YonkersPops.jpg
 location-title: Grinton I. Will Library
 location: 1500 Central Park Avenue, Yonkers, NY 10710
 type: concert
