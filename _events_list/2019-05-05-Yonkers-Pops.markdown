@@ -2,9 +2,9 @@
 layout: event
 title: Yonkers Pops Concert 2019
 date: 2019-05-05 14:00:00 -0500
-image: /assets/img/2019/20190505YonkersPops.jpg
-location-title: Lovinger Theatre
-location: 32 Chase Rd, Scarsdale, NY 10583
+image: /assets/img/2019/lehmanBandPlaceh.jpg
+location-title: Grinton I. Will Library
+location: 1500 Central Park Avenue, Yonkers, NY 10710
 type: concert
 role: principal flutist
 event-tag: 20190505YonkersPops
@@ -12,7 +12,7 @@ categories: band concert flute pops
 description: Enjoy popular tunes from musicals, movies, and American society at large.
 published: true
 ---
-The Yonkers Pops band played popular tunes at this concert. I was the {{page.role}} for the season. 
+The Yonkers Pops band played popular tunes at this concert. I was the {{page.role}} for the season.
 ## Program
 
 - **The Star Spangled Banner**
