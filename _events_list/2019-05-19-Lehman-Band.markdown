@@ -18,8 +18,36 @@ The concert will be on Sunday, may 19, 2019 at 2PM, in Lehman College's Lovinger
 ![Concert flyer with details:]({{ "assets/img/2019/flyer2019-May-19Band.jpg" | absolute_url }})
 
 ## Program
- To be updated soon.
+- **Along An English Countryside**
+  - *Richard L. Saucedo*
 
+- **El Cumbanchero**
+  - *Rafael Hernandez*
+  - arr. Naohiri Iwai
+
+- **Children's March "Over the Hills and Far Away"**
+  - *Percy Aldridge Grainger*
+  - Revised by Frank Erickson
+
+- **Hymn to the Infinite Sky**
+  - *Satoshi Yagisawa*
+
+- **Landscapes**
+  - *Rossano Galante*
+
+- **Capriccio Espagnol**
+  - *N. Rimsky-Korsakow*
+
+- **America, the Beautiful**
+  - *Samuel Augustus Ward*
+  - arr. Carmen Dragon
+
+- **Armenian Dances (Part I)**
+  - *Alfred Reed*
+
+- **Concertino** for English Horn and Orchestra
+  - *Gaetano Donizetti*
+  - transcribed by Jos van de Braak
 
 ## Acknowledgements
 **Cover photo credit:**
