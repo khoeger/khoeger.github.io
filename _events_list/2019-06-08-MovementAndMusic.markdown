@@ -12,7 +12,7 @@ categories: hackathon mcl movement music musicCommunityLab
 description: Explore the intersection between movement and music.
 published: true
 ---
-{{page.description}} Learn more or RSVP at the event [website](https://movementmusic.splashthat.com).
+{{page.description}} Learn more or RSVP at the event [website](https://movementmusic.splashthat.com). We're looking for speakers and workshop leaders, and would love to see your proposal in response to our [call for proposals](https://forms.gle/XDTTZBz2n7Y3XpZYA).
 
 Movement & Music will be on Saturday, June 8, 2019 at 10:30AM, at {{page.location-title}}, {{ page.location}}.
 
