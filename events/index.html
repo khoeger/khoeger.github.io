@@ -9,18 +9,23 @@ title: Events
     {% assign sortedEvents = site.events_list | where_exp:"event",
                               "event.date >= site.time" |sort: 'date'  %}
     {% unless sortedEvents == empty %}
-      <h2>Upcoming</h2>
+      <h2 class="upcoming-events">Upcoming</h2>
+        <div>
         {% for event in sortedEvents %}
             {% include iterated-events.html %}
         {% endfor %}
+        </div>
     {% endunless %}
 
     {% assign reverseEvents = site.events_list | where_exp:"event",
                               "event.date < site.time" | sort: 'date' | reverse  %}
-    <h2>Past</h2>
+
+    <h2 class="past-events">Past</h2>
+    <div>
       {% for event in reverseEvents limit:5 %}
         {% include iterated-events.html %}
       {% endfor %}
+      </div>
 
 
   </div>
