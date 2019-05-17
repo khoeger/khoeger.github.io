@@ -506,6 +506,14 @@ h4 {
   display: grid;
   grid-template-columns: 1fr 4fr;/*30fr;*/
 }
+.upcoming-events{
+  text-transform: uppercase;
+  padding: 1em 0 0.5em 0;
+}
+.past-events{
+  text-transform: uppercase;
+  padding: 3em 0 0.5em 0;
+}
 /* Umbrella Project List Styles */
 .iterate-umbrella-projects {
   display: grid;
