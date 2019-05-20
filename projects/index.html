@@ -8,15 +8,20 @@ title: Projects
 
   <div class="iterate-umbrella-projects">
       {% for proj in umbrellaProjects %}
-        <div class="umbrella-project">
+        <a href="{{proj.url}}"
+            class="umbrella-project">
             <div class="umbrella-project-title">{{proj.title}}</div>
             <div class="umbrella-project-image"
                   style="background-image: url( {{proj.image}} ) ;"
                   alt="{{proj.alt-text}}"></div>
+            <!--a href="{{proj.url}}"
+                  class="umbrella-project-image"
+                  style="background-image: url( {{proj.image}} ) ;"
+                  alt="{{proj.alt-text}}"></a-->
             <div class="umbrella-project-years">
               {{proj.start-date | date: "%Y "}} -
               {{proj.end-date | date: "%Y "}}</div>
-        </div>
+        </a>
       {% endfor %}
   </div>
 </div>
