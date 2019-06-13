@@ -14,10 +14,10 @@ alt-text: Rainbow-tinted view of a section of the score from Rhymes to Music's o
 Rhymes to Music translates a string of text into a melody one phoneme at a time. A mathematical model realized through python code outputs musical scores. The scores are then played by the artist.
 
 ## Components
-- Mathematical Model
-- Code
-- Musical Scores
-- Recordings
+- Mathematical Model, *January 2017 - September 2017*
+- Code, *March 2017 - September 2017, February 2019*
+- Musical Scores, *February 2019*
+- Recordings, *February 2019*
 
 ### A Needle's Eye
 Rhymes to Music generated this melody using William Butler Yeats's poem "A

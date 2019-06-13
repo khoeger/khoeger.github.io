@@ -8,6 +8,6 @@ alt-text: rainbow 3-dimensional scatterplot in vortex shape, from above
 project-tag: vortexOfSound
 categories: vortex mathematicalModelling ambisonics
 description: fake description
-published: true
+published: false
 ---
 Add details
