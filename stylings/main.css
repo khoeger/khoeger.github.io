@@ -514,6 +514,60 @@ h4 {
   text-transform: uppercase;
   padding: 3em 0 0.5em 0;
 }
+/* Umbrella Project List Styles */
+.iterate-umbrella-projects {
+  display: grid;
+  grid-template-columns: repeat( auto-fill, minmax(250px, 1fr) );
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+  /* background-color: #9f4ff3;
+  border-radius: 5px;
+  padding: 10px; */
+  color: #444;
+}
+.umbrella-project {
+  border: 2px solid var(--kh-main-highlight);
+  text-shadow: 2px 2px 5px var(--kh-main-highlight);
+  background-color: var(--kh-edge);
+  color: var(--kh-borders);
+  border-radius: 10px;
+  padding: 20px;
+  /* height: 250px; */
+  display: grid;
+  grid-gap: 0.25em;
+}
+.umbrella-project:hover {
+  border: 2px solid var(--kh-edge);
+  background-color: var(--kh-main-highlight);
+  text-shadow: 2px 2px 5px var(--kh-edge);
+  color: var(--kh-edge);
+  font-weight: bold;
+}
+.umbrella-project-title {
+  text-transform: uppercase;
+  padding: 0em 0em 0.5em 0em;
+  height: 2em;
+}
+.umbrella-project-image {
+  background-position: center;
+  background-size: cover;
+  height: 12.5em;
+  margin: 0.5em 0;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px var(--kh-main-highlight);
+  /* border: 2px ridge var(--kh-main-highlight); */
+}
+.umbrella-project:hover .umbrella-project-image {
+  box-shadow: 0px 0px 30px var(--kh-edge);
+}
+.umbrella-project-years {
+  /* padding: 0.5em 0em 0em 0em; */
+  font-style: italic;
+}
+/*Individual Project*/
+.project {
+  width: 100%;
+}
 /* BLOG STYLES */
 .blog-recent {
   text-align: right;
