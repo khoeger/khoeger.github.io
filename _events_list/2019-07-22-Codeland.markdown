@@ -1,0 +1,21 @@
+---
+layout: event
+title: Codeland Conference 2019
+date: 2019-07-22 09:00:00 -0500
+image: /assets/img/2019/20190722Codeland4.jpg
+location-title: NYU Kimmel Center
+location: 60 Washington Sq. South Suite 605, New York, NY 10012
+type: conference
+role: workshop leader
+event-tag: 20190722Codeland
+categories: codeland conference dataSonification music21 python speaker workshop
+description: A conference with talks and workshops to help those beginning their coding journeys.
+published: true
+---
+{{page.description}}
+
+This conference will be on Monday, July 22, 2019 at 9AM, at {{page.location-title}}, {{ page.location}}.
+
+## Workshop
+### Making Musical Code
+Have you ever used code to generate a melody? By the end of this workshop, each participant will map input text to musical notes and then generate a melody using Python. Good-to-haves include headphones, a will to use Python libraries, lists, and more, and a will to explore basic musical concepts.
