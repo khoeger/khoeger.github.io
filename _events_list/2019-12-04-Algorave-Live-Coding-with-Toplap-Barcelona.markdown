@@ -7,7 +7,7 @@ location-title: Queen City Cinema Club
 location: 128B Main St, Bangor, ME 04401
 type: concert
 role: live coder
-event-tag: 20180802WestchesterBand
+event-tag: 20191204AlgoraveBangorME
 categories: algorave code concert liveCode music
 description: Algorithmic electronic music to dance to
 published: true
