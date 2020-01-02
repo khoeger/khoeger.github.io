@@ -20,6 +20,6 @@ published: true
 
 *{{page.date | date: site.time_format }}*
 
-The Intermedia MFA and Studio Art students housed in Stewart Commons open up their doors to the public and display their work. Katarina Hoeger displayed *Surface Thoughts*, 2019. 
+The Intermedia MFA and Studio Art students housed in Stewart Commons open up their doors to the public and display their work. Katarina Hoeger displays *Surface Thoughts*, 2019. 
 
 
