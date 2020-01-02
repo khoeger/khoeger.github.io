@@ -30,6 +30,7 @@ github_username:  khoeger
 soundcloud_username: katarina-hoeger
 date_format: "%-d %B %Y"
 short_date_format: "%-d %B"
+time_format: "%I:%M %p"
 future: true
 
 # Build settings
