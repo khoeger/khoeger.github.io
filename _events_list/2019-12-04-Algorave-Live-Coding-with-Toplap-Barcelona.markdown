@@ -9,9 +9,17 @@ type: concert
 role: live coder
 event-tag: 20191204AlgoraveBangorME
 categories: algorave code concert liveCode music
-description: Algorithmic electronic music to dance to
+description: Algorithmic electronic music to dance to.
 published: true
 ---
-Alicia Champlin and Niklas Reppel of Toplap Barcelona joined forces with Katarina Hoeger, Steve Norton, and Nathaniel B. Aldrich to produce Bangor Maine's first algorave. The performers used code, samples, and custom built interfaces to generate a concert for onlookers. 
+### {{page.description}}
+
+**{{page.location-title}}**
+
+{{page.location}}
+
+*{{page.date | date: site.time_format }}*
+
+Alicia Champlin and Niklas Reppel of Toplap Barcelona join forces with Nathaniel B. Aldrich, Katarina Hoeger, and Steve Norton to produce Bangor Maine's first algorave. The performers use code, samples, and custom built interfaces to generate a concert for onlookers. Come dance!
 
 
