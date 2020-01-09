@@ -23,11 +23,11 @@ title: Projects
               {% assign endYear = proj.end-date | date: "%Y"  %}
 
               {% if startYear == endYear %}
-              {{proj.start-date | date: "%Y" }}
+              {{startYear }}
               
               {% else %}
-              {{proj.start-date | date: "%Y" }} -
-              {{proj.end-date | date: "%Y"}}
+              {{startYear}} -
+              {{endYear}}
               
 
               {% endif %}
