@@ -18,9 +18,20 @@ title: Projects
                   class="umbrella-project-image"
                   style="background-image: url( {{proj.image}} ) ;"
                   alt="{{proj.alt-text}}"></a-->
-            <div class="umbrella-project-years">
-              {{proj.start-date | date: "%Y "}} -
-              {{proj.end-date | date: "%Y "}}</div>
+            <div class="umbrella-project-years"> 
+              {% assign startYear = proj.start-date | date: "%Y"  %}
+              {% assign endYear = proj.end-date | date: "%Y"  %}
+
+              {% if startYear == endYear %}
+              {{proj.start-date | date: "%Y" }}
+              
+              {% else %}
+              {{proj.start-date | date: "%Y" }} -
+              {{proj.end-date | date: "%Y"}}
+              
+
+              {% endif %}
+            </div>
         </a>
       {% endfor %}
   </div>
