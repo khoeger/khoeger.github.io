@@ -7,10 +7,24 @@ layout: default
     {% endif %}
     <article class="page" itemscope itemtype="http://schema.org/BlogPosting">
       <header>
-        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        {% assign startYear = proj.start-date | date: "%Y"  %}
+        {% assign endYear = proj.end-date | date: "%Y"  %}
+
+        <h1 class="post-title" itemprop="name headline">
+          {%comment%}
+          {% if startYear == endYear %}
+            {{ page.title}},  {{startYear}} 
+
+          {% else %}
+            {{ page.title }}, {{startYear}} - {{endYear}}
+
+          {% endif %}
+          {%endcomment%}
+          {{ page.title }}
+          </h1>
         <div class="post-byline">
             <time class="post-time">
-              <span>{{ page.start-date | date: "%Y " }} - {{ page.end-date | date: "%Y " }}</span>
+              <!--span>{{ page.start-date | date: "%Y " }} - {{ page.end-date | date: "%Y " }}</span-->
             </time>
           </div>
       </header>
