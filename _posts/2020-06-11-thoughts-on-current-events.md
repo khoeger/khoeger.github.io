@@ -11,32 +11,44 @@ published: true
 *Relevant current events at time of writing include the [2020 coronavirus pandemic](https://www.nature.com/articles/s41430-020-0646-z) and the social justice momentum sparked by [George Floyd](https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html)'s and [Breonna Taylor](https://www.nytimes.com/article/breonna-taylor-police.html)'s deaths and [Christain Cooper](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)'s central park bird watching related harassment.*
 
 
-## motivations and organization
+## motivations and audience
 
 This post is for you, my family, friends, and acquaintances who have reached out recently because you want to know how I am.
 I am exhausted and want to speak with each of you individually, but do not have the bandwidth.
+Hopefully this monolog contains answers to everything you want to ask.
 
-Why don't I have the bandwidth? After all,
-I consider many of you to be close friends.
-You may have noticed, I like spending time communicating with others in moderation, but am not an extrovert and am not a great communicator.
+Why don't I have the bandwidth?
+After all,
+You may be family, in which case I will adore you forever and no matter how infrequently we talk, you are close.
+Perhaps you are a friend or acquaintance.
+Then, you may have noticed that I like spending time communicating with others in moderation but am not an extrovert and am not a great or frequent communicator.
 I have learned to be a bit of a loner, find social media stressful, and am always juggling too much. If I reach out to you a few times a year, have ever sent you mail, or have semi-consistently reached out to you over a span of years, congratulations, you are close.
 This is also for all of you who were once close, are just curious, or consider me fondly.
 I probably consider you fondly too, but more on that much later.
 
-I am not sure about posting this post.
+I am not sure about posting this.
 It is much more self-centered and personal than I feel comfortable with.
-But today, June 10, is a day of protest in academia, at least in the sciences. Researchers decided to [#ShutDownSTEM](https://www.shutdownstem.com) and I decided to join along by writing this post instead of working on my projects.
-I am not quite in the sciences anymore, but the objective seems right.
-It is important to take breaks every once and a while and consider current events.
-While this post is in response to how I am in light of current events it can also be used as a cursory  summary of current thoughts related to all sorts of systemic failures.
+But the day I started this, June 10, was a day of protest in academia, at least in the sciences. Researchers decided to [#ShutDownSTEM](https://www.shutdownstem.com).
+I decided to join along by writing this post instead of working on my projects.
+I am not quite in the sciences anymore, but the objective of the day is worthwhile.
+It is important to consider current events and educate yourself on social injustice.
+It is especially important for me to do a bit of reading and consider my experiences as someone who is looked at by various members of society as "black".
+I am often not looked at as me but as just another person with the label "black".
+
+This post is  partially in response to how I am dealing with current events.
+It can also be considered a cursory summary of my current thoughts related to all sorts of systemic failures in society for people who are othered.
+
+## organization
 
 My thoughts are not well organized.
 Everything flows together.
 I am overwhelmed.
-Writing does not help much here, but maybe it will shed light on why I am overwhelmed to some of you.
+Writing is not helping organize my thoughts but maybe it will shed light on why I am overwhelmed to some of you.
+
 These thoughts are the result of years of observations and experiences.
-The impetus for posting is recent, but note that it is impossible to summarize a lifetime of experiences and observations in one afternoon.
-Also note that I will only elaborate if and when I feel comfortable, and am mostly posting this so that I can take the time I need to focus on what I need to.
+This is just one post - it is impossible to exhaustively share a lifetime of experiences and observations in one afternoon.
+I will only elaborate if and when I feel comfortable.
+I am mostly posting this so that I can take the time I need to focus on what I need to now.
 I do not have the bandwidth to host multiple discussions at the moment, but I do have time to continue friendships at their normal paces.
 So let's focus on friendships, and work on tackling everything slowly, because I cannot mentally handle trying to tackle the entirety of racism and inequality in a few short, intense sittings.
 Also, I feel like such an attempt is setting ourselves up for failure or not dedicating enough time to the problems.
@@ -174,6 +186,12 @@ Both of these deaths felt like punches in the gut, especially after last year wh
 I was mad at the fact that society fails so many people I know personally, so that so many feel like there is no place in society for them.
 It is
 People who fall into the other category like me.
+
+## Protection
+
+## Lack of Protection
+
+## Ignorance of coping norms
 
 # Perfection
 
