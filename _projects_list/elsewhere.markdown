@@ -3,7 +3,7 @@ layout: project
 title: Elsewhere
 start-date: 2020-05-01 20:00:00 -0500
 end-date: 2020-05-6 20:00:00 -0500
-image: /assets/img/umbrellaProjects/cabs_99KiB.jpg
+image: /assets/img/2020/2020-07-27.jpg
 alt-text: A close up of a few pages from Celebrating A Benevolent Storm, overlaid by transparent whirlpool
 project-tag: elsewhere
 categories: video elsewhere

@@ -3,7 +3,7 @@ layout: post
 title:  "Elsewhere Writeup"
 date:   2020-07-29 14:20:00 -0500
 categories: elsewhere
-postHero: /assets/img/2019/20190913UMaine.jpg
+postHero: /assets/img/2020/2020-07-27.jpg
 postFooter:
 published: true
 ---
