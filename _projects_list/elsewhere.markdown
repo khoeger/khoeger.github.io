@@ -12,8 +12,11 @@ description: Elsewhere is a video exploration of thoughts, memory, being present
 published: true
 ---
 Elsewhere
+
 Video
+
 1 minute 15 seconds
+
 60 frames per second
 
 <iframe src="https://player.vimeo.com/video/414958176" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -38,5 +38,13 @@ The tiny synthesized clarinet beeps, each 10 milliseconds long, were chosen beca
 Pooled resources were important to the creation of Elsewhere. Cognition takes a collection of neurons. The artist turned to help from family and friends to use cameras, photos, and a font.
 
 ## Works Referenced & Useful Sources
+- Hagan, Hameroff, Tuszyński.
+[*Quantum computation in brain microtubules: Decoherence and biological feasibility.*](https://link.aps.org/doi/10.1103/PhysRevE.65.061901)
+- Hameroff S. [The "conscious pilot"-dendritic synchrony moves through the brain to mediate consciousness.](10.1007/s10867-009-9148-x)
+- Law, Averill M. Simulation Modeling and Analysis. Fourth ed.
+
+
+
 
 ## Relevant Code
+Code used to generate elsewhere [soundtrack](https://github.com/khoeger/elsewhere).
