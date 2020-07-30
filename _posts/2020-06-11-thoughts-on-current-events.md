@@ -5,7 +5,7 @@ date:   2020-06-10 14:20:00 -0500
 categories: currentEvents
 postHero: /assets/img/2019/20190913UMaine.jpg
 postFooter:
-published: true
+published: false
 ---
 
 *Relevant current events at time of writing include the [2020 coronavirus pandemic](https://www.nature.com/articles/s41430-020-0646-z) and the social justice momentum sparked by [George Floyd](https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html)'s and [Breonna Taylor](https://www.nytimes.com/article/breonna-taylor-police.html)'s deaths and [Christain Cooper](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html)'s central park bird watching related harassment.*
