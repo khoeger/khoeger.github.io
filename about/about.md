@@ -6,7 +6,7 @@ Katarina has recently used her work to explore topics such as the concept of sta
 Katarina’s works span many media. Some frequently occurring media include music, audio, video, mathematics, motion, language, text, dance, photography, projection, hardware, and code.
 ##  Education, Employment, Activities
 ### Current
-- Year 2 of 3 in [Intermedia MFA program](https://intermedia.umaine.edu/mfa-program/)  
+- Year 2 of 3 in [Intermedia MFA program](https://intermedia.umaine.edu/mfa-program/) at University of Maine
 - Gradauate Teaching Assistant for University of Maine's New Media creative coding track courses, [NMD 105](https://umaine.edu/newmedia/courses/#105) and [NMD 211](https://umaine.edu/newmedia/courses/#211)
 
 ### Former
