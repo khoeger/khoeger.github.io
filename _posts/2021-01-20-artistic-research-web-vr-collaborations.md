@@ -3,7 +3,7 @@ layout: post
 title:  "Artistic Research, A Foray into Web VR, and Collaborations"
 date:   2021-01-20 12:00:00 -0500
 categories: artistResearch collaboration dizi encased ithappenedthisyear lightbright mirroredAffirmations webVR
-postHero: /assets/img/2020/2020-07-27.jpg
+postHero: /assets/img/2021/0120/2021-01-20.jpg
 postFooter:
 published: true
 ---
