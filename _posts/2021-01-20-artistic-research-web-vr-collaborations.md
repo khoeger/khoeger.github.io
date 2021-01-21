@@ -81,9 +81,10 @@ One of the biggest hurdles I found was the accessibility of my project to my aud
 Not everyone has a powerful modern computer or a consistent enough internet to participate in the experience.
 More easily collected user input, such as streaming video, requires a user to understand how to set up their system to allow for streaming.  
 More intensive user input, such as asking for written stories, requires strong enough user interest that they carry through with providing a narrative to you.
+There is also a worry about the lifespan of a project - web platforms often disappear over the years. 
 
 There are some technical hurdles as well.
-First of all for a unique experience I need to build everything myself. 
+First of all for a unique experience I need to build everything myself.
 This is a time consuming endeavor.
 Checking to see if the code works the same way on multiple browsers and operating systems is also difficult during the pandemic.
 Implementing sound for the web virtual reality experience while also creating a dynamic site without a budget is currently a roadblock for me.
