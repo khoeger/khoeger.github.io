@@ -8,17 +8,21 @@ postFooter:
 published: true
 ---
 
-A Semester's worth of updates.
+Amidst the craze of the pandemic and election art life and university life went on. I made projects, learned about research in art and experiments in art, led a lab section, and formed a few opinions about creating collaborative work.
 
-## Fall 2020
+## Projects
 
-### What do I research and how do I research?
+## Theory on Experiments and Research
+Experiments in art.
 
-### What counts as an Experiment in Art?
+Research in art.  
+## Lab TA Reflections
+## Collaborations
+
 
 ### Mirrored Affirmations and It Happened This Year: Exercises in bringing installations to the home of the viewer
 
-### First Semester as a Teaching Asitant
+### First Semester as a Teaching Assistant
 
 ### Light Bright
 
