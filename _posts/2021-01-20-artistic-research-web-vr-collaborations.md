@@ -85,8 +85,11 @@ Not everyone has a powerful modern computer or a consistent enough internet to p
 More easily collected user input, such as streaming video, requires a user to understand how to set up their system to allow for streaming.  
 More intensive user input, such as asking for written stories, requires strong enough user interest that they carry through with providing a narrative to you.
 There is also a worry about the lifespan of a project - web platforms often disappear over the years.
+One last challenge is code projects are often the sort of project that are hard to consider complete.
+There is much more I could do in both projects to improve upon them.
+Learning when to declare them sufficiently complete is a work in progress for me.
 
-There are some technical hurdles as well.
+I ran into technical hurdles as well.
 First of all for a unique experience I need to build everything myself.
 This is a time consuming endeavor.
 Checking to see if the code works the same way on multiple browsers and operating systems is also difficult during the pandemic.
