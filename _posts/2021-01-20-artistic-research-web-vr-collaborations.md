@@ -8,12 +8,15 @@ postFooter:
 published: true
 ---
 
-Amidst the craze of the pandemic and election art life and university life went on. I made projects, learned about research in art and experiments in art, led a lab section, and formed a few opinions about creating collaborative work.
+Amidst the craze of the pandemic and election art life and university life went on.
+I made projects, learned about research in art and experiments in art, led a lab section, and formed a few opinions about creating collaborative work.
+I gave an overview of my practice and gave an interview.
+Read more to learn what I have been working on between September 2020 and now.
 
 ## Projects
 
 ### Web VR
-I created **Mirrored Affirmations** and **It Happened This Year** in an attempt to bring the gallery experience to the experiencer as the experiencer is reluctant to physically enter galleries during the pandemic. It was a project created with the Critique course in mind.
+I created **Mirrored Affirmations** and **It Happened This Year** in an attempt to bring the gallery experience to the experiencer as the experiencer is reluctant to physically enter galleries during the pandemic. Both projects were created with the Critique course in mind.
 
 #### **Mirrored Affirmations**, 2020
 
@@ -81,7 +84,7 @@ One of the biggest hurdles I found was the accessibility of my project to my aud
 Not everyone has a powerful modern computer or a consistent enough internet to participate in the experience.
 More easily collected user input, such as streaming video, requires a user to understand how to set up their system to allow for streaming.  
 More intensive user input, such as asking for written stories, requires strong enough user interest that they carry through with providing a narrative to you.
-There is also a worry about the lifespan of a project - web platforms often disappear over the years. 
+There is also a worry about the lifespan of a project - web platforms often disappear over the years.
 
 There are some technical hurdles as well.
 First of all for a unique experience I need to build everything myself.
@@ -93,61 +96,64 @@ Implementing everything to a high standard in less than a month while working on
 In short, at the moment, this is not yet a very useable substitute for me for an in person gallery experience.
 With time and diligent experimentation it may become so.
 
-
 ### GROUP PROJECTS
 #### Encased
+My classmates and I assembled [**Encased**](https://umaine.edu/imfa-critique/) as our exhibition.
+**Encased** is composed of a [*Fluxkit*](https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxkit/) inspired suitcase alongside a website showcasing the physical display and each of our projects.
+My contribution to encased is a booklet version of **It Happened This Year**. The booklet displays a web virtual reality work, in a remote-accessible, digital, unordered, dynamic and power using format in a local, analog, ordered, static, and unplugged format.
+
 #### Horizons: 47 Spectra of Dizi
+[Justin Brown](https://intermedia.umaine.edu/people/justin-brown/), [Armando Garma Fernandez](https://intermedia.umaine.edu/people/armando-garma-fernandez/), and I started this on this piece as part of the Experimental Media and Performance class.
+My major contributions to this collaboration revolved around learning about the dizi and recording, curating, and editing a library of basic dizi sound files.
+Much of the sound editing was outsourced to [Steven Norton](http://rednotebook.org/index.html).
+This continues on as a work in progress.
+
+![3 bamboo flutes lie on a wooden table.]({{ "assets//img//2021//0120//20210121_dizi_99KiB.jpg" | absolute_url }})
+
+The image above shows my 3 dizi.
+
 #### Light Bright
+Various students and alumni from my program produced [**Light Bright 2020**](https://www.themaineedge.com/style/umaine-intermedia-program-brings-light-bright-to-bangor), a projection show hosted in downtown Bangor on December 12, 2020. **Light Bright** was curated by [Arturo Camacho](https://intermedia.umaine.edu/people/arturo-camacho/).
+My segment featured an animation of the outlines of local dancers from times we could meet coupled with photos of city and nature scenery from the Bangor area.
+
+![Katarina in winter jacket with umbrella in front of camera stand with pictures of dancers projected across the street.]({{ "assets//img//2021//0120//20210121_lightbright_97KiB.jpg" | absolute_url }})
+
+The image above, courtesy of [Susan Smith](https://intermedia.umaine.edu/people/susan-smith/), pictures me in front of a segment of my Light Bright show.
+
+#### Reflections on Group Work
+I learned the following through the 3 collaborative efforts I participated in.
+- When you collaborate, you need to meet group deadlines. This makes prioritizing personal deadlines difficult. Be selective with how many collaborative efforts you agree to participate in.
+- Discuss everything with your collaboration partners. It's not a collaboration if you each do your own thing then come together without discussing ideas together. Bring examples of your idea to discuss at the next meeting.
+- Because you are working with others it is important to experience the work together with them before turning it in.
+- Some personalities and work styles clash when collaborating. Stand your ground with your ideas. Make sure you are heard. Do not dominate but make sure that everyone understands and can support the chosen direction.
+- Figure out how to work around differing levels of commitment.
+
 ### LONG TERM PROJECTS
+#### BELA
 #### BONSAI
-
-
+#### Postal Scores
 ## THEORY ON EXPERIMENTS AND RESEARCH
+
+### Experiments
 Experiments in art.
 
+### Research
 Research in art.
 
 ## LAB TA REFLECTIONS
-COLLABORATIONS
-FIRST SEMESTER AS A TEACHING ASSISTANT
-LIGHT BRIGHT
-COLLABORATIVE CRITIQUE EXHIBIT
-OTHER ART
-BELA INVESTIGATIONS
-BONSAI
-POSTAL SCORES
-GOING FORWARD
-SOCIAL / POLITICAL STATEMENTS
-TOPICS I AM INTERESTED IN
-ARTISTS TO WATCH
-BOOKS TO READ
-RELEVANT CODE
 
-## Theory on Experiments and Research
-Experiments in art.
 
-Research in art.  
-## Lab TA Reflections
-## Collaborations
+## General Statements
+This is my artist introduction, as of the beginning of the Fall 2020 semester.
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2189801/sp/218980100/embedIframeJs/uiconf_id/44739341/partner_id/2189801?iframeembed=true&playerId=kaltura_player&entry_id=1_y8scii14&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_je7jbk0m" width="400" height="650" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+
+I was [interviewed](https://intermedia.umaine.edu/2020/11/04/katarina-hoeger/) by Rebecca Morgan as part of the Intermedia Student Feature series. There is ample text, plus the video interview attached below.
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/474736287" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 
 
-
-### First Semester as a Teaching Assistant
-
-### Light Bright
-
-### Collaborative Critique Exhibit
-
-### Other Art
-#### Bela Investigations
-#### Bonsai
-#### Postal Scores
-
-## Going Forward
-### Social / Political Statements
-### Topics I am interested in
-### Artists to Watch
-### Books to Read
-
-## Relevant Code
+### GOING FORWARD
+### SOCIAL / POLITICAL STATEMENTS
+### TOPICS I AM INTERESTED IN
+### ARTISTS TO WATCH
+### BOOKS TO READ
