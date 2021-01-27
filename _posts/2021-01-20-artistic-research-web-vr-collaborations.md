@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artistic Research, A Foray into Web VR, and Collaborations"
-date:   2021-01-20 12:00:00 -0500
+date:   2021-01-26 12:00:00 -0500
 categories: artistResearch bela collaboration dizi dizihorizons encased ithappenedthisyear lightbright2020 mirroredAffirmations webVR
 postHero: /assets/img/2021/0120/2021-01-20.jpg
 postFooter:
@@ -105,6 +105,9 @@ My classmates and I assembled [**Encased**](https://umaine.edu/imfa-critique/) a
 **Encased** is composed of a [*Fluxkit*](https://www.moma.org/interactives/exhibitions/2011/fluxus_editions/category_works/fluxkit/) inspired suitcase alongside a website showcasing the physical display and each of our projects.
 My contribution to encased is a booklet version of **It Happened This Year**. The booklet displays a web virtual reality work, in a remote-accessible, digital, unordered, dynamic and power using format in a local, analog, ordered, static, and unplugged format.
 
+Below is an image of the exhibit Encased, taken by one of my classmates and linked to from the UMaine Intermedia Critique web page.
+![A table with a red tablecloth. Atop the cloth sits a suitcase with miniature versions of artwork laid out around and inside it.](https://umaine.edu/imfa-critique/wp-content/uploads/sites/598/2020/12/ENCASED-004-300x200.jpg)
+
 #### Horizons: 47 Spectra of Dizi
 [Justin Brown](https://intermedia.umaine.edu/people/justin-brown/), [Armando Garma Fernandez](https://intermedia.umaine.edu/people/armando-garma-fernandez/), and I started this on this piece as part of the Experimental Media and Performance class.
 My major contributions to this collaboration revolved around learning about the dizi and recording, curating, and editing a library of basic dizi sound files.
@@ -113,7 +116,7 @@ This continues on as a work in progress.
 
 I chose to work with dizi after having watched [The Untamed](https://www.imdb.com/title/tt10554898/).
 Because the main character is a dizi player and dizi plays a major part in the narrative, dizi appears promenently throughought the score.
-I have heard the haunting quality before but the tale gripped me so thoroughly I decided I needed to create those tones myself. 
+I have heard the haunting quality before but the tale gripped me so thoroughly I decided I needed to create those tones myself.
 
 ![3 bamboo flutes lie on a wooden table.]({{ "assets//img//2021//0120//20210121_dizi_99KiB.jpg" | absolute_url }})
 
@@ -176,10 +179,27 @@ However, like most independent websites, I don't trust it to last.
 ## THEORY ON EXPERIMENTS AND RESEARCH
 
 ### Experiments
-Experiments in art.
+As a scientifically trained artist, I was very interested in learning more about the concept of experimentation in art.
+What makes a properly carried out art experiment, as opposed to a physics experiment?
+One way to look at art experiments is to consider the content and figure out what disciplines, if any are mixed or stretched.
+Consider how the work was built.
+Does the order of construction and the presentation logically make sense given the subject explored by the artist?
+Some of my favorite examples of artistic experiments included Hollis Frampton's [Zorns Lemma](http://hollisframpton.org.uk/zornslemma.htm), John Cage's [A Music Circus](https://www.worldcat.org/title/john-cage-a-music-circus/oclc/31524785), and Alvin Lucier's [I Am Sitting In A Room](https://youtu.be/bhtO4DsSazc).
+
+I learned that some types of experimental art come naturally to me - small experiments, where I just want to see what happens next.
+Our collaborative group dizi experiment was much more difficult work on.
+This is why it is still in progress.
 
 ### Research
-Research in art.
+Research is once again a loaded topic to me.
+Having been trained rigorously in the sciences, I came into this class with a very specific idea of research.
+Through the course of this class I learned that arts-based research is "research carried out by scholar/practitioners -- artists, designers, curators, architects, writers and musicians -- who, through their practice, are able to contribute new concepts, methods and models in order to participate in the production of original knowledge."([USC Cinematic Arts](https://map.usc.edu/defining-arts-based-research/)).
+The goal of my program is for me to figure out my own method of researching and narrow down what I contribute to the knowledge base through my projects.
+
+I identified some of my research methods but am still in process of identifying what I am truly exploring with my work.
+
+![A diagram depicting my work process: Idea Spark, Clarify, Instantiate, Document, Evaluate / Live / Distribute and any inputs into these and loops.]({{ "assets//img//2021//0120//20210126_researchMethods.png" | absolute_url }})
+
 
 ## LAB TA REFLECTIONS
 I really liked being a lab TA. Working with college students is a joy and creating the [content](https://github.com/UMaine-NMD-211-Fall-2020) for their labs was fulfilling, if time consuming.
@@ -195,8 +215,9 @@ I really liked being a lab TA. Working with college students is a joy and creati
 Labs were styled after my experience in Chemistry and Physics labs in undergrad. They repeated learned material in a supplementary manner to the class.
 
 ## General Statements
+### Artist Introduction, September 2020
 This is my artist introduction, as of the beginning of the Fall 2020 semester.
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2189801/sp/218980100/embedIframeJs/uiconf_id/44739341/partner_id/2189801?iframeembed=true&playerId=kaltura_player&entry_id=1_y8scii14&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_je7jbk0m" width="400" height="650" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
-
+###  Interview, Fall 2020
 I was [interviewed](https://intermedia.umaine.edu/2020/11/04/katarina-hoeger/) by Rebecca Morgan as part of the Intermedia Student Feature series. There is ample text, plus the video interview attached below.
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/474736287" width="640" height="480" frameborder="0" allowfullscreen></iframe>
