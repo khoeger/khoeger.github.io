@@ -111,6 +111,10 @@ My major contributions to this collaboration revolved around learning about the 
 Much of the sound editing was outsourced to [Steven Norton](http://rednotebook.org/index.html).
 This continues on as a work in progress.
 
+I chose to work with dizi after having watched [The Untamed](https://www.imdb.com/title/tt10554898/).
+Because the main character is a dizi player and dizi plays a major part in the narrative, dizi appears promenently throughought the score.
+I have heard the haunting quality before but the tale gripped me so thoroughly I decided I needed to create those tones myself. 
+
 ![3 bamboo flutes lie on a wooden table.]({{ "assets//img//2021//0120//20210121_dizi_99KiB.jpg" | absolute_url }})
 
 The image above shows my 3 dizi.
