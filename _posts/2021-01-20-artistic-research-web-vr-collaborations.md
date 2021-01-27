@@ -2,7 +2,7 @@
 layout: post
 title:  "Artistic Research, A Foray into Web VR, and Collaborations"
 date:   2021-01-20 12:00:00 -0500
-categories: artistResearch collaboration dizi dizihorizons encased ithappenedthisyear lightbright2020 mirroredAffirmations webVR
+categories: artistResearch bela collaboration dizi dizihorizons encased ithappenedthisyear lightbright2020 mirroredAffirmations webVR
 postHero: /assets/img/2021/0120/2021-01-20.jpg
 postFooter:
 published: true
@@ -133,7 +133,26 @@ I learned the following through the 3 collaborative efforts I participated in.
 
 ### LONG TERM PROJECTS
 #### BELA
+I started working with the Bela Board to make reactive work.
+By this I mean I am using the Bela board, hardware sensors, and code to create situations where a user's actions trigger a visual event, sound event, or a motion.
+Bela boards have extremely low latency with respect to sound production making learning to incorporate this hardware very important to my future work.
+
+![Bela board hooked to PIR sensor and computer]({{ "assets//img//2021//0120//20210126_bela_96KiB.jpg" | absolute_url }})
+This is the setup I used to trigger changes in sound via C as well as move a ball across the screen in processing.
+My next steps are integrating the bela with P5js and the bela with sound with sensors that are not potentiometers.
+This process is very methodical and slow but I anticipate fulfilling results.
+My end goal is an instrument I can use to create further works of art focused around sound.
+
+
 #### BONSAI
+I started trying to cultivate bonsai on a whim.
+I decided that "now" was the best time to start, dug up a sapling, and planted it in what I had.
+Since then, my collection has grown a lot.
+
+I decided to document as an exercise in practicing sharing my work.
+I find systematic documentation difficult but documentation is often integral to artistic practices especially those where the process is almost as important or more important than the end product.
+My progress can be seen on my Instagram
+
 #### Postal Scores
 ## THEORY ON EXPERIMENTS AND RESEARCH
 
