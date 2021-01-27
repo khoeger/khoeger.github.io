@@ -142,6 +142,7 @@ This is the setup I used to trigger changes in sound via C as well as move a bal
 My next steps are integrating the bela with P5js and the bela with sound with sensors that are not potentiometers.
 This process is very methodical and slow but I anticipate fulfilling results.
 My end goal is an instrument I can use to create further works of art focused around sound.
+The most interesting examples I have seen with a Bela were created by [Tim Shaw](https://blog.bela.io/2020/11/18/ambulation-tim-shaw-soundscape/) and potentially [Jie Qi](http://technolojie.com/pu-gong-ying-tu-dandelion-painting/) (I found this example through the Bela page but didn't find proof that its done using Bela).
 
 
 #### BONSAI
@@ -163,7 +164,16 @@ Experiments in art.
 Research in art.
 
 ## LAB TA REFLECTIONS
+I really liked being a lab TA. Working with college students is a joy and creating the [content](https://github.com/UMaine-NMD-211-Fall-2020) for their labs was fulfilling, if time consuming.
 
+- Use pre-prepared tutorials when possible. Someone put a whole lot of time and effort into explaining the concept and will often do a better job than I can pull together in less than 5 hours.
+- Set strict time limits related to TAing. Responding to emails and questions can and will take up all of the time you have set aside for the class if you let it.
+- Always have labs prepared ahead of lab, no matter how simple the concept is. Whatever can go wrong will. It's best to have the content prepared and tested at least a week ahead of class.
+- Have examples ready for each topic using the concepts!
+- Do not introduce Github to people learning remotely over zoom who have a wide range of differing programming experience and a slew of other coursework to complete that week.
+- Try to focus on getting the students to learn how to learn on their own. 
+
+Labs were styled after my experience in Chemistry and Physics labs in undergrad. They repeated learned material in a supplementary manner to the class.
 
 ## General Statements
 This is my artist introduction, as of the beginning of the Fall 2020 semester.
@@ -171,11 +181,3 @@ This is my artist introduction, as of the beginning of the Fall 2020 semester.
 
 I was [interviewed](https://intermedia.umaine.edu/2020/11/04/katarina-hoeger/) by Rebecca Morgan as part of the Intermedia Student Feature series. There is ample text, plus the video interview attached below.
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/474736287" width="640" height="480" frameborder="0" allowfullscreen></iframe>
-
-
-
-### GOING FORWARD
-### SOCIAL / POLITICAL STATEMENTS
-### TOPICS I AM INTERESTED IN
-### ARTISTS TO WATCH
-### BOOKS TO READ
