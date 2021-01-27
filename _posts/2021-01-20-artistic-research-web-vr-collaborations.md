@@ -181,7 +181,7 @@ The website needs a bit more work, but the cards are ready to be distributed.
 Each kit contains a set of post cards that are also event scores to be enacted between the sender and recipient of a card.
 It is an exercise in consumable mass produced art as well as the Fluxus concept of an event score.
 
-![Postal Scores boxes unwrapped and wrapped on a table]({{ "assets//img//2021//0120//20210126_postalScores_97KiB.png" | absolute_url }})
+![Postal Scores boxes unwrapped and wrapped on a table]({{ "assets//img//2021//0120//20210126_postalScores_97KiB.JPG" | absolute_url }})
 
 ## THEORY ON EXPERIMENTS AND RESEARCH
 
