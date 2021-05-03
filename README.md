@@ -3,9 +3,9 @@
 This portfolio site will serve as a place to find
 * professional updates
 * blog posts
-* music releases
-* concert information
+* music releases / concert information
+* artist projects, artist life, & updates
 * personal research, etc.
 * project links
 
-*This site is attempt 2 at making a personal jekyll blog.*
+
