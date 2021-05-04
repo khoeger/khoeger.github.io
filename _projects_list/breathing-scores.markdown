@@ -19,4 +19,4 @@ text scores, audio
 
 Contributers: Katarina Hoeger,
 
-<iframe src="https://editor.p5js.org/k.hoeger.maine/embed/NJAQi2o55"></iframe>
+<iframe src="https://editor.p5js.org/k.hoeger.maine/embed/NJAQi2o55" width="650" height="800"></iframe>
