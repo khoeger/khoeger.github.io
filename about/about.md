@@ -31,4 +31,4 @@ Bachelor of Science in Mathematics from Harvey Mudd College in Claremont,
 California, USA.
 Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
-Katarina's Artist [CV]("https://github.com/khoeger/khoeger.github.io/assets/pdf/katarinaHoeger_artistCV_20220214.pdf")
+Katarina's Artist [CV](https://github.com/khoeger/khoeger.github.io/blob/8b90856022fa569dd5c2bd6b177d9429b1feac64/assets/pdf/katarinaHoeger_artistCV_20220214.pdf)
