@@ -29,6 +29,6 @@ Science with a specialization in Computational Operations Research from
 the College of William and Mary in Williamsburg, Virginia, USA and a
 Bachelor of Science in Mathematics from Harvey Mudd College in Claremont,
 California, USA.
-Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/). 
+Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
-##  Resume
+Katarina's Artist [CV]("https://github.com/khoeger/khoeger.github.io/assets/pdf/katarinaHoeger_artistCV_20220214.pdf")
