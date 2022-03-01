@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
   <div class="post">
     {% if page.image %}
       <div class ="half-hero" style="background-image:url({{ page.image }})"></div>
@@ -31,6 +32,10 @@ layout: default
       <div class="post-content" itemprop="articleBody">
         {{ content}}
       </div>
+      <!-- +++++ Connect page to relevant articles/ posts +++++ -->
+      <!-- more details for doing the below https://jekyllrb.com/docs/posts/#tags-and-categories -->
+
+
       {% assign taggedProject = site.posts | where_exp: "article",
                                               "article.categories == page.project-tag"%}
       {% unless taggedProject == empty %}
