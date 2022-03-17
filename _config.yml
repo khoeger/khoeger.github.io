@@ -39,7 +39,7 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-pdf-embed
+  # - jekyll-pdf-embed
 permalink: /:year/:month/:day/:title
 # Collections
 collections:
