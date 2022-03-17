@@ -33,5 +33,6 @@ Katarina Hoeger is a founding board member of [Music Community Lab](https://musi
 
 ## Artist CV
 <!-- https://mihajlonesic.gitlab.io/jpe-examples/  -->
-March 2022 [Temporary Artist CV]({{ "assets/pdf/katarinaHoeger_artistCV_20220302.pdf" | absolute_url }})
+{% pdf "/assets/pdf/katarinaHoeger_artistCV_20220302.pdf" %}
+<!-- March 2022 [Temporary Artist CV](https://khoeger.github.io/assets/pdf/katarinaHoeger_artistCV_20220302.pdf) -->
   <!-- {% pdf {{"//assets//pdf//katarinaHoeger_artistCV_20220302.pdf" | absolute_url }} no_link %} -->
