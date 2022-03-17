@@ -6,7 +6,7 @@ those of another or others or the trace of one’s actions to the space one
 exists in. Given my current training as an Intermedial artist, my works
 exists in multiple media, with a larger emphasis on works predicated on
 directions and code and than those that are not. My works often focuses
-on auditory and visual senses and asks the viewer-listener-userparticipant
+on auditory and visual senses and asks the viewer-listener-user-participant
 to either stand witness to the piece or to actually manipulate
 it. Most of my works exist in transitory forms, mimicking the temporality
 of experiences and relations as well as the temporary nature of a body
@@ -33,6 +33,6 @@ Katarina Hoeger is a founding board member of [Music Community Lab](https://musi
 
 ## Artist CV
 <!-- https://mihajlonesic.gitlab.io/jpe-examples/  -->
-{% pdf {{ "/assets/pdf/katarinaHoeger_artistCV_20220302.pdf" | absolute_url }} no_link %}
+{% pdf {{page.pdf_local}} no_link %}
 <!-- March 2022 [Temporary Artist CV](https://khoeger.github.io/assets/pdf/katarinaHoeger_artistCV_20220302.pdf) -->
   <!-- {% pdf {{"//assets//pdf//katarinaHoeger_artistCV_20220302.pdf" | absolute_url }} no_link %} -->
