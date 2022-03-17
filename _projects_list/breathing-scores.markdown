@@ -13,7 +13,7 @@ published: true
 ---
 ## About {{page.title}}, for Solo Performer
 
-{{page.start-date | date: "%Y"  %}}
+{{page.start-date | date: "%Y"  }}
 
 text scores, sound recordings
 
