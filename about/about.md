@@ -32,4 +32,6 @@ California, USA.
 Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
 ## Artist CV
-<!-- <embed src="{{page.pdf_local}}" type="application/pdf"/> -->
+Katarina Hoeger's [CV from March 2, 2022]({{page.pdf_local}}). 
+
+<!-- <iframe src="{{page.pdf_local}}" type="application/pdf"></iframe> -->
