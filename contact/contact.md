@@ -37,11 +37,11 @@
 [<span class="fa fa-rss"></span>]({{"/feed.xml" | relative_url }}) &emsp;via [RSS]({{"/feed.xml" | relative_url }})
 
 <!-- https://blog.webjeda.com/jekyll-subscribe-form/#update-1---mailchimp-subscribe-form-on-jekyll -->
+[<span class="fa fa-envelope-open"></span>](http://eepurl.com/hXA_U5) &emsp;via [Mailing List](http://eepurl.com/hXA_U5)
 <!-- Begin Mailchimp Signup Form -->
-[<span class="fa fa-envelope-open"></span>](https://katarinahoeger.us14.list-manage.com/subscribe/post?u=e367bc226ccf2d4298cd99b8c&amp;id=4be4d66c52) &emsp;via [Mailing List](https://katarinahoeger.us14.list-manage.com/subscribe/post?u=e367bc226ccf2d4298cd99b8c&amp;id=4be4d66c52)
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -51,17 +51,17 @@
 
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div hidden="true"><input type="hidden" name="tags" value="7156455"></div>
 	<div id="mce-responses" class="clear foot">
@@ -78,5 +78,5 @@
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
