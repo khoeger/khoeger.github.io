@@ -1,3 +1,5 @@
+![Katarina Hoeger smiling, wearing pink glasses and a red shirt. The image is not a photo, but a composite picture made up of letters and circles.]({{ "assets/img/portrait/katarina_hoeger_merged__2022_1_10_17_20_circle_0.05_320x320_82KiB.jpg" | absolute_url}}){: .pull-right }
+
 ## Artist Statement
 My artistic works examine relations that are inherently part of being oneself
 and embodying space. The relations themselves are common ones
@@ -32,6 +34,6 @@ California, USA.
 Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
 ## Artist CV
-Katarina Hoeger's [CV from March 2, 2022]({{page.pdf_local}}). 
+Katarina Hoeger's [CV from March 2, 2022]({{page.pdf_local}}).
 
 <!-- <iframe src="{{page.pdf_local}}" type="application/pdf"></iframe> -->
