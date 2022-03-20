@@ -757,6 +757,14 @@ h4 {
   width: 85vw;
   height: 85vh;
 }
+.about-content span{
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--kh-headers);
+  text-align: left;
+  margin: 1em 0em;
+  font-size: 2em;
+}
 
 /* DROPDOWN STYLES */
 .dropdown {

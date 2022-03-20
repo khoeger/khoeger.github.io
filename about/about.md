@@ -1,6 +1,8 @@
 ![Katarina Hoeger smiling, wearing pink glasses and a red shirt. The image is not a photo, but a composite picture made up of letters and circles.]({{ "assets/img/portrait/katarina_hoeger_merged__2022_1_10_17_20_circle_0.05_320x320_82KiB.jpg" | absolute_url}}){: .pull-right }
 
 ## Artist Statement
+<span>"</span>
+
 My artistic works examine relations that are inherently part of being oneself
 and embodying space. The relations themselves are common ones
 such as the relation between oneself and one’s thoughts juxtaposed with
@@ -13,6 +15,8 @@ to either stand witness to the piece or to actually manipulate
 it. Most of my works exist in transitory forms, mimicking the temporality
 of experiences and relations as well as the temporary nature of a body
 of work that is often some form of new media art.
+
+<span>"</span>
 
 ## Bio
 Katarina Hoeger is fascinated by relations that are inherently part of being
