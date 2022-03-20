@@ -16,11 +16,10 @@
 title: Katarina Hoeger
 email: katarina@katarinahoeger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Katarina Hoeger's personal website.
-  A portfolio for independent work.
+  Katarina Hoeger's website.
+  A portfolio.
   A blog.
-  Technical posts will generally feature some mixture of mathematics, computer science,
-  music, or music technology.
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
