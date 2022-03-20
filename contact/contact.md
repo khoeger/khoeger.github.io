@@ -37,7 +37,7 @@
 [<span class="fa fa-rss"></span>]({{"/feed.xml" | relative_url }}) &emsp;via [RSS]({{"/feed.xml" | relative_url }})
 
 <!-- https://blog.webjeda.com/jekyll-subscribe-form/#update-1---mailchimp-subscribe-form-on-jekyll -->
-[<span class="fa fa-envelope-open"></span>](http://eepurl.com/hXA_U5) &emsp;via [Mailing List](http://eepurl.com/hXA_U5)
+[<span class="fa fa-envelope-open"></span>]({{site.mailchimp_signup_link}}) &emsp;via [Mailing List]({{site.mailchimp_signup_link}})
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
