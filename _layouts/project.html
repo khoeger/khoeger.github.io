@@ -36,16 +36,31 @@ layout: default
       <!-- more details for doing the below https://jekyllrb.com/docs/posts/#tags-and-categories -->
 
 
-      {% assign taggedProject = site.posts | where_exp: "article",
-                                              "article.categories == page.project-tag"%}
-      {% unless taggedProject == empty %}
+      {% assign taggedEvents = site.events_list | where_exp: "eventInstance",
+                                              "eventInstance.project-tag== page.project-tag"%}
+      {% unless taggedEvents == empty %}
+
+          <div class="post-rel-projects">
+            <h3>Related Events</h3>
+            {% for eventInstance in taggedEvents %}
+              <div class="rel-project-title">
+                  <h6>
+                    <a href="{{ eventInstance.url }}">{{eventInstance.title}}</a>
+                  </h6>
+              </div>
+            {% endfor %}
+          </div>
+      {% endunless %}
+      {% assign taggedArticles = site.posts | where_exp: "article",
+                                              "article.project-tag == page.project-tag"%}
+      {% unless taggedArticles == empty %}
 
           <div class="post-rel-articles">
             <h3>Related Posts</h3>
-            {% for project in taggedProjects %}
+            {% for article in taggedArticles %}
               <div class="rel-article-title">
                   <h6>
-                    <a href="{{ article.url }}">{{ project.title}}</a>
+                    <a href="{{ article.url }}">{{ article.title}}</a>
                   </h6>
               </div>
             {% endfor %}
