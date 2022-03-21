@@ -2,7 +2,7 @@
 layout: post
 title:  Abstract Submission to UMSS
 date:   2022-03-14 12:00:00 -0500
-categories: abstract artistResearch research thesis umss umss2022
+categories: abstract art artistResearch research thesis umss umss2022
 postHero: /assets/img/2022/03/2022-03-14.jpg
 event-tag: 20220414UMSS
 postFooter:
