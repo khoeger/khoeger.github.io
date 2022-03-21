@@ -9,7 +9,7 @@ type: student symposium
 role: exhibit presenter
 event-tag: 20220414UMSS
 categories: art exhibit presentation research thesis
-description: University of Maine Student Symposium. Art research on topic "Your Embodied Presence and its Inherent Impact on the Relations Existing in your Present" Environment  
+description: University of Maine Student Symposium. Art research on topic "Your Embodied Presence and its Inherent Impact on the Relations Existing in your Present Environment"
 published: true
 postFooter: UMSS 2022 logo courtesy of the UMaine Center for Undergraduate Research.
 ---
