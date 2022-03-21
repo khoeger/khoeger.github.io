@@ -32,6 +32,11 @@ layout: default
           {% endfor %}
         </div>
     {% endunless %}
+    <footer class="post-footer">
+      {% if page.postFooter %}
+      {{ page.postFooter }}
+      {% endif %}
+    </footer>
 
     {% if site.disqus.shortname %}
       {% include disqus_comments.html %}
