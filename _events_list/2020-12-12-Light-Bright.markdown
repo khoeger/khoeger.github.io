@@ -8,7 +8,7 @@ location: Central Street, Orono, ME 04401
 type: projection show
 role: artist
 event-tag: 20201212LightBright
-categories: art projection swing projection mapping lightShow holiday lightbright2020
+categories: art holiday lightbright2020 lightShow  projection projectionMapping swing 
 description: Projection based holiday light show.
 published: true
 ---
@@ -30,4 +30,4 @@ Arturo Camacho is {{page.title}}'s curator and director.
 The participating artists are Ian Beckett, Arturo Camacho, Adriana Cavalcanti, Lia Davido, Armando Garma, Thomas Griffith, Reed Hayden, Katarina Hoeger, Heidi Kraepel, Rochelle Lawrence and Anna Martin.
 
 Katarina Hoeger presents *Dance: on Buildings*, 2020.
-It features an animation of the outlines of local dancers extracted from video shot by Amber Saucier and Terence Lee as well as Katarina's photographs featuring the local beauty of Bangor City Forest. 
+It features an animation of the outlines of local dancers extracted from video shot by Amber Saucier and Terence Lee as well as Katarina's photographs featuring the local beauty of Bangor City Forest.
