@@ -5,7 +5,7 @@ date: 2021-12-07 17:00:00 -0500
 image: /assets/img/2021/1207/20211207_sketch_lotusInTheClouds.jpg
 location-title: Stewart Commons
 location: University of Maine, Stewart Commons, Orono, ME 04469
-type: installation
+type: open studio / installation
 role: artist
 event-tag: 20211207IMFAOpenHouse
 categories: art etudes openStudio reconstitutedMedia sketches
