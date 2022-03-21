@@ -21,10 +21,10 @@ layout: default
                                             "proj.project-tag == page.project-tag"%}
     {% unless taggedProjects == empty %}
 
-        <div class="post-rel-projects">
+        <div class="post-rel-articles">
           <h3>Related Projects</h3>
           {% for proj in taggedProjects %}
-            <div class="rel-project-title">
+            <div class="rel-article-title">
                 <h6>
                   <a href="{{ proj.url }}">{{ proj.title}}</a>
                 </h6>
