@@ -3,8 +3,8 @@ layout: event
 title: CS Summer of Fun
 date: 2021-08-12 10:00:00 -0500
 image:
-location-title: Stewart Commons
-location: University of Maine, Stewart Commons, Orono, ME 04469
+location-title: online
+location: online
 type: cs education conference
 role: workshop leader
 event-tag: 20210812CSSummerOfFun
