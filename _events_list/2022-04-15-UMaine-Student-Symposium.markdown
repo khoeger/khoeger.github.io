@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 2022 Student Symposium
-date: 2022-08-12 09:00:00 -0500
+date: 2022-04-15 09:00:00 -0500
 image:
 location-title: University of Maine New Balance Field House and Memorial Gym
 location: Campus Recreation, 5797 New Balance Student Recreation Center, 22 Hilltop Road, Orono, ME, 04469
