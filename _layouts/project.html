@@ -38,6 +38,7 @@ layout: default
       {% else %}
       <div class="project-media project-video">
         {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
+        </div>
       {% endif %} <!-- end if video special -->
       {% else %}
       <div class="project-media">
@@ -57,11 +58,11 @@ layout: default
       {% else %}
         {{page.display-description}}
       {% endif %}
+       </div>
       {% endif %} <!-- end if page.display-description -->
-      </div>
       </div> <!-- end div project-details-->
       <div class="post-content" itemprop="articleBody">
-        {{ content}}
+        {{ content }}
       </div>
       <!-- +++++ Connect page to relevant articles/ posts +++++ -->
       <!-- more details for doing the below https://jekyllrb.com/docs/posts/#tags-and-categories -->
