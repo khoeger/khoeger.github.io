@@ -8,7 +8,7 @@ media: video
 length-min: 23
 length-sec: 21
 materials:
-display-description: projected on sheet
+display-description: projection on sheet
 display-size: 4' x 2.25'
 artists:
 image: /assets/img/umbrellaProjects/IDontLikeHim/20191011_IDontLikeHimTitle.jpg
@@ -21,7 +21,7 @@ alt-text: a yellow duck sits on a rainbow circle of dice
 
 Through {{page.title}}, Katarina Hoeger examines her relationships with a cast of men not biologically related to her through the lens of a conversation with her deceased
 best friend, also male.
-The conversation leads to scriptless letter writing sessions
+The conversation leads to freeform letter writing sessions
 and word associations depicted alongside recordings of her behavior as the piece
 progresses.
 The transitions include items the artist associates with each male's presence.
