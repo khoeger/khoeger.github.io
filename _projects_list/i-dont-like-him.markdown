@@ -32,5 +32,5 @@ dorm.
 {{page.title}} escapes Katarina's previous boundaries of strict data visualization and sonification and is a less premeditated and structured approach to art making than much of her prior work.
 Through this work, the artist also explores personal symbology and fostering connections through borrowed objects.
 
-![A triangular die in the top lect corner, a shot of the artist with words in front of her in the bottom right, a shot of the artist writing while nibbling on a cookie in the mid background, and a closer shot of the artist with words in front of her](/assets/img/umbrellaProjects/IDontLikeHim/20191011_IDontLikeHim_PartIII.jpg)
+![A triangular die in the top left corner, a shot of the artist with words in front of her in the bottom right, a shot of the artist writing while nibbling on a cookie in the mid background, and a closer shot of the artist with words in front of her](/assets/img/umbrellaProjects/IDontLikeHim/20191011_IDontLikeHim_PartIII.jpg)
 *A frame depicting writing a letter to the third man.*
