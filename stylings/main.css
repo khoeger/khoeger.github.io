@@ -572,6 +572,7 @@ h4 {
   text-align: left;
   font-style: italic;
   margin-bottom: 3vh;
+  text-transform: lowercase;
 }
 /* BLOG STYLES */
 .blog-recent {
