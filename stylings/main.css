@@ -568,6 +568,11 @@ h4 {
 .project {
   width: 100%;
 }
+.project-details {
+  text-align: left;
+  font-style: italic;
+  margin-bottom: 3vh;
+}
 /* BLOG STYLES */
 .blog-recent {
   text-align: right;

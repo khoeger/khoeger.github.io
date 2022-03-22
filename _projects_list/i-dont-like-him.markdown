@@ -18,12 +18,16 @@ description: A video-based trip through the artist's thoughts touching on past f
 published: true
 alt-text:
 ---
-## About {{page.title}}
-{{page.title}} provides a snapshot into the artist’s thoughts.
-Symbolic references to a close friend and crushes are made as she tells this friend a story about those crushes.
-The artist uses her friend as a rubber ducky, referencing rubber ducky debugging.
-Some symbols and rituals in the video connect her with her friend, others with various crushes, and some connect with both.
 
-The video production and presentation process highlight various relationships.
-The artist borrowed objects, included photos from other photographers, and using objects and locations easily accessible to students.
-Fostering a community through borrowed objects and thriftiness both played a symbolic role in the making of this video.
+Through {{page.title}}, Katarina Hoeger examines her relationships with a cast of men not biologically related to her through the lens of a conversation with her deceased
+best friend, also male.
+The conversation leads to scriptless letter writing sessions
+and word associations depicted alongside recordings of her behavior as the piece
+progresses.
+The transitions include items the artist associates with each male's presence.
+
+{{page.title}} was shown in the student work spaces, in a makeshift movie theater constructed from couches and  lockers, with a sheet as a screen, reminiscent of the makeshift nature of showing movies in an undergraduate
+dorm.
+
+{{page.title}} escapes Katarina's previous boundaries of strict data visualization and sonification and is a less premeditated and structured approach to art making than much of her prior work.
+Through this work, the artist also explores personal symbology and fostering connections through borrowed objects.

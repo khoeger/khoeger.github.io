@@ -21,35 +21,36 @@ layout: default
         <div class="post-byline">
             <time class="post-time">
             </time>
-            {% if page.artists %}
-              <div class="project-details project-artists">
-            Collaborator(s): {{ page.artists }}
-              </div>
-            {% endif %} <!--end if page.artists -->
-            {% if page.media %}
-            {% if page.length-sec %}
-            <div class="project-details project-media project-video">
-              {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
-            </div>
-            {% else %}
-            <div class="project-details project-media">
-              {{page.media}}
-            </div>
-            {% endif %} <!-- end if page.media == "video"-->
-            {% endif %} <!-- end if page.media -->
-            {% if page.materials%}
-            <div class="project-details project-materials">
-              {{page.materials}}
-            </div>
-            {% endif %} <!-- end if page.materials -->
-            {% if page.display-description %}
-            <div class="project-details project-display">
-              {{page.display-description}}, {{page.display-size}}
-            </div>
-            {% endif %} <!-- end if page.display-description -->
-
           </div>
       </header>
+      <div class="project-details">
+      {% if page.artists %}
+        <div class="project-artists">
+      Collaborator(s): {{ page.artists }}
+        </div>
+      {% endif %} <!--end if page.artists -->
+      {% if page.media %}
+      {% if page.length-sec %}
+      <div class="project-media project-video">
+        {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
+      </div>
+      {% else %}
+      <div class="project-media">
+        {{page.media}}
+      </div>
+      {% endif %} <!-- end if page.media == "video"-->
+      {% endif %} <!-- end if page.media -->
+      {% if page.materials%}
+      <div class="project-materials">
+        {{page.materials}}
+      </div>
+      {% endif %} <!-- end if page.materials -->
+      {% if page.display-description %}
+      <div class="project-display">
+        {{page.display-description}}, {{page.display-size}}
+      </div>
+      {% endif %} <!-- end if page.display-description -->
+      </div> <!-- end div project-details-->
       <div class="post-content" itemprop="articleBody">
         {{ content}}
       </div>
