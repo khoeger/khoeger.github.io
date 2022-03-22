@@ -16,7 +16,7 @@ project-tag: iDontLikeHim
 categories: video
 description: A video-based trip through the artist's thoughts touching on past friendships and current crushes.
 published: true
-alt-text:
+alt-text: a yellow duck sits on a rainbow circle of dice
 ---
 
 Through {{page.title}}, Katarina Hoeger examines her relationships with a cast of men not biologically related to her through the lens of a conversation with her deceased
