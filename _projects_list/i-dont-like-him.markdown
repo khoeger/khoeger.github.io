@@ -7,17 +7,19 @@ end-date: 2019-10-11 21:00:00 -0500
 media: video
 length-min: 23
 length-sec: 21
-display-size: 4' x 2.25'
+materials:
 display-description: projected on sheet
+display-size: 4' x 2.25'
+artists:
 image: /assets/img/umbrellaProjects/IDontLikeHim/20191011_IDontLikeHimTitle.jpg
 project-tag: iDontLikeHim
 categories: video
 description: A video-based trip through the artist's thoughts touching on past friendships and current crushes.
-published: false
-alt-text: Rainbow-tinted view of a section of the score from Rhymes to Music's output of Commonplaces.
+published: true
+alt-text:
 ---
 ## About {{page.title}}
-I Don’t Like Him provides a snapshot into the artist’s thoughts.
+{{page.title}} provides a snapshot into the artist’s thoughts.
 Symbolic references to a close friend and crushes are made as she tells this friend a story about those crushes.
 The artist uses her friend as a rubber ducky, referencing rubber ducky debugging.
 Some symbols and rituals in the video connect her with her friend, others with various crushes, and some connect with both.

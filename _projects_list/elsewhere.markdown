@@ -4,7 +4,7 @@ title: Elsewhere
 start-date: 2020-05-01 20:00:00 -0500
 end-date: 2020-05-6 20:00:00 -0500
 image: /assets/img/2020/2020-07-27.jpg
-alt-text: A close up of a few pages from Celebrating A Benevolent Storm, overlaid by transparent whirlpool
+alt-text: A shot over the Stillwater River at sunset, rippling water below, pinkish orange sky, dark banks, dark branch
 project-tag: elsewhere
 event-tag:
 categories: video elsewhere
