@@ -23,45 +23,48 @@ layout: default
             </time>
           </div>
       </header>
-      <div class="project-details">
-      {% if page.artists %}
-        <div class="project-artists">
-      Collaborator(s): {{ page.artists }}
-        </div>
-      {% endif %} <!--end if page.artists -->
-      {% if page.media %}
-        {% if page.length-sec and page.video-special%}
-          <div class="project-media project-video">
-            {{page.media}}, {{page.length-min}}' {{page.length-sec}}", {{page.video-special}}
-          </div>
-        {% else %}
-          {% if page.length-sec %}
-            <div class="project-media project-video">
-            {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
-            </div>
-          {% endif %} <!-- end page.length-sec -->
-        {% endif %} <!-- end page.length-sec and page.video-special -->
-      {% else %}
-      <div class="project-media">
-        {{page.media}}
-      </div>
-      {% endif %} <!-- end if page.media -->
-      {% if page.materials%}
-      <div class="project-materials">
-        {{page.materials}}
-      </div>
-      {% endif %} <!-- end if page.materials -->
-      {% if page.display-description %}
-        <div class="project-display">
-      {%if page.display-size %}
-        {{page.display-description}}, {{page.display-size}}
-      {% else %}
-        {{page.display-description}}
-      {% endif %}
-       </div>
-      {% endif %} <!-- end if page.display-description -->
-      </div> <!-- end div project-details-->
+
       <div class="post-content" itemprop="articleBody">
+
+        <div class="project-details">
+        {% if page.artists %}
+          <div class="project-artists">
+        Collaborator(s): {{ page.artists }}
+          </div>
+        {% endif %} <!--end if page.artists -->
+        {% if page.media %}
+          {% if page.length-sec and page.video-special%}
+            <div class="project-media project-video">
+              {{page.media}}, {{page.length-min}}' {{page.length-sec}}", {{page.video-special}}
+            </div>
+          {% else %}
+            {% if page.length-sec %}
+              <div class="project-media project-video">
+              {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
+              </div>
+            {% endif %} <!-- end page.length-sec -->
+          {% endif %} <!-- end page.length-sec and page.video-special -->
+        {% else %}
+        <div class="project-media">
+          {{page.media}}
+        </div>
+        {% endif %} <!-- end if page.media -->
+        {% if page.materials%}
+        <div class="project-materials">
+          {{page.materials}}
+        </div>
+        {% endif %} <!-- end if page.materials -->
+        {% if page.display-description %}
+          <div class="project-display">
+        {%if page.display-size %}
+          {{page.display-description}}, {{page.display-size}}
+        {% else %}
+          {{page.display-description}}
+        {% endif %}
+         </div>
+        {% endif %} <!-- end if page.display-description -->
+        </div> <!-- end div project-details-->
+
         {{ content }}
       </div>
       <!-- +++++ Connect page to relevant articles/ posts +++++ -->
