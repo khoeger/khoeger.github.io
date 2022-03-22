@@ -31,9 +31,14 @@ layout: default
       {% endif %} <!--end if page.artists -->
       {% if page.media %}
       {% if page.length-sec %}
+      {% if page.video-special%}
+      <div class="project-media project-video">
+        {{page.media}}, {{page.length-min}}' {{page.length-sec}}", {{page.video-special}}
+      </div>
+      {% else %}
       <div class="project-media project-video">
         {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
-      </div>
+      {% endif %} <!-- end if video special -->
       {% else %}
       <div class="project-media">
         {{page.media}}
@@ -46,10 +51,14 @@ layout: default
       </div>
       {% endif %} <!-- end if page.materials -->
       {% if page.display-description %}
-      <div class="project-display">
+        <div class="project-display">
+      {%if page.display-size %}
         {{page.display-description}}, {{page.display-size}}
-      </div>
+      {% else %}
+        {{page.display-description}}
+      {% endif %}
       {% endif %} <!-- end if page.display-description -->
+      </div>
       </div> <!-- end div project-details-->
       <div class="post-content" itemprop="articleBody">
         {{ content}}
@@ -88,6 +97,11 @@ layout: default
           </div>
       {% endunless %}
 
+      <footer class="post-footer">
+        {% if page.postFooter %}
+        {{ page.postFooter }}
+        {% endif %}
+      </footer>
 
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
