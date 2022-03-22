@@ -7,21 +7,29 @@ end-date: 2019-10-11 21:00:00 -0500
 media: video
 length-min: 23
 length-sec: 21
+materials:
+display-description: projection on sheet
 display-size: 4' x 2.25'
-display-description: projected on sheet
+artists:
 image: /assets/img/umbrellaProjects/IDontLikeHim/20191011_IDontLikeHimTitle.jpg
 project-tag: iDontLikeHim
 categories: video
 description: A video-based trip through the artist's thoughts touching on past friendships and current crushes.
-published: false
-alt-text: Rainbow-tinted view of a section of the score from Rhymes to Music's output of Commonplaces.
+published: true
+alt-text: a yellow duck sits on a rainbow circle of dice
 ---
-## About {{page.title}}
-I Don’t Like Him provides a snapshot into the artist’s thoughts.
-Symbolic references to a close friend and crushes are made as she tells this friend a story about those crushes.
-The artist uses her friend as a rubber ducky, referencing rubber ducky debugging.
-Some symbols and rituals in the video connect her with her friend, others with various crushes, and some connect with both.
 
-The video production and presentation process highlight various relationships.
-The artist borrowed objects, included photos from other photographers, and using objects and locations easily accessible to students.
-Fostering a community through borrowed objects and thriftiness both played a symbolic role in the making of this video.
+Through {{page.title}}, Katarina Hoeger examines her relationships with a cast of men not biologically related to her through the lens of a conversation with her deceased
+best friend, also male.
+The conversation leads to freeform letter writing sessions
+and word associations depicted alongside recordings of her behavior as the piece
+progresses.
+The transitions include items the artist associates with each male's presence.
+
+{{page.title}} was shown in the student work spaces, in a makeshift movie theater constructed from couches and  lockers, with a sheet as a screen, reminiscent of the makeshift nature of showing movies in an undergraduate
+dorm.
+
+{{page.title}} escapes Katarina's previous boundaries of strict data visualization and sonification and is a less premeditated and structured approach to art making than much of her prior work.
+Through this work, the artist also explores personal symbology and fostering connections through borrowed objects.
+![A triangular die in the top left corner, a shot of the artist with words in front of her in the bottom right, a shot of the artist writing while nibbling on a cookie in the mid background, and a closer shot of the artist with words in front of her](/assets/img/umbrellaProjects/IDontLikeHim/20191011_IDontLikeHim_PartIII.jpg)
+*A frame depicting writing a letter to the third man.*

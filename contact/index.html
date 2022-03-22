@@ -1,0 +1,8 @@
+---
+layout: contact
+title: Contact
+---
+{% capture my_include %}
+{% include_relative contact.md %}
+{% endcapture %}
+{{ my_include | markdownify }}

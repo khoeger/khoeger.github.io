@@ -17,6 +17,21 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content}}
     </div>
+    {% assign taggedProjects = site.projects_list | where_exp: "proj",
+                                            "proj.project-tag == page.project-tag"%}
+    {% unless taggedProjects == empty %}
+
+        <div class="post-rel-articles">
+          <h3>Related Projects</h3>
+          {% for proj in taggedProjects %}
+            <div class="rel-article-title">
+                <h6>
+                  <a href="{{ proj.url }}">{{ proj.title}}</a>
+                </h6>
+            </div>
+          {% endfor %}
+        </div>
+    {% endunless %}
     {% assign taggedArticles = site.posts | where_exp: "article",
                                             "article.event-tag == page.event-tag"%}
     {% unless taggedArticles == empty %}
@@ -32,6 +47,12 @@ layout: default
           {% endfor %}
         </div>
     {% endunless %}
+
+    <footer class="post-footer">
+      {% if page.postFooter %}
+      {{ page.postFooter }}
+      {% endif %}
+    </footer>
 
     {% if site.disqus.shortname %}
       {% include disqus_comments.html %}

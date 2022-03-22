@@ -30,6 +30,39 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content}}
     </div>
+
+    {% assign taggedProjects = site.projects_list | where_exp: "proj",
+                                            "proj.project-tag == page.project-tag"%}
+    {% unless taggedProjects == empty %}
+
+        <div class="post-rel-articles">
+          <h3>Related Projects</h3>
+          {% for proj in taggedProjects %}
+            <div class="rel-article-title">
+                <h6>
+                  <a href="{{ proj.url }}">{{ proj.title}}</a>
+                </h6>
+            </div>
+          {% endfor %}
+        </div>
+    {% endunless %}
+
+    {% assign taggedEvents = site.events_list | where_exp: "eventInstance",
+                                            "eventInstance.event-tag== page.event-tag"%}
+    {% unless taggedEvents == empty %}
+
+        <div class="post-rel-articles">
+          <h3>Related Events</h3>
+          {% for eventInstance in taggedEvents %}
+            <div class="rel-article-title">
+                <h6>
+                  <a href="{{ eventInstance.url }}">{{eventInstance.title}}</a>
+                </h6>
+            </div>
+          {% endfor %}
+        </div>
+    {% endunless %}
+
       <footer class="post-footer">
         {% if page.postFooter %}
         {{ page.postFooter }}

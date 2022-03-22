@@ -16,11 +16,10 @@
 title: Katarina Hoeger
 email: katarina@katarinahoeger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Katarina Hoeger's personal website.
-  A portfolio for independent work.
+  Katarina Hoeger's website.
+  A portfolio.
   A blog.
-  Technical posts will generally feature some mixture of mathematics, computer science,
-  music, or music technology.
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,6 +27,8 @@ linkedin_username: katarinahoeger
 twitter_username: kfhoeger
 github_username:  khoeger
 soundcloud_username: katarina-hoeger
+instagram_username: katarina_hoeger_art
+mailchimp_signup_link: http://eepurl.com/hXA_U5
 siteowner: Katarina Hoeger
 date_format: "%-d %B %Y"
 short_date_format: "%-d %B"
@@ -39,6 +40,7 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+  # - jekyll-pdf-embed
 permalink: /:year/:month/:day/:title
 # Collections
 collections:

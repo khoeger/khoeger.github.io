@@ -4,6 +4,7 @@ title:  "Artistic Research, A Foray into Web VR, and Collaborations"
 date:   2021-01-26 12:00:00 -0500
 categories: artistResearch bela collaboration dizi dizihorizons encased ithappenedthisyear lightbright2020 mirroredAffirmations webVR
 postHero: /assets/img/2021/0120/2021-01-20.jpg
+event-tag: 20201212LightBright
 postFooter:
 published: true
 ---

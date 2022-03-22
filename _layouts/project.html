@@ -8,49 +8,104 @@ layout: default
     {% endif %}
     <article class="page" itemscope itemtype="http://schema.org/BlogPosting">
       <header>
-        {% assign startYear = proj.start-date | date: "%Y"  %}
-        {% assign endYear = proj.end-date | date: "%Y"  %}
+        {% assign startYear = page.start-date | date: "%Y"  %}
+        {% assign endYear = page.end-date | date: "%Y"  %}
 
         <h1 class="post-title" itemprop="name headline">
-          {%comment%}
           {% if startYear == endYear %}
-            {{ page.title}},  {{startYear}}
-
+            {{page.title}}, {{startYear}}
           {% else %}
             {{ page.title }}, {{startYear}} - {{endYear}}
-
           {% endif %}
-          {%endcomment%}
-          {{ page.title }}
           </h1>
         <div class="post-byline">
             <time class="post-time">
-              <!--span>{{ page.start-date | date: "%Y " }} - {{ page.end-date | date: "%Y " }}</span-->
             </time>
           </div>
       </header>
+
       <div class="post-content" itemprop="articleBody">
-        {{ content}}
+
+        <div class="project-details">
+        {% if page.artists %}
+          <div class="project-artists">
+        Collaborator(s): {{ page.artists }}
+          </div>
+        {% endif %} <!--end if page.artists -->
+        {% if page.media %}
+          {% if page.length-sec and page.video-special%}
+            <div class="project-media project-video">
+              {{page.media}}, {{page.length-min}}' {{page.length-sec}}", {{page.video-special}}
+            </div>
+          {% else %}
+            {% if page.length-sec %}
+              <div class="project-media project-video">
+              {{page.media}}, {{page.length-min}}' {{page.length-sec}}"
+              </div>
+            {% endif %} <!-- end page.length-sec -->
+          {% endif %} <!-- end page.length-sec and page.video-special -->
+        {% else %}
+        <div class="project-media">
+          {{page.media}}
+        </div>
+        {% endif %} <!-- end if page.media -->
+        {% if page.materials%}
+        <div class="project-materials">
+          {{page.materials}}
+        </div>
+        {% endif %} <!-- end if page.materials -->
+        {% if page.display-description %}
+          <div class="project-display">
+        {%if page.display-size %}
+          {{page.display-description}}, {{page.display-size}}
+        {% else %}
+          {{page.display-description}}
+        {% endif %}
+         </div>
+        {% endif %} <!-- end if page.display-description -->
+        </div> <!-- end div project-details-->
+
+        {{ content }}
       </div>
       <!-- +++++ Connect page to relevant articles/ posts +++++ -->
       <!-- more details for doing the below https://jekyllrb.com/docs/posts/#tags-and-categories -->
-
-
-      {% assign taggedProject = site.posts | where_exp: "article",
-                                              "article.categories == page.project-tag"%}
-      {% unless taggedProject == empty %}
+      {% assign taggedArticles = site.posts | where_exp: "article",
+                                              "article.project-tag == page.project-tag"%}
+      {% unless taggedArticles == empty %}
 
           <div class="post-rel-articles">
             <h3>Related Posts</h3>
-            {% for project in taggedProjects %}
+            {% for article in taggedArticles %}
               <div class="rel-article-title">
                   <h6>
-                    <a href="{{ article.url }}">{{ project.title}}</a>
+                    <a href="{{ article.url }}">{{ article.title}}</a>
                   </h6>
               </div>
             {% endfor %}
           </div>
       {% endunless %}
+
+      {% assign taggedEvents = site.events_list | where_exp: "eventInstance",
+                                              "eventInstance.project-tag== page.project-tag"%}
+      {% unless taggedEvents == empty %}
+
+          <div class="post-rel-articles">
+            <h3>Related Events</h3>
+            {% for eventInstance in taggedEvents %}
+              <div class="rel-article-title">
+                  <h6>
+                    <a href="{{ eventInstance.url }}">{{eventInstance.title}}</a>
+                  </h6>
+              </div>
+            {% endfor %}
+          </div>
+      {% endunless %}
+
+      <footer class="post-footer">
+        {% if page.postFooter %}
+        {{ page.postFooter }}
+        {% endif %}
+      </footer>
 
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}

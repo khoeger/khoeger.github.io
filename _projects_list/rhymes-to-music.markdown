@@ -4,14 +4,21 @@ title: Rhymes to Music
 start-date: 2017-01-01 20:00:00 -0500
 end-date: 2019-02-15 20:00:00 -0500
 image: /assets/img/umbrellaProjects/rhymesToMusic_v1.jpg
+media: computer program
+length-min:
+length-sec:
+materials:
+display-description:
+display-size:
+artists:
 project-tag: rhymesToMusic
 categories: algorithm dataSonification flute musicGeneration rhymes
-description: fake description
-published: true
+description: Rhymes to Music is a tool that breaks text into phonemes and creates a melody
+published: false
 alt-text: Rainbow-tinted view of a section of the score from Rhymes to Music's output of Commonplaces.
 ---
-## About {{page.title}}
-Rhymes to Music translates a string of text into a melody one phoneme at a time. A mathematical model realized through python code outputs musical scores. The scores are then played by the artist.
+
+Rhymes to Music is a computer program that translates a string of text into a melody one phoneme at a time. A mathematical model realized through python code outputs musical scores. The scores are then played by the artist.
 
 ## Components
 - Mathematical Model, *January 2017 - September 2017*
