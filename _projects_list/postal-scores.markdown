@@ -21,10 +21,10 @@ published: true
 ---
 
 {{page.title}} is composed of sets of 20 released artist kits containing 20 post cards. Each kit in a set is identical, save for changes in serial numbering.
-Each postcard has an event score upon it, to be enacted by either the post card's sender, recipient, or both.
+Each postcard has an event score upon it, to be enacted by the post card's sender, recipient, or both.
 
 {{page.title}} explores the extent of the boundaries and sense of connection and togetherness that can be evoked by mail.
 It was a foray into creating asynchronous, remote joint experiences,
 and creating physical objects out of code.
-{{page.title}} is makes use of one of the basic physical relations that was allowed during quarantine during the beginning of the COVID-19 pandemic.
+{{page.title}} makes use of one of the basic physical relations that was allowed during quarantine during the beginning of the COVID-19 pandemic.
 It also build's upon the artist's practice of crafting and delivering basic instruction, and is her first successful project that uses code to create a physical product.
