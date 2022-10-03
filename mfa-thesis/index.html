@@ -1,0 +1,9 @@
+---
+layout: mfa-thesis
+title:
+pdf_local: "/assets/pdf/katarinaHoeger_artistCV_20220818.pdf"
+---
+{% capture my_include %}
+{% include_relative mfathesis.md %}
+{% endcapture %}
+{{ my_include | markdownify }}
