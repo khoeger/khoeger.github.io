@@ -1,4 +1,4 @@
-![Katarina Hoeger smiling, wearing pink glasses and a red shirt. The image is not a photo, but a composite picture made up of letters and circles.]({{ "assets/img/portrait/katarina_hoeger_merged__2022_1_10_17_20_circle_0.05_320x320_82KiB.jpg" | absolute_url}}){: .pull-right }
+<!-- ![Katarina Hoeger smiling, wearing pink glasses and a red shirt. The image is not a photo, but a composite picture made up of letters and circles.]({{ "assets/img/portrait/katarina_hoeger_merged__2022_1_10_17_20_circle_0.05_320x320_82KiB.jpg" | absolute_url}}){: .pull-right } -->
 
 During the Fall 2021 to summer 2022 school year, Katarina Hoeger researched the content of **INVESTIGATING BEING PRESENT THROUGH MOTION: CONNECTING BODY WITH SOUND AND POSITION**. On July 27, 2022, she defended her [Intermedia MFA](https://intermedia.umaine.edu/mfa-program/) thesis. In August 2022, Katarina Hoeger submitted her thesis to the [University of Maine Graduate School](https://umaine.edu/graduate/).
 
@@ -34,6 +34,5 @@ Through physical motion, this work provided an alternative understanding of bein
 - [Supplementary Photo Documentation](https://photos.app.goo.gl/VjnUDupm3HcF2vyK9)
 
 ### Portfolio
-- Portfolio Documentation Code
-- Portfolio Image Documentation
-- Portfolio Video Documentation
+- Portfolio Code Documentation
+  - Parabolic
