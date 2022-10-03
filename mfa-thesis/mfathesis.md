@@ -35,4 +35,6 @@ Through physical motion, this work provided an alternative understanding of bein
 
 ### Portfolio
 - Portfolio Code Documentation
-  - Parabolic
+  - [Elsewhere](https://github.com/khoeger/elsewhere)
+  - [Parabolic](https://github.com/khoeger/Parabolic)
+  - [Reconstituted Media](https://github.com/khoeger/explorationOfComputerPointillism)  
