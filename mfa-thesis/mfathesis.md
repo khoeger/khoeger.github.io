@@ -4,7 +4,7 @@ During the Fall 2021 to summer 2022 school year, Katarina Hoeger researched the 
 
 ## thesis document
 ### link to the document
-Katarina's thesis, **INVESTIGATING BEING PRESENT THROUGH MOTION | CONNECTING BODY WITH SOUND AND POSITION**, will be a part of a [collection of past theses and dissertations](https://digitalcommons.library.umaine.edu/etd/) from UMaine graduates. As of October 3, 2022, Katarina's thesis has not yet been uploaded.
+Katarina's thesis, **Investigating Being Present Through Motion: Connecting Body with Sound and Position**, will be a part of a [collection of past theses and dissertations](https://digitalcommons.library.umaine.edu/etd/) from UMaine graduates. As of October 3, 2022, Katarina's thesis has not yet been uploaded.
 
 ### abstract
 <details>
@@ -28,7 +28,7 @@ Through physical motion, this work provided an alternative understanding of bein
 </details>
 ## Supplemental Materials
 
-### MFA Thesis Materials
+### MFA Thesis
 - [Code](https://github.com/khoeger/allMaxPatches/tree/main/tapeDeck/LordHall_Final)
 - [Video Documentation](https://vimeo.com/725054121)
 - [Supplementary Photo Documentation](https://photos.app.goo.gl/VjnUDupm3HcF2vyK9)
