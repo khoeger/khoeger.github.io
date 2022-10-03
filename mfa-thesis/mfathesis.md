@@ -27,7 +27,13 @@ Through physical motion, this work provided an alternative understanding of bein
 </pre>
 </details>
 ## Supplemental Materials
-### MFA Thesis Code
-### Project Documentation
-### Portfolio Documentation
-#### Code
+
+### MFA Thesis Materials
+- [Code](https://github.com/khoeger/allMaxPatches/tree/main/tapeDeck/LordHall_Final)
+- [Video Documentation](https://vimeo.com/725054121)
+- [Supplementary Photo Documentation](https://photos.app.goo.gl/VjnUDupm3HcF2vyK9)
+
+### Portfolio
+- Portfolio Documentation Code
+- Portfolio Image Documentation
+- Portfolio Video Documentation
