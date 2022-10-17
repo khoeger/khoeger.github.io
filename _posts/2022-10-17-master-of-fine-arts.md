@@ -1,0 +1,61 @@
+---
+layout: post
+title:  Master of Fine Arts
+date:   2022-10-17 12:00:00 +0500
+categories: art artistResearch intermedia motionProject mfa research thesis
+postHero: /assets/img/2022/03/2022-03-14.jpg
+event-tag: 20221017MFAThesis
+postFooter:
+published: true
+---
+It's done!
+I am now a Master of Fine Arts.  
+
+The months leading up to the end of the Intermedia MFA program were hectic.
+They included a gallery show,
+observing how my work integrated into the gallery,
+defending my thesis,
+and presenting a final version of the thesis to my thesis committee and the graduate school.
+I got little sleep and would not have made it through the revisions and defense without lots of help from my friends.
+
+## Thesis Process
+### Gallery Show
+My classmates and I prepared University of Maine's Lord Hall Gallery for a month long thesis show,
+complete with a gallery opening.
+The show, *This Place This Time*, ran from May 27 - July 1.
+I displayed **Motion: Connecting Body with Sound and Position**, the project corresponding with my thesis research during the show.
+Preparing for the show itself was a doozy - the project underwent two or three major revisions and sets of decision making between the Student Symposium and the gallery opening on May 27.
+It was also physically demanding - requiring days spent on the ladder and lots of cable running along the ceiling.
+
+The work paid of!
+I was fortunate enough to be able to watch the gallery visitors experience and interact with **Motion**.
+Elaborating upon this deserves its own post or other writeup, to be written shortly.
+
+### Thesis Writing
+Writing an art thesis differed from writing a science thesis.
+Therefore, it was difficult to know where to start, or what really needed to be included.
+I had read a few other theses from past students, but each student took a very different approach.
+What ended up working for me was making a draft my advisors could see, filling in the holes they mentioned, and really thinking about my project.
+An overview of what is truly necessary for making the project,
+what is actually its historical background, what went into the final thought process,
+and not necessarily documenting the previous, explored but unused in the final work is the goal.  
+
+### Thesis defense
+This came relatively easily after writing my thesis!
+I used my thesis, and feedback from the committee, to determine what was truly necessary to include.
+There were technical snafus due to the hybrid nature of my thesis defense and an inability to test the setup beforehand, but all in all, it seemed to work well.
+
+Learn more in the writeup of my [thesis defense]({{site.baseurl}}{% link _events_list/2022-07-27-MFA-Thesis-Defense.markdown %}).
+
+### Thesis Submission
+After gaining more feedback and revisions to make from the committee, I submitted my thesis!
+My thesis is hosted in UMaine's Fogler Library's electronic collection of past theses and can be read at the following link: [https://digitalcommons.library.umaine.edu/etd/3689/](https://digitalcommons.library.umaine.edu/etd/3689/).
+
+## Lessons Learned From Process
+- Just write. Do it. You don't need a set idea. Set aside a little time to do it everyday, and you can hopefully avoid 3 straight months of nothing else but thesis writing. 
+
+## What Next
+As an artist, I have a very free seeming future.
+I need to figure out a method of earning income semi-reliably, but otherwise, so long as I remain unaffiliated, I can choose what to explore and how to do so. The drawback to this is figuring out how to fund things.
+
+I hope to post more about this journey in future posts!
