@@ -15,10 +15,11 @@ I chose to interpret the prompt of *text adventure* as adventuring through the t
 ### Description
 With
 [*An Adventure Through The Text Of Edgar Allen Poe's "The Raven"*](https://editor.p5js.org/KatarinaHoeger/full/NU3Q08JPd),
-a watcher-listener watches the most frequently appearing words in the work appear in order of their appearance at random places on the canvas.
-The sizes of the words are determined by how prevalently they feature in the text.
-The poem's text is read aloud simultaneously by the code.
-This work is meant to be viewed in full screen with sound on.
+a watcher-listener watches the most frequently used words in the raven appear on the canvas sequentially.
+The words are placed randomly across the canvas, around the outline of the raven.
+More frequently occurring words are displayed with larger font sizes.
+The code read's the poem's text aloud while words are placed.
+This exploratory work is meant to be viewed in full screen with sound on.
 
 <iframe src="https://editor.p5js.org/KatarinaHoeger/full/NU3Q08JPd"  width="650" height="800"></iframe>
 
@@ -32,6 +33,7 @@ as does the censure of common words (and, a, the, etc.).
 The computer generated AI delivers each word
 so sporadically that the rhythmic qualities
 of a recitation of "The Raven" are also lost.
+In my eyes, there is more to do to capture the essence of "The Raven" and explore it in a manner that honors this poem.
 
 ### Ideas for Future Improvements
 - Use the JavaScript Array forEach() (description below).
