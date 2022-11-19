@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Residency at Bethany Arts Community
+title:  Fall 2022 Residency at Bethany Arts Community
 date:   2022-11-07 15:00:00 +0500
 categories: art artist artistResidency bethanyArtsCommunity bethanyArtsCommunityFall2022 creativeCode code networking NewYork Ossining processing reconstitutedMedia residency Westchester
 postHero: /assets/img/2022/11/bac_header.jpg
@@ -25,7 +25,7 @@ Some photos were related to the location of Ossining, NY, and it's history and t
 Others were related to imagery I just found interesting.
 I was not yet sure if I was trying to convey a particular narrative while taking pictures, so took a wide variety of photos.
 One such photo was of both sides of an abandoned gender reveal balloon caught in a tree at the Waterfront.
-Gender reveals make me uncomfortable because I think of so many friends who's lives have been made difficult by social constraints related to gender.
+Gender reveals make me uncomfortable because I think of so many friends whose lives have been made difficult by social constructions of gender.
 Therefore, I took the photo, enhanced colors until it was hard to tell which side was meant to represent which gender.
 See both sides of the balloon, with color corrections, below.
 ![Two pictures of a color corrected gender reveal balloon next to each other. One picture has tree branches below, a very light sky, and an balloon with a question mark in blue, green, with the top in red. The other balloon has a deeper blue sky, with a question mark in blue and pink. ]({{"assets//img//2022//11//bac_balloonsTogether.jpg" | absolute_url }})
@@ -87,13 +87,13 @@ My residency was completed alongside 9 other artists from various disciplines: [
 [Sandra Jackson-Opoku](https://bethanyarts.org/residencies/fall-residency-2022/),
 [Sarah Gancher](http://www.sarahgancher.org/) and [Jared Mezzocchi](https://www.jaredmezzocchi.com/).
 We were joined by longer term residents [Tiffany Anderson](https://www.tiffanyartwork.com/), [Cyn Celone](https://www.cynthiacelone.com/), [KM Smith and Cherie Lee](https://bethanyarts.org/fellow-2022/).
-We discussed our projects over meals, attended each others demonstrations and workshops, shared tips towards being artists, and generally learned about each other's processes and lives.
+We discussed our projects over meals, attended each others' demonstrations and workshops, shared tips towards being artists, and generally learned about each other's processes and lives.
 
 We got up to a few wonderful whole group shenanigans apart from dinners. There were the birthday parties, most especially the first one, where Jamison threw Sarah a party complete with hats, fake tattoos, a streamer, and treats to eat and drink. This started a birthday celebration trend. There were a few bonfire nights, where we discussed art, danced, sang, told stories, and were led by Admiral in a release of bad karma during a ritual burning on the equinox. With Jared's Projector, Admiral's Costumes, Cherie's Carved Ostrich Eggs, and Sarah and Jamison, we saw a scene projected on an ostrich egg - what a rare treat.
 
 ![A close up of a person projected on an egg, photo above, generated image below.]({{"assets//img//2022//11//bac_projectEgg.jpg" | absolute_url }})
 
-We read out L's and Sandra's scripts, and watched or participated in KM's Poetry Slam. Francesca introduced us thematically to the world as recorded in our phones in a variation of a paint and sip nights, and Tali led us through using scrap materials to make works of art.
+We read out L's and Sandra's scripts, and watched or participated in KM's Poetry Slam. Francesca introduced us thematically to the world as recorded in our phones in a variation on the popular paint and sip nights, and Tali led us through using scrap materials to make works of art.
 
 Some memorable events with each artist who was a Fall fellow with me:
 
@@ -105,7 +105,7 @@ Some memorable events with each artist who was a Fall fellow with me:
 
 
 
-- Francesca impressed me with her confidence, consistency of practice, and upbeat spirits. Her art is deeply personal and boundary breaking - she takes private selfies, photos taken because the photographer likes how they have portrayed themself, and make them hanging rugs, which are large and public. It's the sort of work that I am always trying to become more comfortable with making, so watching her process, and seeing her self-assuredness, was inspiring. If I was working late or early (I tend to keep erratic studio hours at the moment), I was most likely to run into her. My results from her workshop below - the tracing of an image saved on my phone that evoked emotion in me.
+- Francesca impressed me with her confidence, consistency of practice, and upbeat spirits. Her art is deeply personal and boundary breaking - she takes private selfies, photos taken because the photographer likes how they have portrayed themself, and make them hanging rugs, which are large and public. I am always trying to become more comfortable with work delving into my private life. Therefore, watching her process, and seeing her self-assuredness, was inspiring. If I was working late or early (I tend to keep erratic studio hours at the moment), I was most likely to run into her. My results from her workshop below - the tracing of an image saved on my phone that evoked emotion in me.
 
 
 ![A cardboard Book shaped mini theater / laptop with a yellow background and cut out figures.]({{"assets//img//2022//11//bac_alex.jpg" | absolute_url }})
@@ -127,6 +127,7 @@ Some memorable events with each artist who was a Fall fellow with me:
 
 Residencies are a part of an artist's life where some organization who believes in the artist gives the artist the gift of time, space, and some sort of financial support to produce work.
 In a world where different professional and familial responsibilities are always pulling at our time, residencies are sometimes the only place artists can create.
+They are also a time to take care of other responsibilities of artist life - documenting, applying to grants and fellowships, and other responsibilities that might get dropped when other parts of life get in the way. 
 
 Residencies provide a chance to exchange ideas with other creatives.
 Some of the most memorable group activities began with us just hanging out at dinner, showing each other work, and then another participant saying, "Wait! I can do something with this."
