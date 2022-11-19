@@ -88,6 +88,7 @@ My residency was completed alongside 9 other artists from various disciplines: [
 [Sarah Gancher](http://www.sarahgancher.org/) and [Jared Mezzocchi](https://www.jaredmezzocchi.com/).
 We were joined by longer term residents [Tiffany Anderson](https://www.tiffanyartwork.com/), [Cyn Celone](https://www.cynthiacelone.com/), [KM Smith and Cherie Lee](https://bethanyarts.org/fellow-2022/).
 We discussed our projects over meals, attended each others' demonstrations and workshops, shared tips towards being artists, and generally learned about each other's processes and lives.
+When my grandmother passed early in the residency, they provided support and encouragement that helped me stick through the process and continue developing work, even though I was in emotional turmoil.
 
 We got up to a few wonderful whole group shenanigans apart from dinners. There were the birthday parties, most especially the first one, where Jamison threw Sarah a party complete with hats, fake tattoos, a streamer, and treats to eat and drink. This started a birthday celebration trend. There were a few bonfire nights, where we discussed art, danced, sang, told stories, and were led by Admiral in a release of bad karma during a ritual burning on the equinox. With Jared's Projector, Admiral's Costumes, Cherie's Carved Ostrich Eggs, and Sarah and Jamison, we saw a scene projected on an ostrich egg - what a rare treat.
 
@@ -122,6 +123,10 @@ Some memorable events with each artist who was a Fall fellow with me:
 
 ![A black and white image of different artists overlaid on top of one another.]({{"assets//img//2022//11//bac_jaredSarah.jpg" | absolute_url }})
 
+
+### Furthering Artistic Goals
+At the moment, I have been focused on using my art to examine the relationships that occur as I am in a space.
+Throughout the residency, I considered being in Ossining, how being in a residency changed my relationship with my work and life, and how being near other artists at various stages of life and practice impacted my present being.
 
 ### Residency Life Lessons
 
