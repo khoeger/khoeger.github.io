@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fall 2022 Residency at Bethany Arts Community
-date:   2022-11-07 15:00:00 +0500
+date:   2022-11-19 15:00:00 +0500
 categories: art artist artistResidency bethanyArtsCommunity bethanyArtsCommunityFall2022 creativeCode code networking NewYork Ossining processing reconstitutedMedia residency Westchester
 postHero: /assets/img/2022/11/bac_header.jpg
 event-tag: 202209BAC
@@ -127,7 +127,7 @@ Some memorable events with each artist who was a Fall fellow with me:
 
 Residencies are a part of an artist's life where some organization who believes in the artist gives the artist the gift of time, space, and some sort of financial support to produce work.
 In a world where different professional and familial responsibilities are always pulling at our time, residencies are sometimes the only place artists can create.
-They are also a time to take care of other responsibilities of artist life - documenting, applying to grants and fellowships, and other responsibilities that might get dropped when other parts of life get in the way. 
+They are also a time to take care of other responsibilities of artist life - documenting, applying to grants and fellowships, and other responsibilities that might get dropped when other parts of life get in the way.
 
 Residencies provide a chance to exchange ideas with other creatives.
 Some of the most memorable group activities began with us just hanging out at dinner, showing each other work, and then another participant saying, "Wait! I can do something with this."
