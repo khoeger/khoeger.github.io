@@ -2,15 +2,15 @@
 layout: event
 title: Fall 2022 Residency at Bethany Arts Community
 date: 2022-09-09 17:00:00 +0500
-image:  /assets/img/2022/07/20220705_ThesisDefense.jpg
+image: /assets/img/2022/11/bac_header.jpg
 location-title: Innovative Media Research and Commercialization Center Conference Room
 location: 5 Hilltop Road, Orono, ME 04469
-type: thesis defense
-role: artist defender presenter
-project-tag: 2022Motion
-event-tag: 20220727_ThesisDefense
-categories: art defense intermedia motion position presence presentation research sound thesis
-description: Katarina Hoeger's Intermedia MFA Thesis Defense.
+type: art residency
+role: artist
+project-tag: reconstitutedMedia
+event-tag: 202209BAC
+categories: art artist artistResidency bethanyArtsCommunity bethanyArtsCommunityFall2022 creativeCode code networking NewYork Ossining processing reconstitutedMedia residency Westchester
+description: An overview of an artist residency
 published: true
 ---
 ### {{page.description}}
@@ -21,4 +21,6 @@ published: true
 
 *{{page.date | date: site.time_format }}*
 
-On July 27, 2022 Katarina Hoeger will defend her MFA thesis **Investigating Being Present Through Motion: Connecting Body with Sound and Position.**
+From September 9 - 24, I was an [Artist in Residence at Bethany Arts Community](https://bethanyarts.org/residencies/fall-residency-2022/) in Ossining, NY.
+This was my first residency, it was completed alongside a large cohort of artists, and I continued developing my Reconstitued Media project.
+To learn more, please read the relevant post.
