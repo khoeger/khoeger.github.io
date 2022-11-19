@@ -3,8 +3,8 @@ layout: event
 title: Fall 2022 Residency at Bethany Arts Community
 date: 2022-09-09 17:00:00 +0500
 image: /assets/img/2022/11/bac_header.jpg
-location-title: Innovative Media Research and Commercialization Center Conference Room
-location: 5 Hilltop Road, Orono, ME 04469
+location-title: Bethany Arts Community
+location: 40 Somerstown Rd, Ossining, NY 10562
 type: art residency
 role: artist
 project-tag: reconstitutedMedia
