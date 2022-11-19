@@ -62,7 +62,7 @@ As part of the residency, Bethany Arts Community offered each artist in Resident
 I gave a workshop entitled [Generated Images of Ossining](https://bethanyarts.org/calendar/katarina-hoeger/).
 I worked with local high school students and members of the Bethany Arts Community as part of a workshop at the Joseph G. Caputo Community Center.
 We took images, and generated constantly shifting dot images in p5js, following a procedure very similar to Dan Shiffman's example [15-14 from "Learning Processing: The Nature Of Code"](http://learningprocessing.com/examples/chp15/example-15-14-Pointillism).
-Two workshop participants' pieces of code are pictured below. (Photo Credit: Cyn Celone.)
+Two workshop participants' pieces of code are pictured below. (Photo Credit: Cyn Celone).
 
 
 ![A photo of two students' code from the workshop with the instructor projector in the background.]({{"assets//img//2022//11//bac_workshop.jpg" | absolute_url }})
@@ -90,7 +90,9 @@ We were joined by longer term residents [Tiffany Anderson](https://www.tiffanyar
 We discussed our projects over meals, attended each others demonstrations and workshops, shared tips towards being artists, and generally learned about each other's processes and lives.
 
 We got up to a few wonderful whole group shenanigans apart from dinners. There were the birthday parties, most especially the first one, where Jamison threw Sarah a party complete with hats, fake tattoos, a streamer, and treats to eat and drink. This started a birthday celebration trend. There were a few bonfire nights, where we discussed art, danced, sang, told stories, and were led by Admiral in a release of bad karma during a ritual burning on the equinox. With Jared's Projector, Admiral's Costumes, Cherie's Carved Ostrich Eggs, and Sarah and Jamison, we saw a scene projected on an ostrich egg - what a rare treat.
+
 ![A close up of a person projected on an egg, photo above, generated image below.]({{"assets//img//2022//11//bac_projectEgg.jpg" | absolute_url }})
+
 We read out L's and Sandra's scripts, and watched or participated in KM's Poetry Slam. Francesca introduced us thematically to the world as recorded in our phones in a variation of a paint and sip nights, and Tali led us through using scrap materials to make works of art.
 
 Some memorable events with each artist who was a Fall fellow with me:
@@ -101,9 +103,13 @@ Some memorable events with each artist who was a Fall fellow with me:
 
 ![A cardboard Book shaped mini theater / laptop with a yellow background and cut out figures.]({{"assets//img//2022//11//bac_cardboardWorkshop.jpg" | absolute_url }})
 
+
+
 - Francesca impressed me with her confidence, consistency of practice, and upbeat spirits. Her art is deeply personal and boundary breaking - she takes private selfies, photos taken because the photographer likes how they have portrayed themself, and make them hanging rugs, which are large and public. It's the sort of work that I am always trying to become more comfortable with making, so watching her process, and seeing her self-assuredness, was inspiring. If I was working late or early (I tend to keep erratic studio hours at the moment), I was most likely to run into her. My results from her workshop below - the tracing of an image saved on my phone that evoked emotion in me.
 
+
 ![A cardboard Book shaped mini theater / laptop with a yellow background and cut out figures.]({{"assets//img//2022//11//bac_alex.jpg" | absolute_url }})
+
 
 -  Jamison and Sarah are both amazing dancers, and very warm and engaging people. They constantly spearheaded group activities, invited us to their morning warm ups, and were generally instrumental in creating such a warm community feeling. Their friendship and artistic partnership was also inspiring, in that the care they have for each other very obviously helps make their work enjoyable to them, and nurtures their exploration through dance. As they work with the very volatile concepts of the influence on race in everyday experiences through their dance, it always comforted me to see that they each had such a good friend working through such mentally challenging concepts alongside of them. Both are young, but they have this amazing drive to succeed. I rarely saw one without the other, but grew to admire Jamison's steady, calming, and consistent presence and Sarah's fire and drive for change.
 
