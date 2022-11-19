@@ -40,7 +40,7 @@ Therefore, I tweaked the code to start generating images that overlap.
 Just as I can wander from location to location and have a hard time isolating any of the images as the sights I saw while in Ossining, an observer sees the same.
 For proof of concept and ease of trying different display methods, I output relatively low resolution generated images.
 
-![Multile images layered one atop of each other in lines, circled, squares, and triangles.]({{"assets//img//2022//11//bac_layeredImages.jpg" | absolute_url }})
+![Multile images layered one atop of each other through overlapping lines, circled, squares, and triangles in multiple colors.]({{"assets//img//2022//11//bac_layeredImages.jpg" | absolute_url }})
 
 The video below shows one iteration through generating some of the pictures.
 The code I worked on while at Bethany Arts Community, the code to generate this sequence of images, can be found on my [github's Reconstituted Media project.](https://github.com/khoeger/explorationOfComputerPointillism/tree/main/refactor_switchThroughShapes/oneReconstituedImage_nImages) (The Reconstituted Media project was once erroneously titled Computer Pointillism).
@@ -54,7 +54,7 @@ Therefore, I tried projecting the results, so that an observer had the chance to
 The projections did not do justice to the walking and travelling involved in traversing a city.
 Therefore, the results are, as of yet, not displayed in final form.
 
-[Show still (or video feed) of pojection attempts]
+![A photo of a projection of the images being generated.]({{"assets//img//2022//11//bac_projection.jpg" | absolute_url }})
 
 ### Workshop
 
@@ -62,6 +62,11 @@ As part of the residency, Bethany Arts Community offered each artist in Resident
 I gave a workshop entitled [Generated Images of Ossining](https://bethanyarts.org/calendar/katarina-hoeger/).
 I worked with local high school students and members of the Bethany Arts Community as part of a workshop at the Joseph G. Caputo Community Center.
 We took images, and generated constantly shifting dot images in p5js, following a procedure very similar to Dan Shiffman's example [15-14 from "Learning Processing: The Nature Of Code"](http://learningprocessing.com/examples/chp15/example-15-14-Pointillism).
+Two workshop participants' pieces of code are pictured below. (Photo Credit: Cyn Celone.)
+
+
+![A photo of two students' code from the workshop with the instructor projector in the background.]({{"assets//img//2022//11//bac_workshop.jpg" | absolute_url }})
+
 
 Some major lessons reiterated from this workshop and the prep for it
 - bring your own equipment (projectors, power chords, etc.), including internet if students need internet
@@ -72,7 +77,6 @@ Some major lessons reiterated from this workshop and the prep for it
 - implement having students help each other before asking you for help
 - emphasize the importance of using consistent spelling & having the right symbols when writing code
 
- [Links to student sketches? (Lexi and Cyn and Cherie)]
 
 ### Other Artists
 
@@ -85,15 +89,21 @@ My residency was completed alongside 9 other artists from various disciplines: [
 We were joined by longer term residents [Tiffany Anderson](https://www.tiffanyartwork.com/), [Cyn Celone](https://www.cynthiacelone.com/), [KM Smith and Cherie Lee](https://bethanyarts.org/fellow-2022/).
 We discussed our projects over meals, attended each others demonstrations and workshops, shared tips towards being artists, and generally learned about each other's processes and lives.
 
-We got up to a few wonderful whole group shenanigans apart from dinners. There were the birthday parties, most especially the first one, where Jamison threw Sarah a party complete with hats, fake tattoos, a streamer, and treats to eat and drink. This started a birthday celebration trend. There were a few bonfire nights, where we discussed art, danced, sang, told stories, and were led by Admiral in a release of bad karma during a ritual burning on the equinox. With Jared's Projector, Admiral's Costumes, Cherie's Carved Ostrich Eggs, and Sarah and Jamison, we saw a scene projected on an ostrich egg - what a rare treat. We read out L's and Sandra's scripts, and watched or participated in KM's Poetry Slam. Francesca introduced us thematically to the world as recorded in our phones in a variation of a paint and sip nights, and Tali led us through using scrap materials to make works of art.
+We got up to a few wonderful whole group shenanigans apart from dinners. There were the birthday parties, most especially the first one, where Jamison threw Sarah a party complete with hats, fake tattoos, a streamer, and treats to eat and drink. This started a birthday celebration trend. There were a few bonfire nights, where we discussed art, danced, sang, told stories, and were led by Admiral in a release of bad karma during a ritual burning on the equinox. With Jared's Projector, Admiral's Costumes, Cherie's Carved Ostrich Eggs, and Sarah and Jamison, we saw a scene projected on an ostrich egg - what a rare treat.
+![A close up of a person projected on an egg, photo above, generated image below.]({{"assets//img//2022//11//bac_projectEgg.jpg" | absolute_url }})
+We read out L's and Sandra's scripts, and watched or participated in KM's Poetry Slam. Francesca introduced us thematically to the world as recorded in our phones in a variation of a paint and sip nights, and Tali led us through using scrap materials to make works of art.
 
 Some memorable events with each artist who was a Fall fellow with me:
 
 - Admiral shared her Qi Gong practice with Cyn and me! As another Qi Gong practitioner, I found the intersections between the forms we practice interesting. In general, Admiral was a font of knowledge about being an artist, a wonderful example of how to take advantage of being an artist living adjacent to NYC, and an amazing example of a strong person who has been successfully living life as an artist for many years. I hope to one day contribute to her [Human Dream Project](https://admiralsaintgrey.squarespace.com/the-human-dream-project). Check it out, and maybe consider contributing yourself! Also, Admiral was a wonderful friend to have when experiencing a play about Japanese American experiences devastated me.
 
-- Tali was an amazing source of stories about being a painter working with alternative materials here and in Israel. She was one of my more constant companions, and consistently encouraged me to reach out to residencies, consider how to distribute work from an experience in other forms, and think about how life itself will factor into my pursuit of being an artist. I have not figured that out yet, but have been encouraged along the path through our conversations and her discussions of how her family life and experiences play into her art practice.
+- Tali was an amazing source of stories about being a painter working with alternative materials here and in Israel. She was one of my more constant companions, and consistently encouraged me to reach out to residencies, consider how to distribute work from an experience in other forms, and think about how life itself will factor into my pursuit of being an artist. I have not figured that out yet, but have been encouraged along the path through our conversations and her discussions of how her family life and experiences play into her art practice. My sculpture from her workshop is shown below, my attempt to encapsulate my art practice visually in with the materials Tali uses for her paintings.
 
-- Francesca impressed me with her confidence, consistency of practice, and upbeat spirits. Her art is deeply personal and boundary breaking - she takes private selfies, photos taken because the photographer likes how they have portrayed themself, and make them hanging rugs, which are large and public. It's the sort of work that I am always trying to become more comfortable with making, so watching her process, and seeing her self-assuredness, was inspiring. If I was working late or early (I tend to keep erratic studio hours at the moment), I was most likely to run into her.
+![A cardboard Book shaped mini theater / laptop with a yellow background and cut out figures.]({{"assets//img//2022//11//bac_cardboardWorkshop.jpg" | absolute_url }})
+
+- Francesca impressed me with her confidence, consistency of practice, and upbeat spirits. Her art is deeply personal and boundary breaking - she takes private selfies, photos taken because the photographer likes how they have portrayed themself, and make them hanging rugs, which are large and public. It's the sort of work that I am always trying to become more comfortable with making, so watching her process, and seeing her self-assuredness, was inspiring. If I was working late or early (I tend to keep erratic studio hours at the moment), I was most likely to run into her. My results from her workshop below - the tracing of an image saved on my phone that evoked emotion in me.
+
+![A cardboard Book shaped mini theater / laptop with a yellow background and cut out figures.]({{"assets//img//2022//11//bac_alex.jpg" | absolute_url }})
 
 -  Jamison and Sarah are both amazing dancers, and very warm and engaging people. They constantly spearheaded group activities, invited us to their morning warm ups, and were generally instrumental in creating such a warm community feeling. Their friendship and artistic partnership was also inspiring, in that the care they have for each other very obviously helps make their work enjoyable to them, and nurtures their exploration through dance. As they work with the very volatile concepts of the influence on race in everyday experiences through their dance, it always comforted me to see that they each had such a good friend working through such mentally challenging concepts alongside of them. Both are young, but they have this amazing drive to succeed. I rarely saw one without the other, but grew to admire Jamison's steady, calming, and consistent presence and Sarah's fire and drive for change.
 
@@ -101,14 +111,18 @@ Some memorable events with each artist who was a Fall fellow with me:
 
 - Sandra spoke of how residencies fuel her artistic production, of how being a professor is sometimes at odds with producing artistic output, and of the various stages of being an artist at different points of her now adult children's lives. She, like so many of the others, seemed settled into being an artist, and less nervous about how to proceed. Being around her helped me realize that I need to just work hard, believe, and share my work and story with the world, and it will work out.
 
-- Watching Sarah and Jared was a lesson in watching longtime friends and fellow professors with separate lives work together to create art. They had specific blocks of time where they worked in tandem, some times where they worked separately on different portions of a product, and many times when they took care of other life responsibilities such as family or students that do not go on hold while an artist is in a residency. Both told stories from their past projects and residencies, and told some memorable cautionary tales. Both have practice being simultaneously generous with their time and setting clear boundaries, and it was a pleasure to work alongside them and learn through exposure.
+- Watching Sarah and Jared was a lesson in watching longtime friends and fellow professors with separate lives work together to create art. They had specific blocks of time where they worked in tandem, some times where they worked separately on different portions of a product, and many times when they took care of other life responsibilities such as family or students that do not go on hold while an artist is in a residency. Both told stories from their past projects and residencies, and told some memorable cautionary tales. Both have practice being simultaneously generous with their time and setting clear boundaries, and it was a pleasure to work alongside them and learn through exposure. The image below is a still from their workshop testing some of the processes that will be used in their project with [Sunny's](https://sunnysredhook.getbento.com/) in Red Hook.  
+
+
+![A black and white image of different artists overlaid on top of one another.]({{"assets//img//2022//11//bac_jaredSarah.jpg" | absolute_url }})
+
 
 ### Residency Life Lessons
 
-Residencies are a part of an artist's life where some organization who believes in the artist gives the artist the gift of time, space, and some sort of financial support to produce work. In a world where different responsibilities are always pulling at our time,
+Residencies are a part of an artist's life where some organization who believes in the artist gives the artist the gift of time, space, and some sort of financial support to produce work.
+In a world where different professional and familial responsibilities are always pulling at our time, residencies are sometimes the only place artists can create.
 
-my work
+Residencies provide a chance to exchange ideas with other creatives.
+Some of the most memorable group activities began with us just hanging out at dinner, showing each other work, and then another participant saying, "Wait! I can do something with this."
 
-other artists
-
-residency life and opportunities
+Thank you all for sharing this wonderful first residency with me!
