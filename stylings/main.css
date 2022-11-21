@@ -751,6 +751,10 @@ h4 {
   margin-top: 3em;
   padding-top: 2em;
 }
+sup {
+  font-size: 0.8em;
+  margin-bottom: 3em;
+}
 /* ABOUT STYLES */
 .about-content {
   margin-bottom: 1.5em;
