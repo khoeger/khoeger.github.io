@@ -46,7 +46,10 @@ My major thoughts walking away
 4. Inequality is real! Societies with less access to modern technology and less enthusiastic or less well to do adopters of the technology will not have the same levels of trustworthiness according to the blockchain system, because they will have fewer connections and interactions stored in the blockchain. So this system seems to perpetuate inequality, making those who use it more often and longer the digital elite with more sway over the happenings of the blockchain. (At least, if I've understood how the blockchain works.)
 
 I've got more to learn, but that'll be for another day.
-In the meantime, this talk has encouraged my decision to keep improving this website, to kickstart my mailing list, and to experiment with decentralized communication networks like Mastodon, the Fediverse, etc. (I need to look more up about them too.)
+In the meantime, this talk has encouraged my decision to keep improving this website, to kickstart my mailing list, and to experiment with decentralized communication networks. I joined two so that I can experiment. Find me on Mastodon at [@khoeger@mas.to](https://mas.to/@khoeger) and on DiasporaFederation at [@khoeger@pod.dapor.net](https://pod.dapor.net/people/05075de04c3a013bd92b1600007ec19f).
+
+
+
 The struggle here is that if I'm trying to maintain all the online identities, none of them will get adequate attention and many will be done poorly.
 I enjoy being connected online, but treasure in person activities and interactions too.
 Balancing the online with the in person is a struggle I will continue to pursue.
