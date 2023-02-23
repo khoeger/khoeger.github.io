@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Without Borders 2022 | This Place, This Time
-date: 2022-05-27 17:00:00 -0500
+date: 2022-05-27 17:00:00 +0500
 image:  /assets/img/2022/05/20220527_LordHallGalleryHero.jpg
 location-title: Lord Hall Gallery
 location: 5743 Lord Hall, Orono, ME 04469
