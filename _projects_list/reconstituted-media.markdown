@@ -33,7 +33,7 @@ Visuals generated as part of this series have been projected, sent to recipients
 ## Depictions of select stages of exploration
 - Build one image up from a single shape.
 
-![A rainbow on a wall and floor, made up of overlapping rectangles.]({{"//assets//img/hero//rainbowWall_generated_signature_20220301.jpg" | absolute_url)}})
+![A rainbow on a wall and floor, made up of overlapping rectangles.]({{"//assets//img/hero//rainbowWall_generated_signature_20220301.jpg" | absolute_url }})
 
 - Build hybrid image from multiple images and a single shape.
 
