@@ -133,19 +133,31 @@ h4 {
   display: block;
   height: 10vh;
   left: -30px;
-  padding-top: 10px;
+  padding-top: -5px;
   position: relative;
-  text-align: center;
-  width: 10vh;
+  width: 30vh;
 }
 .header-logo:hover,
 .header-logo:active {
   opacity: 0.75;
   background-color: var(--kh-main-highlight);
 }
-.header-logo img {
+/* .header-logo img {
   width: 6.5vh;
+} */
+.header-logo p {
+  font-size: 0.8rem;
+  text-decoration: none;
+  font-weight: bold;
+  float: left;
+  text-transform: uppercase;
+  color: white;
 }
+.header-logo .name{
+  padding: 0 0 0 30px;
+  margin-top: 15px;
+}
+
 .header-nav {
   float: right;
   padding: 5.5vh 60px 0 0;
