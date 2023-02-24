@@ -1,22 +1,8 @@
 ![Katarina Hoeger smiling, wearing pink glasses and a red shirt. The image is not a photo, but a composite picture made up of letters and circles.]({{ "assets/img/portrait/katarina_hoeger_merged__2022_1_10_17_20_circle_0.05_320x320_82KiB.jpg" | absolute_url}}){: .pull-right }
 
-Katarina Hoeger is fascinated by relations that are inherently part of being
-oneself and embodying space. She picks specific relations to examine
-in each work and then creates an experience using media, often a combination
-of computer generated visuals and sound to provide an audience
-member or participant a setup to peruse. Recently explored relations
-include the recognition of media reconstituted from elementary parts,
-confronting mental health concepts in virtual or physical space, or using
-the relations of time, place and memory to interpret scientific happenings
-inside the brain.
+Katarina Hoeger uses code to generate or modify audio and visuals in her works. These audio and visuals augment  a listeners’-viewers’-participants’ relationships with their bodies, their physical environments, and other humans. Many of Katarina's works reflect her interest in sounds and motions fostered by lifelong participation in music and dance. These influences combined with the experience of having been raised with a variety of cultural and philosophical backgrounds shape the intention behind her works. Katarina aims to use her art to examine her physical and mental self, her environment, social structures, and the people she interacts with. She is interested in how art can be used to examine the relationships she and others have with each of the aforementioned entities.
 
-Katarina Hoeger is currently a Master of Fine Arts Candidate in Intermedia
-and a Graduate Teaching Assistant in New Media at University of
-Maine in Orono, Maine, USA. She holds a Master of Science in Computer
-Science with a specialization in Computational Operations Research from
-the College of William and Mary in Williamsburg, Virginia, USA and a
-Bachelor of Science in Mathematics from Harvey Mudd College in Claremont,
-California, USA.
+Katarina Hoeger holds a Master of Fine Arts in Intermedia from the  University of Maine in Orono, Maine, a Master of Science in Computer Science with a specialization in Operations Research from the College of William & Mary, and a Bachelor of Science in Mathematics from Harvey Mudd College. She has been an artist-in-residence at Bethany Arts Community in Ossining, NY.
 Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
 ## CV
