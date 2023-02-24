@@ -282,13 +282,26 @@ h4 {
   position: relative;
   text-align: center;
   text-transform: uppercase;
-  top: 50%;
+  top: 20%;
   transform: translate(0, -50%);
+
 }
 .hero-content h1 {
   color: rgba(255,255,255,0.8);
   font-size: 7vw;
   margin-bottom: 0.25em;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 30px;
+
+}
+.hero-content h2 {
+  color: rgba(255,255,255,0.8);
+  font-size: 5vw;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 30px;
 }
 .hero-content .social-link {
   background-color: rgba(255,255,255,0.8);
