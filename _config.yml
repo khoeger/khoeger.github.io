@@ -39,7 +39,7 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
+  # - jekyll-last-modified-at
   # - jekyll-pdf-embed
 
 
@@ -78,8 +78,6 @@ defaults:
     values:
       layout: project
 
-last-modified-at:
-   date-format: "%B %Y"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
