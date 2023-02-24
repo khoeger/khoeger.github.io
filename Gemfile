@@ -22,7 +22,7 @@ gem "minima", "~> 2.5.1"#"~> 2.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17.0"#"~> 0.6"
-  gem "jekyll-last-modified-at"
+  # gem "jekyll-last-modified-at"
 end
 
 gem "bootstrap-sass", ">= 3.4.1"
