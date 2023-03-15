@@ -13,14 +13,53 @@ published: true
 [Genuary](https://genuary.art) 2023, a month long creative coding challenge by and for generative artists,  came and went more than a month ago.  I participated for the first time this year. Still frames from my outputs for the year and reflections lie below. 
 
 ## Refletions on Genuary
+### Dailies and Time
+#### Timing
+#### Committing to Daily
+#### To Slide, or Not
+#### Documentation
+### Personal Projects
 
-## Daily reflections
+
+## Reflections on Each Day
 ### 1 - Perfect loop / Infinite loop / endless GIFs
+Truthfully, I only realized that Genuary had started once I started seeing the \#Genuary hashtags of my friends show up on Instagram and Twitter. So I missed day 1, and started on day 2. 
 ### 2 - Made in 10 minutes
-![gender reveal balloon next to each other. One picture has tree branches below, a very light sky, and an balloon with a question mark in blue, green, with the top in red. The other balloon has a deeper blue sky, with a question mark in blue and pink. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
+![A grid 24 x 25 grid of pink and green squares. The first two rows of squares, plus the first 2 columns of the third row, are pink. The rest of the squares are green. At the top of the square, there is a header that shows that the image is a screenshot from a p5js webeditor. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
+The still shown is from a that is a 10 minute timer, or, in other terms, a visualization of 10 minutes.
+I interpreted the prompt as "the end image should be made in 10 minutes". 
+If a viewer is patient enough, they can use the grid as a timer for 10 minutes. Additionally, a viewer can look at the grid, and see that any grid made took 10 minutes to generate. 
+
+I attempted to finish the code in 10 minutes. 
+The bare bones of the code were finished in 10 minutes, but  a lot of debugging, and all commenting, happened after the work completed.
 ### 3 - Glitch Art
+![A grey banister on a black background, hard to identify banister. ]({{"assets//img/2023//03//genuary//genuary_3.png" | absolute_url }}){: .pull-right}
+A still from a short animation of light changing on the stairway. 
+
+One of the easiest ways for me to generate glitches is to try out a new library. 
+Therefore, as I am working on taking video as input for long term projects, I decided to try taking image from my web camera, and see what sorts of glitchy results I could force. 
+
 ### 4 - Intersections
+![A  lattice structure of pink, with smaller lattice structures of yellow inside, and black and teal backgrounds. ]({{"assets//img/2023//03//genuary//genuary_4.png" | absolute_url }}){: .pull-left}
+This still is taken from a set of rotating lines. 
+
+Lines that cross, intersect. 
+Lines of various thickness and colors generate various patterns. 
+This exploration was inspired by Scottish tartans.
+
+This particular exploration ran slowly, but worked well to generate still to form into an animation. 
+If I wanted to run this in real time, I would need to look into another method of generating lines, instead of making line classes and storing them in memory.
+Perhaps I would use shaders. 
 ### 5 - Debug view
+![Black circles on a white background, next to rainbow colored short lines, distributed like straws across the image. ]({{"assets//img/2023//03//genuary//genuary_5.png" | absolute_url }}){: .pull-right}
+
+Once again, this is a still from an animation. 
+In the animation, black rings bounce around the white canvas. 
+Where the rings collide, a rainbow colored line is drawn perpendicular to the edges that touch. 
+The lines fade over time, leaving a trace of collisions in the near past, but not showing a complete history of collisions. 
+
+On the 5th day, I began to reign in my ambition, and tried to stick to minimal interpertations of the prompts unless they fit my future ambitions for personal projects.
+I found that I was spending a bit too much time on prompts, enforcing unhealthy habits and not being present in life. 
 ### 6 - Steal Like An Artist
 ### 7 - Sample from your favorite album cover
 ### 8 - Signed Distance Functions
