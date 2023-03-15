@@ -1,0 +1,50 @@
+---
+layout: post
+title: Genuary 2023
+date:   2023-03-15 9:00:00 +0500
+categories: artist art code creativeCode challenge generativeArt genuary genuary2023
+postHero: /assets/img/2023/03/genuary/genuary_header.png
+event-tag: 2023Genuary
+project-tag: genuary2023
+postFooter: 
+published: true
+---
+
+[Genuary](https://genuary.art) 2023, a month long creative coding challenge by and for generative artists,  came and went more than a month ago.  I participated for the first time this year. Still frames from my outputs for the year and reflections lie below. 
+
+## Refletions on Genuary
+
+## Daily reflections
+### 1 - Perfect loop / Infinite loop / endless GIFs
+### 2 - Made in 10 minutes
+![gender reveal balloon next to each other. One picture has tree branches below, a very light sky, and an balloon with a question mark in blue, green, with the top in red. The other balloon has a deeper blue sky, with a question mark in blue and pink. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
+### 3 - Glitch Art
+### 4 - Intersections
+### 5 - Debug view
+### 6 - Steal Like An Artist
+### 7 - Sample from your favorite album cover
+### 8 - Signed Distance Functions
+### 9 - Plants
+### 10 - Generative music
+### 11 - Suprematism
+### 12 - Tessellation
+### 13 - I've always wanted to learn
+### 14 - Aesemic
+### 15 - Sine waves
+### 16 - Reflection of a reflection
+### 17 - A grid inside a grid inside a grid 
+### 18 - Definitely not a grid
+### 19 - Black and white
+### 20 - Art Deco
+### 21 - Persian Rug
+### 22 - Shadows
+### 23 - More Moiré
+### 24 - Textile
+### 25 - Yayoi Kusama
+### 26 - My kid could have made that
+### 27 - In the style of Hilma Af Klint
+### 28 - Generative poetry
+### 29 - Maximalism
+### 30 - Minimalism
+### 31 - Break a previous images
+
