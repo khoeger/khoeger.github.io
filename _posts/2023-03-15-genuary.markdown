@@ -144,8 +144,11 @@ When I have created tiled patterns in the past, I created a tile first, and then
 This result is more cohesive / harder to find the beginnings and ends of, than some of my past patterns. 
 
 Once again, I threw efficiency of code out the window in favor of efficiency in time spent writing code. 
+
 ### 13 - I've always wanted to learn
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_13.png" | absolute_url }}){: .pull-left}
+
+
 
 ### 14 - Aesemic
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_14.png" | absolute_url }}){: .pull-right}
