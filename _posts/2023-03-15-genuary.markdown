@@ -110,14 +110,40 @@ I definitely am completing many tasks, but sometimes progress is hard to see.
 The goal is to make the progress easier to recognize. 
 
 ### 10 - Generative music
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_10.png" | absolute_url }}){: .pull-left}
+![Colorful circles of different colors randomly placed on a white background.]({{"assets//img/2023//03//genuary//genuary_10.png" | absolute_url }}){: .pull-left}
+
+Music is meant to be heard. 
+This work was inspired by a favorite flute piece I have practiced as well as an aleatoric music project from my undergraduate years. 
+The sounds generated are basic sine tones, in pitches and durations given by the pitches and durations of [Giulio Briccialdi's "Il Carnevale di Venezia](https://www.youtube.com/watch?v=5olg5OGiaQc)." 
+The melody is also one I heard as a child, in the form of "Mein Hut, der Hat Drei Ecken."
+The visuals, colorful balls, are a still from an animation. 
+As the balls bounce into one another, they trigger the next note, pitch and duration are chosen based off of the probabilities from Briccialdi's flute score. 
+Colors correspond with pitch, radius with duration.
+Transition probabilities were hand tallied.
 
 ### 11 - Suprematism
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_11.png" | absolute_url }}){: .pull-right}
+![Black, yellow, and purple rectangles are on an off white background. Purple and white circles are also placed on the screen. ]({{"assets//img/2023//03//genuary//genuary_11.png" | absolute_url }}){: .pull-right}
+
+Exploring suprematism required bold colors, standard shapes, reduced color palletes and shapes, and not having a specific visual to imply. 
+Off whites were important. 
+I chose purple and yellow, even though the examples shown did not use them, as I did not understand why the example works strayed away from these colors. 
+I used pseudo random numbers to generated outputs similar to examples found on various websites showing pictures of Suprematism and describing how to create similar images. 
+The outputs were animations, and the pictured visual is a still from them. 
+
+This result felt bold and was a project that allowed me to work on more than the daily genuary prompt. I enjoyed learning about a Russian art movement of the 20th century that I had not heard of prior to this. 
+I did not figure out how it translated into the medium of sound. 
 
 ### 12 - Tessellation
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_12.png" | absolute_url }}){: .pull-right}
 
+I build this pattern slowly. 
+First, I constructed a tile.
+I repeated the tile across the page.
+After I had a basic repeating tile, I added one element at a time to create the pattern. 
+When I have created tiled patterns in the past, I created a tile first, and then made a repeating pattern across the screen.  
+This result is more cohesive / harder to find the beginnings and ends of, than some of my past patterns. 
+
+Once again, I threw efficiency of code out the window in favor of efficiency in time spent writing code. 
 ### 13 - I've always wanted to learn
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_13.png" | absolute_url }}){: .pull-left}
 
