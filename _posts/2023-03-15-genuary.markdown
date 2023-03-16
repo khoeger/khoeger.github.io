@@ -6,7 +6,7 @@ categories: artist art code creativeCode challenge generativeArt genuary genuary
 postHero: /assets/img/2023/03/genuary/genuary_header.png
 event-tag: 2023Genuary
 project-tag: genuary2023
-postFooter: 
+postFooter: "<p>Something new I learned while writing this post: <a href='https://testsuite.io/fix-address-already-in-use'>how to stop Jekyll when Ctrl-C doesn't work</a>.</p> <p>Long story short, find the PID value, with 'lsof -wni tcp:_PORT_NUMBER_' and then 'kill -9 _PID_'.</p><p> Why was this necessary? I have switched to Visual Studio Code because Atom has been daylighted, and the terminal session somehow quit inside of VS Code without actually exiting Jekyll. My site would no longer reload.</p><p>This is one of joys of maintaining my website in the way I do - free training via error messages, debugging, and web searches :)</p>"
 published: true
 ---
 
@@ -88,50 +88,89 @@ This was a sane decision for a day's code.
 This prompt did not take up more time than expected, as all of the steps involved in generating the result were relatively simple and built off of code that I had used recently. 
 
 ### 8 - Signed Distance Functions
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_8.png" | absolute_url }}){: .pull-right}
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_8.png" | absolute_url }}){: .pull-left}
+
+I decided to interpret signed distance functions by defining an inner region and an outer region, and only plotting points within the inner region. 
+To make the results more interesting, I layered regions within regions. 
+Circles are plotted when randomly chosen spots fall within the region defined by the boundaries of the hexagon. 
+This reminded me of the catch the falling apple or owl catching accorn assignment from the teaching at the Digital Arts Experiece (which is sadly gone, the pandemic killed it) or UMaine's New Media 105 course. 
+There may have been more computationally efficient implementations (see [Piter Pasma's](https://genuary.art/wtsdf), [Inigo Quilezles's 2D](https://iquilezles.org/articles/distfunctions2d/), and [Inigo Quilezles's 3D](https://iquilezles.org/articles/distfunctions/) explanations) but I definitely went with what I knew, rather than learning a new technique, due to time constraints. 
+
 ### 9 - Plants
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_9.png" | absolute_url }}){: .pull-left}
+![A green background with a purple flower composed of dots in front.]({{"assets//img/2023//03//genuary//genuary_9.png" | absolute_url }}){: .pull-right}
+
+This image was composed using a mix of the 10 minute technique from Day 2 and the pixel sampling process I use in reconstituted Media. 
+The plant shown is from a picture I took while visiting the [Jardin botanique de Montréal](https://espacepourlavie.ca/en/botanical-garden) in 2018. 
+
+This response is also part of the exploratory phase of a potential larger project that I have started laying the groundwork for. 
+I began to develop the idea during Genuary.
+Basically, the idea is to create a project that shows my progress.
+At the moment, I feel like I am treading water. 
+I definitely am completing many tasks, but sometimes progress is hard to see. 
+The goal is to make the progress easier to recognize. 
+
 ### 10 - Generative music
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_10.png" | absolute_url }}){: .pull-right}
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_10.png" | absolute_url }}){: .pull-left}
+
 ### 11 - Suprematism
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_11.png" | absolute_url }}){: .pull-left}
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_11.png" | absolute_url }}){: .pull-right}
+
 ### 12 - Tessellation
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_12.png" | absolute_url }}){: .pull-right}
+
 ### 13 - I've always wanted to learn
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_13.png" | absolute_url }}){: .pull-left}
+
 ### 14 - Aesemic
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_14.png" | absolute_url }}){: .pull-right}
+
 ### 15 - Sine waves
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_15.png" | absolute_url }}){: .pull-left}
+
 ### 16 - Reflection of a reflection
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_16.png" | absolute_url }}){: .pull-right}
+
 ### 17 - A grid inside a grid inside a grid 
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_17.png" | absolute_url }}){: .pull-left}
+
 ### 18 - Definitely not a grid
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_18.png" | absolute_url }}){: .pull-right}
+
 ### 19 - Black and white
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_19.png" | absolute_url }}){: .pull-left}
+
 ### 20 - Art Deco
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_20.png" | absolute_url }}){: .pull-right}
+
 ### 21 - Persian Rug
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_21.png" | absolute_url }}){: .pull-left}
+
 ### 22 - Shadows
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_22.png" | absolute_url }}){: .pull-right}
+
 ### 23 - More Moiré
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_23.png" | absolute_url }}){: .pull-left}
+
 ### 24 - Textile
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_24.png" | absolute_url }}){: .pull-right}
+
 ### 25 - Yayoi Kusama
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_25.png" | absolute_url }}){: .pull-left}
+
 ### 26 - My kid could have made that
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_26.png" | absolute_url }}){: .pull-right}
+
 ### 27 - In the style of Hilma Af Klint
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_27.png" | absolute_url }}){: .pull-left}
+
 ### 28 - Generative poetry
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_28.png" | absolute_url }}){: .pull-right}
+
 ### 29 - Maximalism
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_29.png" | absolute_url }}){: .pull-left}
+
 ### 30 - Minimalism
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_30.png" | absolute_url }}){: .pull-right}
+
 ### 31 - Break a previous images
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_31.png" | absolute_url }}){: .pull-left}
