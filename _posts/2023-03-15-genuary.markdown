@@ -23,16 +23,19 @@ published: true
 
 ## Reflections on Each Day
 ### 1 - Perfect loop / Infinite loop / endless GIFs
-Truthfully, I only realized that Genuary had started once I started seeing the \#Genuary hashtags of my friends show up on Instagram and Twitter. So I missed day 1, and started on day 2. 
-### 2 - Made in 10 minutes
-![A grid 24 x 25 grid of pink and green squares. The first two rows of squares, plus the first 2 columns of the third row, are pink. The rest of the squares are green. At the top of the square, there is a header that shows that the image is a screenshot from a p5js webeditor. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
-The still shown is from a that is a 10 minute timer, or, in other terms, a visualization of 10 minutes.
-I interpreted the prompt as "the end image should be made in 10 minutes". 
-If a viewer is patient enough, they can use the grid as a timer for 10 minutes. Additionally, a viewer can look at the grid, and see that any grid made took 10 minutes to generate. 
 
-I attempted to finish the code in 10 minutes. 
-The bare bones of the code were finished in 10 minutes, but  a lot of debugging, and all commenting, happened after the work completed.
+Non-existant. I started on day 2. Seeing [this ⊕ that](https://www.instagram.com/_thisxorthat/)'s day 1 reel jogged my memory.
+
+### 2 - Made in 10 minutes
+
+![A grid 24 x 25 grid of pink and green squares. The first two rows of squares, plus the first 2 columns of the third row, are pink. The rest of the squares are green. At the top of the square, there is a header that shows that the image is a screenshot from a p5js webeditor. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
+What does it mean to be "made in 10 minutes?" 
+It can mean that after a system has been running for 10 minutes, the image you see has been made in that time frame. 
+I chose to attempt this, in a method that made the progression of time easy to understand.
+The image shown depicts a still from the process, 10 minutes and 52 seconds after the first green square was laid down.
+
 ### 3 - Glitch Art
+
 ![A grey banister on a black background, hard to identify banister. ]({{"assets//img/2023//03//genuary//genuary_3.png" | absolute_url }}){: .pull-right}
 A still from a short animation of light changing on the stairway. 
 
@@ -40,6 +43,7 @@ One of the easiest ways for me to generate glitches is to try out a new library.
 Therefore, as I am working on taking video as input for long term projects, I decided to try taking image from my web camera, and see what sorts of glitchy results I could force. 
 
 ### 4 - Intersections
+
 ![A  lattice structure of pink, with smaller lattice structures of yellow inside, and black and teal backgrounds. ]({{"assets//img/2023//03//genuary//genuary_4.png" | absolute_url }}){: .pull-left}
 This still is taken from a set of rotating lines. 
 
@@ -55,6 +59,7 @@ Another thing to keep in mind is that when creating work that takes 10 minutes t
 Therefore, even if the code is simple, it is a time consuming project, and will by nature expand past the 10 minute deadline implied by the prompt. 
 Creating this work required lots of waiting. 
 ### 5 - Debug view
+
 ![Black circles on a white background, next to rainbow colored short lines, distributed like straws across the image. ]({{"assets//img/2023//03//genuary//genuary_5.png" | absolute_url }}){: .pull-right}
 
 Once again, this is a still from an animation. 
@@ -65,6 +70,7 @@ The lines fade over time, leaving a trace of collisions in the near past, but no
 On the 5th day, I began to reign in my ambition, and tried to stick to minimal interpertations of the prompts unless they fit my future ambitions for personal projects.
 I found that I was spending a bit too much time on prompts, enforcing unhealthy habits and not being present in life. 
 ### 6 - Steal Like An Artist
+
 ![A staircase with the outline of an invisible figure going down it.]({{"assets//img/2023//03//genuary//genuary_6.png" | absolute_url }}){: .pull-left}
 This is a still from a video depicting the outline of a person descending a staircase. 
 This work uses the code from day 3, glitch art, as a base, and takes inspiration from Marcel DuChamp's [Nude Descending a Staircase (No. 2)](https://philamuseum.org/collection/object/51449).
@@ -73,6 +79,7 @@ The code for this day was rather quick.
 However, the number of takes it took to get an acceptable recording exceeded the amount of time I put aside. 
 Also, it required having an assistant, something I had not taken into account when I planed the sketch. 
 ### 7 - Sample from your favorite album cover
+
 ![A grey background with words in a distinctive, angular font placed randomly across the the surface, layered. The words are in shades of grey and red.]({{"assets//img/2023//03//genuary//genuary_7.png" | absolute_url }}){: .pull-right}
 
 This image is one of many meant to be generated by the program I wrote on day 7. 
@@ -88,6 +95,7 @@ This was a sane decision for a day's code.
 This prompt did not take up more time than expected, as all of the steps involved in generating the result were relatively simple and built off of code that I had used recently. 
 
 ### 8 - Signed Distance Functions
+
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_8.png" | absolute_url }}){: .pull-left}
 
 I decided to interpret signed distance functions by defining an inner region and an outer region, and only plotting points within the inner region. 
@@ -97,6 +105,7 @@ This reminded me of the catch the falling apple or owl catching accorn assignmen
 There may have been more computationally efficient implementations (see [Piter Pasma's](https://genuary.art/wtsdf), [Inigo Quilezles's 2D](https://iquilezles.org/articles/distfunctions2d/), and [Inigo Quilezles's 3D](https://iquilezles.org/articles/distfunctions/) explanations) but I definitely went with what I knew, rather than learning a new technique, due to time constraints. 
 
 ### 9 - Plants
+
 ![A green background with a purple flower composed of dots in front.]({{"assets//img/2023//03//genuary//genuary_9.png" | absolute_url }}){: .pull-right}
 
 This image was composed using a mix of the 10 minute technique from Day 2 and the pixel sampling process I use in reconstituted Media. 
@@ -110,6 +119,7 @@ I definitely am completing many tasks, but sometimes progress is hard to see.
 The goal is to make the progress easier to recognize. 
 
 ### 10 - Generative music
+
 ![Colorful circles of different colors randomly placed on a white background.]({{"assets//img/2023//03//genuary//genuary_10.png" | absolute_url }}){: .pull-left}
 
 Music is meant to be heard. 
@@ -122,6 +132,7 @@ Colors correspond with pitch, radius with duration.
 Transition probabilities were hand tallied.
 
 ### 11 - Suprematism
+
 ![Black, yellow, and purple rectangles are on an off white background. Purple and white circles are also placed on the screen. ]({{"assets//img/2023//03//genuary//genuary_11.png" | absolute_url }}){: .pull-right}
 
 Exploring suprematism required bold colors, standard shapes, reduced color palletes and shapes, and not having a specific visual to imply. 
@@ -134,6 +145,7 @@ This result felt bold and was a project that allowed me to work on more than the
 I did not figure out how it translated into the medium of sound. 
 
 ### 12 - Tessellation
+
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_12.png" | absolute_url }}){: .pull-right}
 
 I build this pattern slowly. 
@@ -146,16 +158,34 @@ This result is more cohesive / harder to find the beginnings and ends of, than s
 Once again, I threw efficiency of code out the window in favor of efficiency in time spent writing code. 
 
 ### 13 - I've always wanted to learn
+
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_13.png" | absolute_url }}){: .pull-left}
 
-
+This photo depicts a still showing hardware I wish to use in the future. 
+I spent the time I had set aside for the prompt preparing code to show on this display. 
+Why did I work on this? 
+My visuals are often digital, and I feel a need to present them easily. 
+When this system is fully functional, I should just be able to pass someone this display, and would be able to see and interact with my work after plugging it in. 
 
 ### 14 - Aesemic
+
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_14.png" | absolute_url }}){: .pull-right}
+Asemic writing looks like writing but does not have meaning.
+
+Writing belongs to specific peoples, with their own cultures and practices, and is used to communicate information between groups and store the information for personal memory and posterity. 
+Therefore, to create writing that looks like written language, but is not, my first step was to consider some of the tenets the memebers of the society follow. 
+
+This society believes in building from the ground up, starting at the very bottom, and moving in the direction one does not walk automatically.
+Therefore, 
+this language is written from bottom left to upper right. 
+It also does not use closed curves. 
+There are spaces and stopping characters built into the generated image. 
 
 ### 15 - Sine waves
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_15.png" | absolute_url }}){: .pull-left}
 
+![Small black wrings arranged in a shape that looks like a sideways goblet, on a white background. The rings are in curved lines and rows.]({{"assets//img/2023//03//genuary//genuary_15.png" | absolute_url }}){: .pull-left}
+
+Sin
 ### 16 - Reflection of a reflection
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_16.png" | absolute_url }}){: .pull-right}
 
