@@ -195,11 +195,18 @@ This means that \\(Sin(x)=y\\) is not unique --- there are many values \\(x_i, x
 
 The image generated is a still from an animation that shows how, given the properties of Sine mentioned, the output of the Sine function varies over time given a range of inputs from \\(-1\\) to \\(1\\). 
 ### 16 - Reflection of a reflection
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_16.png" | absolute_url }}){: .pull-right}
+![4 comet-like shapes, one in each corner, all facing inward. The top right is the darkest. the bottom left is the lightest, the top left and bottom right are in between. The shapes are shades of grey, on white, and composed of overlaping ciricles. ]({{"assets//img/2023//03//genuary//genuary_16.png" | absolute_url }}){: .pull-right}
 
-In the cartesian 
+Common reflections in a Cartesian coordinate system include reflections over the \\(x\\) and \\(y\\) axes. 
+In real life, reflections in succesive mirros get slightly smaller over time, and eventually fade out of view. 
+In this interpretation of reflection, the mouse's position on the screen, mapped to the upper right corner of the image, is reflected across the axes until all quadrants are filled. 
+With each successive reflection, the image fades. 
+
+The image shown is from a still taken during a session of moving the mouse through the finished daily exploration.
 ### 17 - A grid inside a grid inside a grid 
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_17.png" | absolute_url }}){: .pull-left}
+![Pink circles, squares, and triangles, laid out in various overlapping grids.]({{"assets//img/2023//03//genuary//genuary_17.png" | absolute_url }}){: .pull-left}
+
+In [Yusuke's Genuary Day 4](https://twitter.com/ysk_cc/status/1610599570131779584), he laid 3 grids on top of one another and created patterns. This inspired me to lay grids where the intersections were various shapes on top of one another, and rotate them. 
 
 ### 18 - Definitely not a grid
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_18.png" | absolute_url }}){: .pull-right}
