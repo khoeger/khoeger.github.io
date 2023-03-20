@@ -186,7 +186,8 @@ There are spaces and stopping characters built into the generated image.
 
 ![Small black wrings arranged in a shape that looks like a sideways goblet, on a white background. The rings are in curved lines and rows.]({{"assets//img/2023//03//genuary//genuary_15.png" | absolute_url }}){: .pull-left}
 
-Sine, or \\f(x) = (Sine(x)\\) is an extremely important function in mathematics, physics, engineering, as well as when creating digitally generated visuals on a computer.
+Sine, or \\f(x) = (Sine(x)\\) is an important function in mathematics, physics, and engineering. 
+It is also important when creating digitally generated visuals on a computer.
 It has many computationally nice properties, such as the following: 
 - \\(Sin\\) is a periodic function. 
 This means that \\(Sin(x)=y\\) is not unique --- there are many values \\(x_i, x_j\\), where \\(i \neq j\\) such that \\(Sin(x_i) = y\\) and is \\(Sin(x_j)= y\\) as well. The entire Sine function repeats after a fixed period. 
@@ -209,11 +210,16 @@ The image shown is from a still taken during a session of moving the mouse throu
 In [Yusuke's Genuary Day 4](https://twitter.com/ysk_cc/status/1610599570131779584), he laid 3 grids on top of one another and created patterns. This inspired me to lay grids where the intersections were various shapes on top of one another, and rotate them. 
 
 ### 18 - Definitely not a grid
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_18.png" | absolute_url }}){: .pull-right}
+![Dots forming circles, radiating out from the center of each side of the square, overlapping one another.]({{"assets//img/2023//03//genuary//genuary_18.png" | absolute_url }}){: .pull-right}
 
+This image is formed of dots, placed in sucessively larger cirlces. 
+The overlapping circles look like the form a grid, similar to what is used ot create orthographic projections. 
+However, none of the shapes formed by the overlapping circles are squares or rectangles. 
+
+The image shown is a still from the animation which showed the progression of placing dots one at a time to form the created pattern.
 ### 19 - Black and white
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_19.png" | absolute_url }}){: .pull-left}
-
+![A black, white, and green speckled circle on a white background.]({{"assets//img/2023//03//genuary//genuary_19.png" | absolute_url }}){: .pull-left}
+Th
 ### 20 - Art Deco
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_20.png" | absolute_url }}){: .pull-right}
 
