@@ -8,6 +8,7 @@ event-tag: 2023Genuary
 project-tag: genuary2023
 postFooter: "<p>Something new I learned while writing this post: <a href='https://testsuite.io/fix-address-already-in-use'>how to stop Jekyll when Ctrl-C doesn't work</a>.</p> <p>Long story short, find the PID value, with 'lsof -wni tcp:_PORT_NUMBER_' and then 'kill -9 _PID_'.</p><p> Why was this necessary? I have switched to Visual Studio Code because Atom has been daylighted, and the terminal session somehow quit inside of VS Code without actually exiting Jekyll. My site would no longer reload.</p><p>This is one of joys of maintaining my website in the way I do - free training via error messages, debugging, and web searches :)</p>"
 published: true
+mathjax: true
 ---
 
 [Genuary](https://genuary.art) 2023, a month long creative coding challenge by and for generative artists,  came and went more than a month ago.  I participated for the first time this year. Still frames from my outputs for the year and reflections lie below. 
@@ -185,10 +186,18 @@ There are spaces and stopping characters built into the generated image.
 
 ![Small black wrings arranged in a shape that looks like a sideways goblet, on a white background. The rings are in curved lines and rows.]({{"assets//img/2023//03//genuary//genuary_15.png" | absolute_url }}){: .pull-left}
 
-Sin
+Sine, or \\f(x) = (Sine(x)\\) is an extremely important function in mathematics, physics, engineering, as well as when creating digitally generated visuals on a computer.
+It has many computationally nice properties, such as the following: 
+- \\(Sin\\) is a periodic function. 
+This means that \\(Sin(x)=y\\) is not unique --- there are many values \\(x_i, x_j\\), where \\(i \neq j\\) such that \\(Sin(x_i) = y\\) and is \\(Sin(x_j)= y\\) as well. The entire Sine function repeats after a fixed period. 
+- The vaulues output from the Sine function are bounded between \\(-1\\) and \\(1\\). 
+- The outputs of Sine repeat, and are also bound between \\(-1\\) and \\(1\\). Therefore, if we want to make an image that repeats itself over time, making the image change with respect to the Sine function is a convenient way to do so. 
+
+The image generated is a still from an animation that shows how, given the properties of Sine mentioned, the output of the Sine function varies over time given a range of inputs from \\(-1\\) to \\(1\\). 
 ### 16 - Reflection of a reflection
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_16.png" | absolute_url }}){: .pull-right}
 
+In the cartesian 
 ### 17 - A grid inside a grid inside a grid 
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_17.png" | absolute_url }}){: .pull-left}
 
