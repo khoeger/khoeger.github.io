@@ -208,6 +208,7 @@ The image shown is from a still taken during a session of moving the mouse throu
 ![Pink circles, squares, and triangles, laid out in various overlapping grids.]({{"assets//img/2023//03//genuary//genuary_17.png" | absolute_url }}){: .pull-left}
 
 In [Yusuke's Genuary Day 4](https://twitter.com/ysk_cc/status/1610599570131779584), he laid 3 grids on top of one another and created patterns. This inspired me to lay grids where the intersections were various shapes on top of one another, and rotate them. 
+The still pictured is from the animation showing the rotation of the overlapping grids of shapes. 
 
 ### 18 - Definitely not a grid
 ![Dots forming circles, radiating out from the center of each side of the square, overlapping one another.]({{"assets//img/2023//03//genuary//genuary_18.png" | absolute_url }}){: .pull-right}
