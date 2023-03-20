@@ -219,7 +219,10 @@ However, none of the shapes formed by the overlapping circles are squares or rec
 The image shown is a still from the animation which showed the progression of placing dots one at a time to form the created pattern.
 ### 19 - Black and white
 ![A black, white, and green speckled circle on a white background.]({{"assets//img/2023//03//genuary//genuary_19.png" | absolute_url }}){: .pull-left}
-Th
+The terms "black and white" are weighty and related to much strife in American history. 
+As a "mixed-race" person, specifically as a "Black" person with more ancestors who would have been deemed "White" than any other race, I decided to see what would happen if I created a graphic that depicted my ancestry as a conglomeration of the ancestries of my great, great, great, grandparents, who would have been classified as either "White", "Black", or "Other" (I represented other with green, as while the Native American ).
+
+This is a still from an animation, showing the background sliding from white to black and back and again repeatedly. 
 ### 20 - Art Deco
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_20.png" | absolute_url }}){: .pull-right}
 
