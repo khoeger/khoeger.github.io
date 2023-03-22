@@ -250,7 +250,7 @@ As 3 colored lights are used, the shadows change according to motion and light p
 
 ### 23 - More Moiré
 ![A purple flower on a green background, composed of many parallel lines. ]({{"assets//img/2023//03//genuary//genuary_23.png" | absolute_url }}){: .pull-left}
-The process from the Reconstituted Media Project's image constrution was used to create this image. 
+The process from the [Reconstituted Media]({% link _projects_list/reconstituted-media.markdown %}) Project's image constrution was used to create this image. 
 To fit the prompt, the brush became multiple parallel lines. 
 As the brush is placed randomly, different brushstrokes will overlap, giving multiple overlapping parallel lines in often similar colors, giving a moiré effect.
 
