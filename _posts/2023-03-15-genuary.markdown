@@ -225,19 +225,39 @@ As a "mixed-race" person, specifically as a "Black" person with more ancestors w
 
 This is a still from an animation, showing the background sliding from white to black and back and again repeatedly. 
 ### 20 - Art Deco
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_20.png" | absolute_url }}){: .pull-right}
+
+![A grid of teal tiles with yellow and red arches.]({{"assets//img/2023//03//genuary//genuary_20.png" | absolute_url }}){: .pull-right}
+
+This entry was inspired by the arches on the Chrysler building, as well as bold and rich colors I associate with the roaring 20s.  
+The image draws from associations from a childhood visiting NYC and years of exposure to 20s themed events due to a combiation of playing in swing bands and attending swing dance events. 
 
 ### 21 - Persian Rug
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_21.png" | absolute_url }}){: .pull-left}
+
+![A green rug shape with white, pink, and yellow shpaes sprea across it.]({{"assets//img/2023//03//genuary//genuary_21.png" | absolute_url }}){: .pull-left}
+Persian rugs have strong colors, multiple overlaying patterns, and often have a strong central shape. 
+The shapes and patterns chosen were chosen to mimic the shapes from existing rugs. 
+The patterns on this digital rug are mobile, which is not evident from the still shown here. 
+
 
 ### 22 - Shadows
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_22.png" | absolute_url }}){: .pull-right}
+![A black background with hundreds of circles arranged in the shape of a sideways goblet. Ther circles range from teal to pink, some have both colors on them.]({{"assets//img/2023//03//genuary//genuary_22.png" | absolute_url }}){: .pull-right}
+
+There are no shadows without light. 
+When multiple colored lights are used, the shadws that appear will be shadows in a mix of the colors used. 
+The Sine prompt was reused, to create a field of moving spheres in 3D. 
+As the spheres move, the shadows change. 
+As 3 colored lights are used, the shadows change according to motion and light position, and the spheres are different not only because of location, but also because of the shadows and lights on them.
 
 ### 23 - More Moiré
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_23.png" | absolute_url }}){: .pull-left}
+![A purple flower on a green background, composed of many parallel lines. ]({{"assets//img/2023//03//genuary//genuary_23.png" | absolute_url }}){: .pull-left}
+The process from the Reconstituted Media Project's image constrution was used to create this image. 
+To fit the prompt, the brush became multiple parallel lines. 
+As the brush is placed randomly, different brushstrokes will overlap, giving multiple overlapping parallel lines in often similar colors, giving a moiré effect.
 
 ### 24 - Textile
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_24.png" | absolute_url }}){: .pull-right}
+![A grey background wiht many stitched rabbits connected by tread.]({{"assets//img/2023//03//genuary//genuary_24.png" | absolute_url }}){: .pull-right}
+
+This embroidery pattern, which can be printed and used with an embroidery machine, depicts stitched red rabbits in celebration of the year of the rabbit.
 
 ### 25 - Yayoi Kusama
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_25.png" | absolute_url }}){: .pull-left}
