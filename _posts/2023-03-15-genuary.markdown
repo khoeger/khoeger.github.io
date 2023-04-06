@@ -257,14 +257,24 @@ As the brush is placed randomly, different brushstrokes will overlap, giving mul
 ### 24 - Textile
 ![A grey background wiht many stitched rabbits connected by tread.]({{"assets//img/2023//03//genuary//genuary_24.png" | absolute_url }}){: .pull-right}
 
-This embroidery pattern, which can be printed and used with an embroidery machine, depicts stitched red rabbits in celebration of the year of the rabbit.
+This embroidery pattern, which can be printed and used with an embroidery machine,
+depicts stitched red rabbits in celebration of the year of the rabbit. 
+I am always interested in figuring out new ways to display my work, and displaying it on fabric through the medium of embroidery is potentially of interest. 
+Therefore, this was both an exploration of the Processing [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) library in preparation for future use and a response. 
+It is also a library that shows one way optimization techniques are written into processing libraries. 
 
 ### 25 - Yayoi Kusama
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_25.png" | absolute_url }}){: .pull-left}
-
+In 2021, I was fortunate enough to visit [Yayoi Kusama](https://www.nybg.org/event/kusama/)'s exhibit at the New York Botanical Garden. 
+What struck me there was the prevalence of dots and vivid colors. 
+The animation from which this still came attempts to mimic the distribution of dots from Kusama's [pumpkins](https://insights.masterworks.com/art/artists/significance-of-yayoi-kusamas-pumpkin-motif/). 
 ### 26 - My kid could have made that
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_26.png" | absolute_url }}){: .pull-right}
+As a kid, I would often draw, with pencils or ink. 
+I tended not to have access to many colors, sometimes drew flowers such as the ones pictured, and never drew completely regularly. 
+While I do not have a child, this is similar output to what I could have drawn when I was trying extremely hard to draw flowers. 
 
+I used the [Handy library](https://www.gicentre.net/handy/using) to create a hand drawn aesthetic.  
 ### 27 - In the style of Hilma Af Klint
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_27.png" | absolute_url }}){: .pull-left}
 
