@@ -293,8 +293,13 @@ The work progresses from a meaningless presentation of the words, to a final pre
 The picture here is a still from the animation of the poem. 
 
 ### 29 - Maximalism
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_29.png" | absolute_url }}){: .pull-left}
+![A white background covered in bold shapes and numbers of all sizes bouncing aruond the screen.]({{"assets//img/2023//03//genuary//genuary_29.png" | absolute_url }}){: .pull-left}
+The maximlalism movement was a response to minimalism, and made use of excesses. 
+Many bold colors, many objects, many shapes, many sizes, many layers, etc. dominate maximalist art. 
+This work works with many moving layers of various sizes, with little cohesion in composition. 
+This is not how all maximalist work appears. 
 
+The image shown is a still from an animation where many red, yellow, and blue shapes and numbers bounce around a white background, usually covering it with their excesses.  
 ### 30 - Minimalism
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_30.png" | absolute_url }}){: .pull-right}
 
