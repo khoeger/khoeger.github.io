@@ -264,22 +264,33 @@ Therefore, this was both an exploration of the Processing [PEmbroider](https://g
 It is also a library that shows one way optimization techniques are written into processing libraries. 
 
 ### 25 - Yayoi Kusama
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_25.png" | absolute_url }}){: .pull-left}
+![A pink background with many black circles overlaid.]({{"assets//img/2023//03//genuary//genuary_25.png" | absolute_url }}){: .pull-left}
 In 2021, I was fortunate enough to visit [Yayoi Kusama](https://www.nybg.org/event/kusama/)'s exhibit at the New York Botanical Garden. 
 What struck me there was the prevalence of dots and vivid colors. 
 The animation from which this still came attempts to mimic the distribution of dots from Kusama's [pumpkins](https://insights.masterworks.com/art/artists/significance-of-yayoi-kusamas-pumpkin-motif/). 
 ### 26 - My kid could have made that
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_26.png" | absolute_url }}){: .pull-right}
+![Blue, purple, and pink flowers with yellow centers on a white background.]({{"assets//img/2023//03//genuary//genuary_26.png" | absolute_url }}){: .pull-right}
 As a kid, I would often draw, with pencils or ink. 
-I tended not to have access to many colors, sometimes drew flowers such as the ones pictured, and never drew completely regularly. 
-While I do not have a child, this is similar output to what I could have drawn when I was trying extremely hard to draw flowers. 
+I tended not to have access to many colors, sometimes drew flowers such as the ones pictured, and always had very slightly imperfect lines, messy coloring, or irregular angles. 
+I usually drew on printing paper. 
+While I do not have a child, this is similar output to what I could have drawn when I was an older child trying extremely hard to draw flowers. 
 
 I used the [Handy library](https://www.gicentre.net/handy/using) to create a hand drawn aesthetic.  
 ### 27 - In the style of Hilma Af Klint
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_27.png" | absolute_url }}){: .pull-left}
 
+My response to the 27'ths prompt was to mimic [Group V, no 2. Series WUS, Seven Pointed Star, 2018](https://www.artsy.net/artwork/hilma-af-klint-group-v-no-2-series-wus-seven-pointed-star). 
+Klint's work was known for being whimsical, but I did not pick up enough of a pattern to feel comfortable declaring that my work was in her style without making a reproduction.
+
 ### 28 - Generative poetry
-![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_28.png" | absolute_url }}){: .pull-right}
+![A white background with black words from the poem "The Highwayman".]({{"assets//img/2023//03//genuary//genuary_28.png" | absolute_url }}){: .pull-right}
+
+[Alfred Noye's "The Highwayman"](https://www.poetryfoundation.org/poems/43187/the-highwayman) was subjected to pseudo-random chance to create a Dada inspired poem. 
+When read or recited, a poem's meaning is about the order. 
+When words appear on the page in a meaningless order, is it a poem?
+The work progresses from a meaningless presentation of the words, to a final presentation that, when one strains, can almost be read as the poem. 
+
+The picture here is a still from the animation of the poem. 
 
 ### 29 - Maximalism
 ![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_29.png" | absolute_url }}){: .pull-left}
