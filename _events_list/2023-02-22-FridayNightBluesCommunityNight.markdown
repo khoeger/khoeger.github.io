@@ -25,4 +25,4 @@ I performed "Ain't No Sunshine" and "Death Came a Knockin'" on a stage as dancer
 
 ## Reflections
 I was performing for friends. 
-Instead performing with the mindset of uplift their lives, I performed with the goal of encouraging dance.I need more data points, but as of now, I am not convinced my performance helped encourage others to dance. 
+Instead performing with the mindset of uplifting their lives, I performed with the goal of encouraging dance to uplift lives. I need to determine a method of evaluating success. 
