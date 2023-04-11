@@ -131,11 +131,12 @@ h4 {
   background-color: var(--kh-edge);
   box-sizing: border-box;
   display: block;
-  height: 10vh;
+  height: 12vh;
   left: -5vw;
   top: 0px;
   padding-left: 5vw;
-  padding-top: 15px;
+  padding-top: 2vh;
+  padding-bottom:5vh;
   position: relative;
   width: 19vh;
 }
