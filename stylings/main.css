@@ -132,10 +132,12 @@ h4 {
   box-sizing: border-box;
   display: block;
   height: 10vh;
-  left: -30px;
-  padding-top: -5px;
+  left: -5vw;
+  top: 0px;
+  padding-left: 5vw;
+  padding-top: 15px;
   position: relative;
-  width: 30vh;
+  width: 19vh;
 }
 .header-logo:hover,
 .header-logo:active {
@@ -145,7 +147,20 @@ h4 {
 /* .header-logo img {
   width: 6.5vh;
 } */
-.header-logo p {
+.header a{
+  text-decoration: none;
+}
+.header-logo .initials{
+  width: 6.5vh;
+
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  color: var(--kh-borders);
+}
+/* .header-logo p {
   font-size: 0.8rem;
   text-decoration: none;
   font-weight: bold;
@@ -156,7 +171,7 @@ h4 {
 .header-logo .name{
   padding: 0 0 0 30px;
   margin-top: 15px;
-}
+} */
 
 .header-nav {
   float: right;
