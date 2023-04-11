@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Lehman College and Community Band Concert
-date: 2022-12-18 14:00:00 +0500
+date: 2022-12-18 14:00:00 -0500
 image: /assets/img/2022/11/lehmanBand.JPG
 location-title: Lovinger Theatre, Lehman College
 location: 250 Bedford Park Blvd W, The Bronx, NY 10468
