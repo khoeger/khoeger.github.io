@@ -39,7 +39,7 @@ In both my first everyday art experience and Genuary 2023, the following held tr
     - a social posting plan 
     - a plan for organizing and correcting the code
     - a documenting plan 
-    - a writeup /recap plan - notice that this post has been released far after January, and that it might be nice to write something about each prompt while it is all fresh in mind in the future
+    - a writeup /recap plan - notice that this post has been released far after January, and that it might be nice to write something about each prompt while it is all fresh in mind in the future. perhaps take a page out of [Illest Preacha's](https://blog.illestpreacha.com/genuary2023remix) book and write small blog post each day.
     - a plan for how to ensure that genuary works nicely with my goals, whether that is co-opting a few prompts a week towards my own research goals, or ensuring that genuary prompts don't take up too much of creation time per day
     - an illness plan - my health is not always good, and I want to be kind to myself and just let myself sleep instead of causing extra stress and worse health on a day where I am unwell
     - a calendar: I saw [Aleksandra Jovanić's](http://aleksandrajovanic.com/about/) twitter post about her genuary [calendar](https://twitter.com/search?q=%23openprocessing%20%23genuary%20calendar&src=typed_query&f=top), and it seems likes something I want to implement in the near future, not just for genuary, but for my work in general
@@ -53,6 +53,7 @@ I did break momentum in the months since January, but I would like to try to gai
 - follow a prompt twice a month, and try to produce a daily result. I will pay attention to [Raphaël de Courville's](https://twitter.com/sableRaph) prompts posted in his [Discord community](https://discord.com/invite/S8c7qcjw2b), prompts related to holidays, special events, the news, and organizations calling for art
 - set aside time to work on my personal projects at least 3 times a week, and make sure to set aside time at the end of each session to document progress and share them
 - post art related posts at least 2 times a week
+- post unpolished posts - it's better if the work is out there than if there's no proof that any work is happening
 - become better at not letting life (applications, special events, illness, internships, assistantships, family, dance class, band etc.) detract from also putting time towards my work. 
 - work at finding the connection to my interests in any prompt
 
