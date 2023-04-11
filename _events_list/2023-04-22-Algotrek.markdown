@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Algotrek
-date: 2023-4-22 14:00:00 -0400
+date: 2023-4-22 10:00:00 -0400
 image: 
 location-title: Cornish Estate Ruins, Bull Hill, Cold Spring, NY; 
 location: Bull Hill, Philipstown, NY 10516

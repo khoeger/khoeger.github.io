@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Triggering Sounds in Processing Workshop @ RegenCircuit
-date: 2023-5-14 13:00:00 -0400
+date: 2023-5-14 09:00:00 -0400
 image: /assets/img/2023/05/20230514_RegenCircuit.png
 location-title: Harvestworks
 location: 10A Nolan Park, Governors Island, New York, NY 10004
