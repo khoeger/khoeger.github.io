@@ -6,6 +6,6 @@ Katarina Hoeger holds a Master of Fine Arts in Intermedia from the  University o
 Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
 ## CV
-Katarina Hoeger's [CV from January 29, 2023]({{page.pdf_local}}).
+Katarina Hoeger's [CV from May 21, 2023]({{page.pdf_local}}).
 
 <!-- <iframe src="{{page.pdf_local}}" type="application/pdf"></iframe> -->
