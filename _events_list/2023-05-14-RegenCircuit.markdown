@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Triggering Sounds in Processing Workshop @ RegenCircuit
+title: Triggering Sounds in Processing Workshop @ Regen Circuit
 date: 2023-5-14 09:00:00 -0400
 image: /assets/img/2023/05/20230514_RegenCircuit.png
 location-title: Harvestworks

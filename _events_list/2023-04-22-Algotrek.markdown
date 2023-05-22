@@ -6,7 +6,7 @@ image:
 location-title: Cornish Estate Ruins, Bull Hill, Cold Spring, NY; 
 location: Bull Hill, Philipstown, NY 10516
 type: music concert hike algorave
-role: TBD (Hiker or Musician or Both)
+role: Hiker
 project-tag:
 event-tag: 20230422Algotrek
 categories: concert algorave code hike livecode music musician
