@@ -5,7 +5,8 @@ Katarina Hoeger uses code to generate or modify audio and visuals in her works. 
 Katarina Hoeger holds a Master of Fine Arts in Intermedia from the  University of Maine in Orono, Maine, a Master of Science in Computer Science with a specialization in Operations Research from the College of William & Mary, and a Bachelor of Science in Mathematics from Harvey Mudd College. She has been an artist-in-residence at Bethany Arts Community in Ossining, NY.
 Katarina Hoeger is a founding board member of [Music Community Lab](https://musiccommunitylab.org/) and long-time volunteer organizer at its series [Monthly Music Hackathon NYC](https://monthlymusichackathon.org/).
 
-## CV
-Katarina Hoeger's [CV from May 21, 2023]({{page.pdf_local}}).
+## CV and Resume
+- Katarina Hoeger's [CV from May 21, 2023]({{page.pdf_local}}).
+- Katarina Hoeger's [Resume from August 23, 2023]({{page.pdf_local_resume}}).
 
 <!-- <iframe src="{{page.pdf_local}}" type="application/pdf"></iframe> -->
