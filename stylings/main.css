@@ -218,12 +218,6 @@ h4 {
 .footer a{
   text-decoration: none;
 }
-.footer-logo .initials{
-  font-size: 0.8rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  color: var(--kh-borders);
-}
 
 .footer h3 {
   text-align: inherit;
