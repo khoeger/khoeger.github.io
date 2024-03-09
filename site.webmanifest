@@ -3,13 +3,13 @@
     "short_name": "Katarina Hoeger's Website",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
+            "src": "/kh-android-chrome-179x192.png",
+            "sizes": "179x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
-            "sizes": "512x512",
+            "src": "/kh-android-chrome-477x512.png",
+            "sizes": "477x512",
             "type": "image/png"
         }
     ],
