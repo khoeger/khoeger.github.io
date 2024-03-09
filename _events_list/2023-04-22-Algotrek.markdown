@@ -1,0 +1,24 @@
+---
+layout: event
+title: Algotrek
+date: 2023-4-22 10:00:00 -0400
+image: 
+location-title: Cornish Estate Ruins, Bull Hill, Cold Spring, NY; 
+location: Bull Hill, Philipstown, NY 10516
+type: music concert hike algorave
+role: Hiker
+project-tag:
+event-tag: 20230422Algotrek
+categories: concert algorave code hike livecode music musician
+description: a short hike to an outdoor, pop-up algorave
+published: true
+---
+### {{page.description}}
+
+**{{page.location-title}}**
+
+{{page.location}}
+
+*{{page.date | date: site.time_format }}*
+
+Come hike, listen, and watch on the {{page.title}}. If I perform, this will be my first Algorave performance with [LiveCode NYC](https://livecode.nyc), and only second Algorave performance ever. 

@@ -4,6 +4,7 @@ title:  Master of Fine Arts
 date:   2022-10-24 12:00:00 +0500
 categories: art artistResearch intermedia motionProject mfa research thesis
 postHero: /assets/img/2022/10/thesisProjectBlogPost.JPG
+project-tag: 2022Motion
 event-tag: 20221017MFAThesis
 postFooter:
 published: true
@@ -66,4 +67,4 @@ I need to figure out a method of earning income semi-reliably, but otherwise, so
 
 I am considering doing a mix of freelancing as someone who makes mathematical models and charts, part time jobs, and making art. Alternatively, finding a way to
 
-I will post more about this journey in future posts.
+I plan to post more about this journey in future posts.

@@ -7,6 +7,7 @@ location-title: Stewart Commons
 location: University of Maine, Stewart Commons, Orono, ME 04469
 type: open studio / installation
 role: artist
+project-tag: reconstitutedMedia
 event-tag: 20211207IMFAOpenHouse
 categories: art etudes openStudio reconstitutedMedia sketches
 description: Art, Intermedia, New Media Open House and Open Studios.

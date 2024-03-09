@@ -1,0 +1,352 @@
+---
+layout: post
+title: Genuary 2023
+date:   2023-04-11 9:00:00 +0500
+categories: artist art code creativeCode challenge generativeArt genuary genuary2023
+postHero: /assets/img/2023/03/genuary/genuary_header.png
+event-tag: 2023Genuary
+project-tag: genuary2023
+postFooter: "<p>Something new I learned while writing this post: <a href='https://testsuite.io/fix-address-already-in-use'>how to stop Jekyll when Ctrl-C doesn't work</a>.</p>"
+published: true
+mathjax: true
+---
+
+[Genuary](https://genuary.art) 2023, a month long creative coding challenge by and for generative artists,  came and went more than a month ago.  I participated for the first time this year. Still frames from my outputs for the year and reflections lie below. 
+
+## Reflections from Genuary 2023
+
+Once, at the beginning of the Covid-19 pandemic, I committed to creating and releasing a work of art daily. 
+The works explored whichever artistic inclination I had for the day, with a variety of media. 
+This artistic creation period was fruitful, but extremely stressful, something mirrored by Genuary. 
+Genuary was different in that I restricted myself to generative art, even if another media might have made sense for exploring the prompt. 
+At times, I pursued the prompt in a way that made sense for the output format, but not in the way I would like to explore the prompt. 
+
+The daily process is intriguing. 
+Participating in Genuary helped remind me of this, and highlighted some of the experiences I found in both of my daily art creation experiences. 
+In both my first everyday art experience and Genuary 2023, the following held true for me:
+- To ensure that I always finished a work, I made the work my priority for the day. 
+- Producing the work, and in the case of Genuary, documenting and sharing it, was more important than its correctness.
+- Producing a work a day lead to so many ideas for me. Many ideas might not have been well executed, but they inspired later ideas. 
+- Working off of prompts made some of the explorations ones that I felt less attached to than if I had generated them myself. 
+- If I set aside an hour to work on the daily, I needed 3 times as much. If I set aside 3 hours, I needed more again. I have more proof that my artistic process is not a fast one.
+- I could see my output. Seeing my output was inspiring. It showed that yes, I have been making progress. 
+- Dailies felt unsustainable when I got sick or on a special event day. They also became a bit cumbersome when there was an important deadline to meet. 
+- I did not make much progress on personal projects while working on these dailies. They often consumed my only creative time for the day. 
+- Working off of prompts inspired ideas for future explorations.
+- I enjoyed seeing the works of others using with the #genuary tags. It was inspiring to see others' outputs as well. 
+- It might help if I make a plan for a future Genuary, especially once I have more outside responsibilities. The plan would probably need to include
+    - a framework that makes producing code for the prompts faster
+    - a social posting plan 
+    - a plan for organizing and correcting the code
+    - a documenting plan 
+    - a writeup /recap plan - notice that this post has been released far after January, and that it might be nice to write something about each prompt while it is all fresh in mind in the future. perhaps take a page out of [Illest Preacha's](https://blog.illestpreacha.com/genuary2023remix) book and write small blog post each day.
+    - a plan for how to ensure that genuary works nicely with my goals, whether that is co-opting a few prompts a week towards my own research goals, or ensuring that genuary prompts don't take up too much of creation time per day
+    - an illness plan - my health is not always good, and I want to be kind to myself and just let myself sleep instead of causing extra stress and worse health on a day where I am unwell
+    - a calendar: I saw [Aleksandra Jovanić's](http://aleksandrajovanic.com/about/) twitter post about her genuary [calendar](https://twitter.com/search?q=%23openprocessing%20%23genuary%20calendar&src=typed_query&f=top), and it seems likes something I want to implement in the near future, not just for genuary, but for my work in general
+
+
+### Month long Takeaways
+
+Participating in Genuary was worthwhile. It helped me expand my creative community and connect further with the existing ones online. The constant creation helped my creative juices flow, and helped me create a schedule. It was the most prolifically I have posted on social media, as most of my output was easily displayable. Posting regularly on social media introduced me to opportunities to apply to residencies, exhibits, and professor positions through the social media algorithm. 
+
+I did break momentum in the months since January, but I would like to try to gain it again. Some goals to work towards
+- follow a prompt twice a month, and try to produce a daily result. I will pay attention to [Raphaël de Courville's](https://twitter.com/sableRaph) prompts posted in his [Discord community](https://discord.com/invite/S8c7qcjw2b), prompts related to holidays, special events, the news, and organizations calling for art
+- set aside time to work on my personal projects at least 3 times a week, and make sure to set aside time at the end of each session to document progress and share them
+- post art related posts at least 2 times a week
+- post unpolished posts - it's better if the work is out there than if there's no proof that any work is happening
+- become better at not letting life (applications, special events, illness, internships, assistantships, family, dance class, band etc.) detract from also putting time towards my work. 
+- work at finding the connection to my interests in any prompt
+
+
+## Reflections on Each Day
+Each day of Genuary required different research and a different process to complete the prompt. 
+### 1 - Perfect loop / Infinite loop / endless GIFs
+
+Non-existent. I started on day 2. Seeing [this ⊕ that](https://www.instagram.com/_thisxorthat/)'s day 1 reel jogged my memory.
+
+### 2 - Made in 10 minutes
+
+![A grid 24 x 25 grid of pink and green squares. The first two rows of squares, plus the first 2 columns of the third row, are pink. The rest of the squares are green. At the top of the square, there is a header that shows that the image is a screenshot from a p5js web editor. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
+What does it mean to be "made in 10 minutes?" 
+It can mean that after a system has been running for 10 minutes, the image you see has been made in that time frame. 
+I chose to attempt this, in a method that made the progression of time easy to understand.
+The image shown depicts a still from the process, 10 minutes and 52 seconds after the first green square was laid down.
+
+### 3 - Glitch Art
+
+![A grey banister on a black background, hard to identify banister. ]({{"assets//img/2023//03//genuary//genuary_3.png" | absolute_url }}){: .pull-right}
+A still from a short animation of light changing on the stairway. 
+
+One of the easiest ways for me to generate glitches is to try out a new library. 
+Therefore, as I am working on taking video as input for long term projects, I decided to try taking image from my web camera, and see what sorts of glitchy results I could force. 
+
+### 4 - Intersections
+
+![A  lattice structure of pink, with smaller lattice structures of yellow inside, and black and teal backgrounds. ]({{"assets//img/2023//03//genuary//genuary_4.png" | absolute_url }}){: .pull-left}
+This still is taken from a set of rotating lines. 
+
+Lines that cross, intersect. 
+Lines of various thickness and colors generate various patterns. 
+This exploration was inspired by Scottish tartans.
+
+This particular exploration ran slowly, but worked well to generate still to form into an animation. 
+If I wanted to run this in real time, I would need to look into another method of generating lines, instead of making line classes and storing them in memory.
+Perhaps I would use shaders. 
+
+Another thing to keep in mind is that when creating work that takes 10 minutes to create, you need to wait 10 minutes to test it.
+Therefore, even if the code is simple, it is a time consuming project, and will by nature expand past the 10 minute deadline implied by the prompt. 
+Creating this work required lots of waiting. 
+### 5 - Debug view
+
+![Black circles on a white background, next to rainbow colored short lines, distributed like straws across the image. ]({{"assets//img/2023//03//genuary//genuary_5.png" | absolute_url }}){: .pull-right}
+
+Once again, this is a still from an animation. 
+In the animation, black rings bounce around the white canvas. 
+Where the rings collide, a rainbow colored line is drawn perpendicular to the edges that touch. 
+The lines fade over time, leaving a trace of collisions in the near past, but not showing a complete history of collisions. 
+
+On the 5th day, I began to reign in my ambition, and tried to stick to minimal interpretations of the prompts unless they fit my future ambitions for personal projects.
+I found that I was spending a bit too much time on prompts, enforcing unhealthy habits and not being present in life. 
+### 6 - Steal Like An Artist
+
+![A staircase with the outline of an invisible figure going down it.]({{"assets//img/2023//03//genuary//genuary_6.png" | absolute_url }}){: .pull-left}
+This is a still from a video depicting the outline of a person descending a staircase. 
+This work uses the code from day 3, glitch art, as a base, and takes inspiration from Marcel DuChamp's [Nude Descending a Staircase (No. 2)](https://philamuseum.org/collection/object/51449).
+
+The code for this day was rather quick. 
+However, the number of takes it took to get an acceptable recording exceeded the amount of time I put aside. 
+Also, it required having an assistant, something I had not taken into account when I planed the sketch. 
+### 7 - Sample from your favorite album cover
+
+![A grey background with words in a distinctive, angular font placed randomly across the the surface, layered. The words are in shades of grey and red.]({{"assets//img/2023//03//genuary//genuary_7.png" | absolute_url }}){: .pull-right}
+
+This image is one of many meant to be generated by the program I wrote on day 7. 
+The code takes design cues from Metallica's "Live Shit: Binge & Purge" album. 
+Text is taken from the cover, as is the color scheme and color proportions, font, and style. 
+
+While this cover has less polite language than what I tend to use and is not the prettiest, I chose it because of the music. 
+I do not tend to evaluate movies or albums by how aesthetically pleasing I find them, but by how much of the movie or album I enjoy. 
+This is an album that I believe has solid musical choices. 
+Therefore, I learned that while the prompts tend to be skewed visually, my gut instinct is not to remember visually impressive covers. 
+
+This was a sane decision for a day's code. 
+This prompt did not take up more time than expected, as all of the steps involved in generating the result were relatively simple and built off of code that I had used recently. 
+
+### 8 - Signed Distance Functions
+
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_8.png" | absolute_url }}){: .pull-left}
+
+I decided to interpret signed distance functions by defining an inner region and an outer region, and only plotting points within the inner region. 
+To make the results more interesting, I layered regions within regions. 
+Circles are plotted when randomly chosen spots fall within the region defined by the boundaries of the hexagon. 
+This reminded me of the catch the falling apple or owl catching acorn assignment from the teaching at the Digital Arts Experience (which is sadly gone, the pandemic killed it) or UMaine's New Media 105 course. 
+There may have been more computationally efficient implementations (see [Piter Pasma's](https://genuary.art/wtsdf), [Inigo Quilezles's 2D](https://iquilezles.org/articles/distfunctions2d/), and [Inigo Quilezles's 3D](https://iquilezles.org/articles/distfunctions/) explanations) but I definitely went with what I knew, rather than learning a new technique, due to time constraints. 
+
+### 9 - Plants
+
+![A green background with a purple flower composed of dots in front.]({{"assets//img/2023//03//genuary//genuary_9.png" | absolute_url }}){: .pull-right}
+
+This image was composed using a mix of the 10 minute technique from Day 2 and the pixel sampling process I use in reconstituted Media. 
+The plant shown is from a picture I took while visiting the [Jardin botanique de Montréal](https://espacepourlavie.ca/en/botanical-garden) in 2018. 
+
+This response is also part of the exploratory phase of a potential larger project that I have started laying the groundwork for. 
+I began to develop the idea during Genuary.
+Basically, the idea is to create a project that shows my progress.
+At the moment, I feel like I am treading water. 
+I definitely am completing many tasks, but sometimes progress is hard to see. 
+The goal is to make the progress easier to recognize. 
+
+### 10 - Generative music
+
+![Colorful circles of different colors randomly placed on a white background.]({{"assets//img/2023//03//genuary//genuary_10.png" | absolute_url }}){: .pull-left}
+
+Music is meant to be heard. 
+This work was inspired by a favorite flute piece I have practiced as well as an aleatoric music project from my undergraduate years. 
+The sounds generated are basic sine tones, in pitches and durations given by the pitches and durations of [Giulio Briccialdi's "Il Carnevale di Venezia](https://www.youtube.com/watch?v=5olg5OGiaQc)." 
+The melody is also one I heard as a child, in the form of "Mein Hut, der Hat Drei Ecken."
+The visuals, colorful balls, are a still from an animation. 
+As the balls bounce into one another, they trigger the next note, pitch and duration are chosen based off of the probabilities from Briccialdi's flute score. 
+Colors correspond with pitch, radius with duration.
+Transition probabilities were hand tallied.
+
+### 11 - Suprematism
+
+![Black, yellow, and purple rectangles are on an off white background. Purple and white circles are also placed on the screen. ]({{"assets//img/2023//03//genuary//genuary_11.png" | absolute_url }}){: .pull-right}
+
+Exploring suprematism required bold colors, standard shapes, reduced color pallettes and shapes, and not having a specific visual to imply. 
+Off whites were important. 
+I chose purple and yellow, even though the examples shown did not use them, as I did not understand why the example works strayed away from these colors. 
+I used pseudo random numbers to generated outputs similar to examples found on various websites showing pictures of Suprematism and describing how to create similar images. 
+The outputs were animations, and the pictured visual is a still from them. 
+
+This result felt bold and was a project that allowed me to work on more than the daily genuary prompt. I enjoyed learning about a Russian art movement of the 20th century that I had not heard of prior to this. 
+I did not figure out how it translated into the medium of sound. 
+
+### 12 - Tessellation
+
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_12.png" | absolute_url }}){: .pull-right}
+
+I build this pattern slowly. 
+First, I constructed a tile.
+I repeated the tile across the page.
+After I had a basic repeating tile, I added one element at a time to create the pattern. 
+When I have created tiled patterns in the past, I created a tile first, and then made a repeating pattern across the screen.  
+This result is more cohesive / harder to find the beginnings and ends of, than some of my past patterns. 
+
+Once again, I threw efficiency of code out the window in favor of efficiency in time spent writing code. 
+
+### 13 - I've always wanted to learn
+
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_13.png" | absolute_url }}){: .pull-left}
+
+This photo depicts a still showing hardware I wish to use in the future. 
+I spent the time I had set aside for the prompt preparing code to show on this display. 
+Why did I work on this? 
+My visuals are often digital, and I feel a need to present them easily. 
+When this system is fully functional, I should just be able to pass someone this display, and would be able to see and interact with my work after plugging it in. 
+
+### 14 - Aesemic
+
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_14.png" | absolute_url }}){: .pull-right}
+Aesemic writing looks like writing but does not have meaning.
+
+Writing belongs to specific peoples, with their own cultures and practices, and is used to communicate information between groups and store the information for personal memory and posterity. 
+Therefore, to create writing that looks like written language, but is not, my first step was to consider some of the tenets the members of the society follow. 
+
+This society believes in building from the ground up, starting at the very bottom, and moving in the direction one does not walk automatically.
+Therefore, 
+this language is written from bottom left to upper right. 
+It also does not use closed curves. 
+There are spaces and stopping characters built into the generated image. 
+
+### 15 - Sine waves
+
+![Small black wrings arranged in a shape that looks like a sideways goblet, on a white background. The rings are in curved lines and rows.]({{"assets//img/2023//03//genuary//genuary_15.png" | absolute_url }}){: .pull-left}
+
+Sine, or \\f(x) = (Sine(x)\\) is an important function in mathematics, physics, and engineering. 
+It is also important when creating digitally generated visuals on a computer.
+It has many computationally nice properties, such as the following: 
+- \\(Sin\\) is a periodic function. 
+This means that \\(Sin(x)=y\\) is not unique --- there are many values \\(x_i, x_j\\), where \\(i \neq j\\) such that \\(Sin(x_i) = y\\) and is \\(Sin(x_j)= y\\) as well. The entire Sine function repeats after a fixed period. 
+- The values output from the Sine function are bounded between \\(-1\\) and \\(1\\). 
+- The outputs of Sine repeat, and are also bound between \\(-1\\) and \\(1\\). Therefore, if we want to make an image that repeats itself over time, making the image change with respect to the Sine function is a convenient way to do so. 
+
+The image generated is a still from an animation that shows how, given the properties of Sine mentioned, the output of the Sine function varies over time given a range of inputs from \\(-1\\) to \\(1\\). 
+### 16 - Reflection of a reflection
+![4 comet-like shapes, one in each corner, all facing inward. The top right is the darkest. the bottom left is the lightest, the top left and bottom right are in between. The shapes are shades of grey, on white, and composed of overlapping circles. ]({{"assets//img/2023//03//genuary//genuary_16.png" | absolute_url }}){: .pull-right}
+
+Common reflections in a Cartesian coordinate system include reflections over the \\(x\\) and \\(y\\) axes. 
+In real life, reflections in successive mirrors get slightly smaller over time, and eventually fade out of view. 
+In this interpretation of reflection, the mouse's position on the screen, mapped to the upper right corner of the image, is reflected across the axes until all quadrants are filled. 
+With each successive reflection, the image fades. 
+
+The image shown is from a still taken during a session of moving the mouse through the finished daily exploration.
+### 17 - A grid inside a grid inside a grid 
+![Pink circles, squares, and triangles, laid out in various overlapping grids.]({{"assets//img/2023//03//genuary//genuary_17.png" | absolute_url }}){: .pull-left}
+
+In [Yusuke's Genuary Day 4](https://twitter.com/ysk_cc/status/1610599570131779584), he laid 3 grids on top of one another and created patterns. This inspired me to lay grids where the intersections were various shapes on top of one another, and rotate them. 
+The still pictured is from the animation showing the rotation of the overlapping grids of shapes. 
+
+### 18 - Definitely not a grid
+![Dots forming circles, radiating out from the center of each side of the square, overlapping one another.]({{"assets//img/2023//03//genuary//genuary_18.png" | absolute_url }}){: .pull-right}
+
+This image is formed of dots, placed in successively larger circles. 
+The overlapping circles look like the form a grid, similar to what is used ot create orthographic projections. 
+However, none of the shapes formed by the overlapping circles are squares or rectangles. 
+
+The image shown is a still from the animation which showed the progression of placing dots one at a time to form the created pattern.
+### 19 - Black and white
+![A black, white, and green speckled circle on a white background.]({{"assets//img/2023//03//genuary//genuary_19.png" | absolute_url }}){: .pull-left}
+The terms "black and white" are weighty and related to much strife in American history. 
+As a "mixed-race" person, specifically as a "Black" person with more ancestors who would have been deemed "White" than any other race, I decided to see what would happen if I created a graphic that depicted my ancestry as a conglomeration of the ancestries of my great, great, great, grandparents, who would have been classified as either "White", "Black", or "Other" (I represented other with green, as while the Native American ).
+
+This is a still from an animation, showing the background sliding from white to black and back and again repeatedly. 
+### 20 - Art Deco
+
+![A grid of teal tiles with yellow and red arches.]({{"assets//img/2023//03//genuary//genuary_20.png" | absolute_url }}){: .pull-right}
+
+This entry was inspired by the arches on the Chrysler building, as well as bold and rich colors I associate with the roaring 20s.  
+The image draws from associations from a childhood visiting NYC and years of exposure to 20s themed events due to a combination of playing in swing bands and attending swing dance events. 
+
+### 21 - Persian Rug
+
+![A green rug shape with white, pink, and yellow shapes spread across it.]({{"assets//img/2023//03//genuary//genuary_21.png" | absolute_url }}){: .pull-left}
+Persian rugs have strong colors, multiple overlaying patterns, and often have a strong central shape. 
+The shapes and patterns chosen were chosen to mimic the shapes from existing rugs. 
+The patterns on this digital rug are mobile, which is not evident from the still shown here. 
+
+
+### 22 - Shadows
+![A black background with hundreds of circles arranged in the shape of a sideways goblet. The circles range from teal to pink, some have both colors on them.]({{"assets//img/2023//03//genuary//genuary_22.png" | absolute_url }}){: .pull-right}
+
+There are no shadows without light. 
+When multiple colored lights are used, the shadwos that appear will be shadows in a mix of the colors used. 
+The Sine prompt was reused, to create a field of moving spheres in 3D. 
+As the spheres move, the shadows change. 
+As 3 colored lights are used, the shadows change according to motion and light position, and the spheres are different not only because of location, but also because of the shadows and lights on them.
+
+### 23 - More Moiré
+![A purple flower on a green background, composed of many parallel lines. ]({{"assets//img/2023//03//genuary//genuary_23.png" | absolute_url }}){: .pull-left}
+The process from the [Reconstituted Media]({% link _projects_list/reconstituted-media.markdown %}) Project's image construction was used to create this image. 
+To fit the prompt, the brush became multiple parallel lines. 
+As the brush is placed randomly, different brushstrokes will overlap, giving multiple overlapping parallel lines in often similar colors, giving a moiré effect.
+
+### 24 - Textile
+![A grey background with many stitched rabbits connected by tread.]({{"assets//img/2023//03//genuary//genuary_24.png" | absolute_url }}){: .pull-right}
+
+This embroidery pattern, which can be printed and used with an embroidery machine,
+depicts stitched red rabbits in celebration of the year of the rabbit. 
+I am always interested in figuring out new ways to display my work, and displaying it on fabric through the medium of embroidery is potentially of interest. 
+Therefore, this was both an exploration of the Processing [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) library in preparation for future use and a response. 
+It is also a library that shows one way optimization techniques are written into processing libraries. 
+
+### 25 - Yayoi Kusama
+![A pink background with many black circles overlaid.]({{"assets//img/2023//03//genuary//genuary_25.png" | absolute_url }}){: .pull-left}
+In 2021, I was fortunate enough to visit [Yayoi Kusama](https://www.nybg.org/event/kusama/)'s exhibit at the New York Botanical Garden. 
+What struck me there was the prevalence of dots and vivid colors. 
+The animation from which this still came attempts to mimic the distribution of dots from Kusama's [pumpkins](https://insights.masterworks.com/art/artists/significance-of-yayoi-kusamas-pumpkin-motif/). 
+### 26 - My kid could have made that
+![Blue, purple, and pink flowers with yellow centers on a white background.]({{"assets//img/2023//03//genuary//genuary_26.png" | absolute_url }}){: .pull-right}
+As a kid, I would often draw, with pencils or ink. 
+I tended not to have access to many colors, sometimes drew flowers such as the ones pictured, and always had very slightly imperfect lines, messy coloring, or irregular angles. 
+I usually drew on printing paper. 
+While I do not have a child, this is similar output to what I could have drawn when I was an older child trying extremely hard to draw flowers. 
+
+I used the [Handy library](https://www.gicentre.net/handy/using) to create a hand drawn aesthetic.  
+### 27 - In the style of Hilma Af Klint
+![A black background with hundreds of overlapping purple rings forming a hexagon.]({{"assets//img/2023//03//genuary//genuary_27.png" | absolute_url }}){: .pull-left}
+
+My response to the 27'ths prompt was to mimic [Group V, no 2. Series WUS, Seven Pointed Star, 2018](https://www.artsy.net/artwork/hilma-af-klint-group-v-no-2-series-wus-seven-pointed-star). 
+Klint's work was known for being whimsical, but I did not pick up enough of a pattern to feel comfortable declaring that my work was in her style without making a reproduction.
+
+### 28 - Generative poetry
+![A white background with black words from the poem "The Highwayman".]({{"assets//img/2023//03//genuary//genuary_28.png" | absolute_url }}){: .pull-right}
+
+[Alfred Noye's "The Highwayman"](https://www.poetryfoundation.org/poems/43187/the-highwayman) was subjected to pseudo-random chance to create a Dada inspired poem. 
+When read or recited, a poem's meaning is about the order. 
+When words appear on the page in a meaningless order, is it a poem?
+The work progresses from a meaningless presentation of the words, to a final presentation that, when one strains, can almost be read as the poem. 
+
+The picture here is a still from the animation of the poem. 
+
+### 29 - Maximalism
+![A white background covered in bold shapes and numbers of all sizes bouncing around the screen.]({{"assets//img/2023//03//genuary//genuary_29.png" | absolute_url }}){: .pull-left}
+The maximlalism movement was a response to minimalism, and made use of excesses. 
+Many bold colors, many objects, many shapes, many sizes, many layers, etc. dominate maximalist art. 
+This work works with many moving layers of various sizes, with little cohesion in composition. 
+This is not how all maximalist work appears. 
+
+The image shown is a still from an animation where many red, yellow, and blue shapes and numbers bounce around a white background, usually covering it with their excesses.  
+### 30 - Minimalism
+![A white background covered in thin, carefully placed black lines.]({{"assets//img/2023//03//genuary//genuary_30.png" | absolute_url }}){: .pull-right}
+
+The minimalism movement dealt with using the minimal elements necessary to explore an idea visually. 
+Therefore, minimalist works often stick to only the specific shapes, colors, themes, etc. needed to express an idea. 
+
+This response explores the Fibonacci sequence through minimalism. 
+The lines placed according to the sequence and the pattern created depict the widening distances between elements of the sequence as the sequence grows larger.  
+### 31 - Break a previous images
+![A light green background covered in purple dots in clusters.]({{"assets//img/2023//03//genuary//genuary_31.png" | absolute_url }}){: .pull-left}
+Techniques from Day 15's sine waves were used to break Day 9's Plants response. 
+The dots of the plant were made to oscillate at different rates, creating a visual pattern that no longer resembled a plant. 
+This image is a still from an animation showing the plant image repeatedly falling apart due to the dots it is comprised of moving at different speeds. 

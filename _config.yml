@@ -19,8 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Katarina Hoeger's website.
   A portfolio.
   A blog.
-
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: katarinahoeger
@@ -34,13 +32,19 @@ date_format: "%-d %B %Y"
 short_date_format: "%-d %B"
 time_format: "%I:%M %p"
 future: true
+# last-modified-at:
+#     date-format: '%B %Y'
+
 
 # Build settings
 markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+  # - jekyll-last-modified-at
   # - jekyll-pdf-embed
+
+
 permalink: /:year/:month/:day/:title
 # Collections
 collections:

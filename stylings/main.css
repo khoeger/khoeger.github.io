@@ -131,21 +131,49 @@ h4 {
   background-color: var(--kh-edge);
   box-sizing: border-box;
   display: block;
-  height: 10vh;
-  left: -30px;
-  padding-top: 10px;
+  height: 12vh;
+  left: -5vw;
+  top: 0px;
+  padding-left: 5vw;
+  padding-top: 2vh;
+  padding-bottom:5vh;
   position: relative;
-  text-align: center;
-  width: 10vh;
+  width: 19vh;
 }
 .header-logo:hover,
 .header-logo:active {
   opacity: 0.75;
   background-color: var(--kh-main-highlight);
 }
-.header-logo img {
+/* .header-logo img {
   width: 6.5vh;
+} */
+.header a{
+  text-decoration: none;
 }
+.header-logo .initials{
+  width: 6.5vh;
+
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  color: var(--kh-borders);
+}
+/* .header-logo p {
+  font-size: 0.8rem;
+  text-decoration: none;
+  font-weight: bold;
+  float: left;
+  text-transform: uppercase;
+  color: white;
+}
+.header-logo .name{
+  padding: 0 0 0 30px;
+  margin-top: 15px;
+} */
+
 .header-nav {
   float: right;
   padding: 5.5vh 60px 0 0;
@@ -187,6 +215,16 @@ h4 {
 .footer-logo img {
   width: 50px;
 }
+.footer a{
+  text-decoration: none;
+}
+.footer-logo .initials{
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--kh-borders);
+}
+
 .footer h3 {
   text-align: inherit;
   color: var(--kh-borders);
@@ -273,7 +311,8 @@ h4 {
   width: 0;
 }
 .hero-home {
-  background-image: url("../assets/img/hero/rainbowWall_generated_signature_20220301.jpg");
+  background-image: url("../assets/img/hero/motion2022_kidsJump.jpg");
+  /* background-image: url("../assets/img/hero/rainbowWall_generated_signature_20220301.jpg"); */
   /*background-image: url({{"assets/img/hero/maple.jpg" | absolute_url}});*/
   background-position: center top;
 }
@@ -282,13 +321,26 @@ h4 {
   position: relative;
   text-align: center;
   text-transform: uppercase;
-  top: 50%;
+  top: 20%;
   transform: translate(0, -50%);
+
 }
 .hero-content h1 {
   color: rgba(255,255,255,0.8);
   font-size: 7vw;
   margin-bottom: 0.25em;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 30px;
+
+}
+.hero-content h2 {
+  color: rgba(255,255,255,0.8);
+  font-size: 5vw;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 30px;
 }
 .hero-content .social-link {
   background-color: rgba(255,255,255,0.8);
