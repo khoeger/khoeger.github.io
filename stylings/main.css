@@ -145,9 +145,9 @@ h4 {
   opacity: 0.75;
   background-color: var(--kh-main-highlight);
 }
-/* .header-logo img {
+.header-logo img {
   width: 6.5vh;
-} */
+}
 .header a{
   text-decoration: none;
 }
