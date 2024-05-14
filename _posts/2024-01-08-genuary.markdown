@@ -1,0 +1,62 @@
+---
+layout: post
+title: Genuary 2024
+date:   2024-01-08 9:00:00 +0500
+categories: artist art code creativeCode creativeResponse challenge generativeArt genuary genuary2024 prompt
+postHero: /assets/img/2023/03/genuary/genuary_header.png
+event-tag: 2024Genuary
+project-tag: genuary2024
+postFooter: "<p>This post is a work in progress. It will be finished once January 2024 ends</p>"
+published: false
+mathjax: true
+---
+
+It is now [Genuary](https://genuary.art),
+a month long creative coding challenge by and for generative artists.
+I decided to repeat the experience for a few reasons.
+Posting alongside others inspires me to create more work.
+The responses to prompts themselves meet my personal criteria for creative responses, which I sometimes need accountability buddies to finish.
+Genuary also encourages "Rapid Practices" art, which I can always use more practice with.
+Hence, Genuary is a great opportunity.
+
+I found Genuary 2023 challenging for a few reasons.
+Making time for my own artistic explorations (conceptual, theoretical, mediumistic, and continuing works in progress) alongside Genuary prompts was one of them.
+At times, it's even challenging to carve out enough time to finish an output in a day, because the rest of the day is jam packed.
+Additionally, I find knowing that I need to post on social media every day anxiety inducing.
+To provide flexibility for myself, I have decided to approach the event differently.
+
+### Self Determined Genuary 2024 Constraints
+1. For every 5 out of 7 prompts, I need to consider how this prompt connects to one of my areas of interest. These include my artistic and personal agendas, ongoing explorations of technique. If I spend so much time churning out works for Genuary, it would be nice if most of them meant something to me.
+2. January is more than Genuary. It is the start of a new year. It is a month jam packed with activities starting up once again. It is also my birth month. Participating in Genuary is supposed to enhance my life. Therefore, I need to set personal boundaries, schedule well, and make sure that I do not allow my participation to stop me from engaging with loved ones and friends or practicing health, wellness, and self care activities. Setting boundaries and planning well will also prevent me from self-sabotaging myself professionally by letting deadlines fall by the wayside.
+3. Projects need not be pushed until they are perfect or fit for my portfolio. Interesting results or a minimal exploration of the idea are perfectly acceptable.
+4. Documentation of each day's project should occur within a week of creating it. This means all code should be organized/commented. Project descriptions and motivations will be recorded. Screenshots and animations or recordings need to be finalized.
+5. Each week's documentation should be organized for presentation on this blog and on social media by the start of the next week.
+6. Post once a week, here on this blog, and on my Instagram story and timeline.
+
+Let's see how these constraints change my experience!
+
+## Weekly Reflections from Genuary 2024
+
+### Week 1 Prompts
+
+#### Day 1: Particles
+##### title
+##### medium. platform
+##### artist statement
+##### process
+##### learned / takeaways / intentions & reflections
+
+#### Day 2: No Palette
+#### Day 3: Droste Effect
+#### Day 4: Pixels
+
+### Month long Takeaways
+
+
+### 2 - Made in 10 minutes
+
+![A grid 24 x 25 grid of pink and green squares. The first two rows of squares, plus the first 2 columns of the third row, are pink. The rest of the squares are green. At the top of the square, there is a header that shows that the image is a screenshot from a p5js web editor. ]({{"assets//img/2023//03//genuary//genuary_2.png" | absolute_url }}){: .pull-left}
+What does it mean to be "made in 10 minutes?"
+It can mean that after a system has been running for 10 minutes, the image you see has been made in that time frame.
+I chose to attempt this, in a method that made the progression of time easy to understand.
+The image shown depicts a still from the process, 10 minutes and 52 seconds after the first green square was laid down.
