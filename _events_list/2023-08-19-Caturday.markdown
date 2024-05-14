@@ -9,7 +9,7 @@ type: algorave
 role: live coded audio & visuals
 project-tag:
 event-tag: 20230819Caturday
-categories: artist algorave livecode audio maxmsp processing
+categories:  algorave artist audio livecode maxmsp processing visuals
 description: A LiveCode.NYC algorave fundraiser for cats.
 published: true
 postFooter: $184, 25% of the proceeds, were donated to Flatbush Cats.
@@ -45,6 +45,6 @@ Organized By Shellylynnx.
 
 #### Statement from artist
 - I performed under the name *Cougars Are Cats Too*.
-My set introduced the audience to various severely threatened cat species and rhythms from their countries of origin. The sounds were derived from flute samples.  I used a mixture of MaxMSP and Processing, communicating over OSC, to coordinate my audio and visuals. 
+My set introduced the audience to various severely threatened cat species and rhythms from their countries of origin. The sounds were derived from flute samples.  I used a mixture of MaxMSP and Processing, communicating over OSC, to coordinate my audio and visuals.
 
 ![Original event poster. Features pixelized text stating Caturday, Wonderville logo and address, date, time, ages 21+, masks required, sliding scale prices of $10 - $20, and the bill of performers. Also features a pixelized cat and computer. ]({{"assets//img//2023//08/202308LiveCode.jpg" | absolute_url }})
