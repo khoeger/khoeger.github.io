@@ -1,0 +1,50 @@
+---
+layout: event
+title: Caturday
+date: 2023-08-19 20:00:00 -0400
+image: /assets/img/2023/08/202308Caturday.jpg
+location-title: Wonderville
+location: 1186 Broadway, Brooklyn, NY 11221
+type: algorave
+role: live coded audio & visuals
+project-tag:
+event-tag: 20230819Caturday
+categories: artist algorave livecode audio maxmsp processing
+description: A LiveCode.NYC algorave fundraiser for cats.
+published: true
+postFooter: $184, 25% of the proceeds, were donated to Flatbush Cats.
+---
+### {{page.description}}
+
+**{{page.location-title}}**
+
+{{page.location}}
+
+*{{page.date | date: site.time_format }}*
+
+### Caturday 😸 Caturday 😻 Caturday 😼
+
+Saturday, August 19th, LiveCode.NYC teams up with Wonderville once again to present: Caturday, a celebration of our favorite felines, their memes, and our love for weekends!
+
+Live coded music, visuals, and good vibes will keep you purring all night long.
+
+It doesn't matter if you're a Catgirl or a cat person - this event is for everykitty!
+
+😷 Masks Required for this event 😷
+😸 Cat ears optional but encouraged 😸
+
+#### 🎵📺 Purrformances & Entertainment by:
+
+- Cougars Are Cats Too
+- Emptyflash
+- Voyde - Aerosoul
+- KastaKila - Ezra
+- VampireExec - Archaic Reckoner
+
+Organized By Shellylynnx.
+
+#### Statement from artist
+- I performed under the name *Cougars Are Cats Too*.
+My set introduced the audience to various severely threatened cat species and rhythms from their countries of origin. The sounds were derived from flute samples.  I used a mixture of MaxMSP and Processing, communicating over OSC, to coordinate my audio and visuals. 
+
+![Original event poster. Features pixelized text stating Caturday, Wonderville logo and address, date, time, ages 21+, masks required, sliding scale prices of $10 - $20, and the bill of performers. Also features a pixelized cat and computer. ]({{"assets//img//2023//08/202308LiveCode.jpg" | absolute_url }})
