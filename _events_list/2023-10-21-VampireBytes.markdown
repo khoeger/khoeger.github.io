@@ -12,7 +12,6 @@ event-tag: 20231021VampireBytes
 categories:  algorave artist audio flute halloween livecode melody poetry samples supercollider tidalcycles
 description: A halloween themed algorave.
 published: true
-postFooter:
 ---
 ### {{page.description}}
 
