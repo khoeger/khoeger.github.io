@@ -2,16 +2,17 @@
 layout: event
 title: "Blues Dance New York Community Jam 2024"
 date: 2024-01-19 21:00:00 -0500
-image: /assets/img/2023/12/20231212talk.jpg
-location-title: International Conference on Live Coding
-location: <a href="https://www.youtube.com/@incolico" >https://www.youtube.com/@incolico</a>
+image: /assets/img/2024/01/20240119crowd2.jpg
+location-title: La Nacional
+location: 239 W 14th St, New York, NY 10011
 type: online conference
-role: presenter
+role: flutist
 project-tag:
 event-tag: 202312ICLC
 categories:  artist conceptfeasibility livecode online presentation talk
-description: "Exploring Concept Feasibility: Gedankenexperimente, Experimental Design Theory, Creative Responses, and Live Code"
+description: Blues Flute and Viola Accompanied by Big Frank and the Healers
 published: true
+postFooter: All photographs by <a href="https://www.ismaelfoto.com/">Ismael Fernadez</a>.
 ---
 ### {{page.description}}
 
@@ -21,11 +22,31 @@ published: true
 
 *{{page.date | date: site.time_format }}*
 
-### Purpose of Talk
-This talk discusses different methods of brainstorming, ideating, and thinking through problems.
-It uses these as a basis to present Live Coding as a viable method through which to explore solutions in specially chosen problem spaces.
+### Description
+The annual [Blues Dance New York](https://bluesdancenewyork.com/about-us/) Community Jam "invites members of our community to sing or a play an instrument with our hometown heroes - Big Frank & The Healers. It's a wonderful showcase of talent, community, and our shared loved of blues music and dance.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8j0WvSVhiA?si=utQPu-Yq1S00bEhT&amp;start=2150" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Katarina Hoeger and [Evan Pittson](https://evanpittson.com/) will be accompanied by [Big Frank and the Healer](https://www.facebook.com/BigFrankAndTheHealers) for acoustic renditions of [Ain't No Sunshine](https://youtu.be/YuKfiH0Scao?si=InAnRU_a9ryS4E5B) and [St. Louis Blues](https://youtu.be/D2TUlUwa3_o?si=gWlYYe45-OsoO3c8). Other performers included Gavin Knittle, Preston Davis, Sara Purvin, Alfredo Melendez, Andrew Abbensett and others.
 
-### Organizers
-Organized by Melody Loveless, Kate Sicchio, and Kofi Oduro.
+### About Flute And Viola Duo
+
+![Katarina plays her flute into the microphone. ]({{"assets//img//2024//01/20240119katarinaLong.jpg" | absolute_url }})
+
+Katarina Hoeger, artist, musician, mathematician, coder, and dancer, has played flute for 22 years. She is classically trained, with experience playing in ensembles ranging from latin and middle eastern to orchestras. Through dance she learned to love the blues, and she signed up for this community jam to share her love of music with her blues friends. Katarina invited her longtime friend and music making companion, Evan Pittson, to play with her to enhance her experience of playing music in a partnership similar to the one between social dancers on the floor.
+
+![Evan stares down his viola as he plays. ]({{"assets//img//2024//01/20240119evanOpenedEyes.jpg" | absolute_url }})
+
+Evan Pittson is a violist, arranger, and composer. He has performed in orchestral and chamber ensembles from an early age, and has since dedicated his artistic craft to improvisation, as a soloist in jazz, R&B, funk, fusion, and world music. He also composes for and leads the Pittson Family Band, alongside vocalist Suzanne Pittson, and keyboardist Jeff Pittson, which has performed around the world.
+
+![Katarina holds her flute and changes music. Evan holds his viola. Both look forward. ]({{"assets//img//2024//01/20240119katarinaEvanFinished.jpg" | absolute_url }})
+
+Katarina is a blues dancer who frequents the Blues Dance New York community. She invited Evan to perform with her. They met while playing in their Buddhist group's youth orchestra in 2007, and have remained friends since. Evan's presence allows for the two to  engage in a musical dialogue while performing similar to the one dance partners share on the floor.
+
+### About Big Frank and the Healers
+![Big Frank sings into the microphone. The healers are behind him. ]({{"assets//img//2024//01/20240119bigFrank.jpg" | absolute_url }})
+
+[Big Frank and the Healer](https://www.facebook.com/BigFrankAndTheHealers) are a traditional blues band. Big Frank, the guitarist and vocalist heading the group, "is a traditional electric and acoustic blues musician known for his powerful vocals."
+
+### About Blues Dance New York
+![Dancers dance the blues solo and in pairs on the dance floor. ]({{"assets//img//2024//01/20240119crowd2.jpg" | absolute_url }})
+
+[Blues Dance New York](https://bluesdancenewyork.com/about-us/) "is dedicated to fostering community and encouraging lifelong learning through a shared passion for blues dancing and blues music as forms of expression." The community endeavors "to share knowledge about the history of blues dance and music."
