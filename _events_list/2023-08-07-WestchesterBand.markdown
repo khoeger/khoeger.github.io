@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 'Westchester Band Summer 2023 Concert Series'
-date: 2023-08-10 14:00:00 -0400
+date: 2023-08-10 19:00:00 -0500
 image: /assets/img/2023/08/2023WestchesterBand.JPG
 location-title: Chase Park
 location: 32 Chase Road, Scarsdale, NY 10583
@@ -30,6 +30,6 @@ This is a community band - professionals play alongside high school students.
 There are members who have played in concert halls across the globe, leading to very masterfully played music.
 The band plays new music each week.  
 The first concert of the summer is at Scarsdale Town Pool, alongside fireworks.
-In case of rain, the concert is moved indoors to Scarsdale High School. Notice will be posted on the website. 
+In case of rain, the concert is moved indoors to Scarsdale High School. Notice will be posted on the website.
 
 Katarina Hoeger plays flute from within the second flute section and works in the crew.

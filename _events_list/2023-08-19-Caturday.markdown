@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Caturday
-date: 2023-08-19 20:00:00 -0400
+date: 2023-08-19 20:00:00 -0500
 image: /assets/img/2023/08/202308Caturday.jpg
 location-title: Wonderville
 location: 1186 Broadway, Brooklyn, NY 11221
