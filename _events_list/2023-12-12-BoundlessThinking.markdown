@@ -25,9 +25,6 @@ published: true
 This talk discusses different methods of brainstorming, ideating, and thinking through problems.
 It uses these as a basis to present Live Coding as a viable method through which to explore solutions in specially chosen problem spaces.
 
-
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8j0WvSVhiA?si=utQPu-Yq1S00bEhT&amp;start=2150" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Organizers
