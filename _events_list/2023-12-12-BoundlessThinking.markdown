@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Workshop at Boundless Thinking"
+title: "Talk at Boundless Thinking"
 date: 2023-12-12 9:030:00 -0500
 image: /assets/img/2023/12/20231212talk.jpg
 location-title: International Conference on Live Coding
