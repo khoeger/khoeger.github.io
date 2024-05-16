@@ -7,7 +7,7 @@ location-title: Persona NYC
 location: 202B Plymouth St., Brooklyn, NY 11201
 type: algorave
 role: installation artist
-project-tag: 2023Motion
+project-tag: 2023Motion MotionSeries
 event-tag: 20230527HumanMachineInterface
 categories: artist algorave installation sound
 description: '"Motion" is introduced to the greater NYC community as an installation on display at the LiveCode.NYC algorave titled human.machine.interface.'
