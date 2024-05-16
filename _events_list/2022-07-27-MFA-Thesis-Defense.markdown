@@ -7,7 +7,7 @@ location-title: Innovative Media Research and Commercialization Center Conferenc
 location: 5 Hilltop Road, Orono, ME 04469
 type: thesis defense
 role: artist defender presenter
-project-tag: 2022Motion MotionSeries
+project-tag: 2022Motion 
 event-tag: 20220727_ThesisDefense
 categories: art defense intermedia motion position presence presentation research sound thesis
 description: Katarina Hoeger's Intermedia MFA Thesis Defense.

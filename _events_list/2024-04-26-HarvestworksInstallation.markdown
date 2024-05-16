@@ -7,7 +7,7 @@ location-title: Harvestworks
 location: 10A Nolan Park, Governors Island, New York, NY 10004
 type: group installation
 role: artist
-project-tag: 202404Motion MotionSeries
+project-tag: 202404Motion 
 event-tag: 202402MuddTalk
 categories: art artist creative code creativecode generative interactive installation maxmsp motion sound
 description: Iteration 3 of the Motion Series of interactive sound installations

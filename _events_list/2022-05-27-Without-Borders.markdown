@@ -7,7 +7,7 @@ location-title: Lord Hall Gallery
 location: 5743 Lord Hall, Orono, ME 04469
 type: thesis show
 role: artist
-project-tag: 2022Motion MotionSeries
+project-tag: 2022Motion 
 event-tag: 20220527WithoutBorders
 categories: art exhibit gallery galleryOpening presentation research thesis
 description: Intermedia MFA Group Thesis Show Gallery Opening.
