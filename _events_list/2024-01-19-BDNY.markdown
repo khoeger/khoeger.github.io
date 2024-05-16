@@ -8,8 +8,8 @@ location: 239 W 14th St, New York, NY 10011
 type: online conference
 role: flutist
 project-tag:
-event-tag: 202312ICLC
-categories:  artist conceptfeasibility livecode online presentation talk
+event-tag: 202401Blues
+categories:  acoustic band blues dance flute live performance viola 
 description: Blues Flute and Viola Accompanied by Big Frank and the Healers
 published: true
 postFooter: All photographs by <a href="https://www.ismaelfoto.com/">Ismael Fernadez</a>.
