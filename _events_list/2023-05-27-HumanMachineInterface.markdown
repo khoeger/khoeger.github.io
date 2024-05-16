@@ -1,7 +1,7 @@
 ---
 layout: event
 title: '"Motion" at human . machine . interface'
-date: 2023-05-27 14:00:00 -0400
+date: 2023-05-27 14:00:00-0400
 image: /assets/img/2023/05/hmi_flyer_003c.png
 location-title: Persona NYC
 location: 202B Plymouth St., Brooklyn, NY 11201
@@ -23,7 +23,7 @@ published: true
 
 [GET A TICKET](https://alpha.persona.nyc/purchase/humanmachineinterface-6362d222).
 
-Explore our human actions through the machine interface provided by the interactive sound installation, "Motion: Connecting Body with Sound and Position, II" at LiveCode.NYC's May 2023 algorave organized around the theme human.machine.interface. 
+Explore our human actions through the machine interface provided by the interactive sound installation, "Motion: Connecting Body with Sound and Position, II" at LiveCode.NYC's May 2023 algorave organized around the theme human.machine.interface.
 The May 2023 iterations of "Motion" builds upon the discoveries made in the May 2022's instantiation.  
 The differing location, time frame, presentation, and environmental setup, combined with slight changes in code and paramters, should create new experiences for the rare visitor that saw the instance in Orono, ME.
 

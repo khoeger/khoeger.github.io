@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Talk at Boundless Thinking"
-date: 2023-12-12 9:030:00 -0500
+date: 2023-12-12 9:30:00-0400
 image: /assets/img/2023/12/20231212talk.jpg
 location-title: International Conference on Live Coding
 location: <a href="https://www.youtube.com/@incolico" >https://www.youtube.com/@incolico</a>

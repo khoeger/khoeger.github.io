@@ -1,16 +1,16 @@
 ---
 layout: event
-title: "Mudd Talks"
-date: 2024-02-22 20:30:00-0400
+title: "Motion: Constrained"
+date: 2024-04-26 11:00:00-0400
 image: /assets/img/2024/02/202402MuddTalk.jpg
-location-title: Harvey Mudd College Alumni Association
-location: <a href="https://www.youtube.com/@HarveyMuddCollege" >https://www.youtube.com/@HarveyMuddCollege</a>
-type: online talk series
-role: presenter
+location-title: Harvestworks
+location: 10A Nolan Park, Governors Island, New York, NY 10004
+type: group installation
+role: artist
 project-tag:
 event-tag: 202402MuddTalk
 categories: art  artist creative code creativecode generative  interactive installation livecode online presentation talk
-description: "Creative Coding: Generative Art, Interactive Installations, and Live Coding"
+description: Iteration 3 of the Motion Series of interactive sound installations
 published: true
 ---
 ### {{page.description}}

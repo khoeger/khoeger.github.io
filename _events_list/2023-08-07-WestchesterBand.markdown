@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 'Westchester Band Summer 2023 Concert Series'
-date: 2023-08-10 19:00:00 -0500
+date: 2023-08-10 19:00:00-0400
 image: /assets/img/2023/08/2023WestchesterBand.JPG
 location-title: Chase Park
 location: 32 Chase Road, Scarsdale, NY 10583

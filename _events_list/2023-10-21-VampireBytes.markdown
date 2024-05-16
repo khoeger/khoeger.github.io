@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Night of the Living Code II: Vampire Bytes"
-date: 2023-10-21 19:00:00 -0500
+date: 2023-10-21 19:00:00-0400
 image: /assets/img/2023/10/202310performance.jpg
 location-title: Wonderville
 location: 1186 Broadway, Brooklyn, NY 11221
