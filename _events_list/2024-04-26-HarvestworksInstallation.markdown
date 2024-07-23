@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Motion: Constrained @ My _____ is an Ecosystem"
+title: "LiveCodeNYC Group Residency: My _____ is an Ecosystem"
 date: 2024-04-26 11:00:00-0400
 image: /assets/img/2024/04/202404jessicaMonitor.jpg
 location-title: Harvestworks
@@ -9,8 +9,8 @@ type: group exhibition
 role: artist
 project-tag: 202404Motion
 event-tag: 202402Harvestworks
-categories: art artist creative code creativecode exhibition generative interactive installation maxmsp motion sound
-description: 3rd iteration of the Motion Series of interactive sound installations
+categories: art artist audio creative code creativecode exhibition flute generative interactive installation livecode maxmsp motion sound
+description: 3rd iteration of the Motion Series of interactive sound installations plus livecoded audio performance
 published: true
 ---
 ### {{page.description}}
@@ -21,7 +21,9 @@ published: true
 
 *{{page.date | date: site.time_format }}*
 
-### Artist Statement
+Katarina participated in this group residency as an installation artist and as a livecoded audio performer, under the name Cougars Are Cats Too. She played flute and manipulated the sounds with MaxMSP to the visuals created by Jessica Stringham, performing under the name [This.Xor.That](https://www.thisxorthat.art/). 
+
+### Artist Statement - About "Motion: Constrained @ My _____ is an Ecosystem"
 This installation is the third installment of the "Motion" series. It focuses on sonifying motions made within the constrained environment of a hallway.
 
 The “Motion” series encourages using sound and motion to explore being embodied. It provides the opportunity for instinctive and joyful bodily exploration. Participants explore their bodies’ placements and impacts on the environment and its constituents. “Motion” is also a social experiment, studying how visitors choose to engage with the work, what patterns of interaction occur, how visitors influence each other, and how the system's responses influence visitors to act.
@@ -38,7 +40,7 @@ The title of the show refers to the relationships these featured artists build w
 This year's exhibition is part of a [Livecode.NYC](https://livecode.nyc/) group residency at [Harvestworks](https://www.harvestworks.org/). This year, it is organized by [Cameron Alexander](https://emptyfla.sh/), [Eric Lee](https://www.instagram.com/eggsovereager/), and [Melody Loveless](https://www.melodyloveless.com/) with assistance from stage manager [Fuguo Xue](https://fuguoxue.github.io/).
 
 ### About LiveCode.NYC
-[Livecode.NYC](https://livecode.nyc/) is a New York City-based artist collective devoted to the real-time programming technique called livecoding, and exploring its potential as a methodology of artistic expressions. This leaderless collective has no formal membership or hierarchy; anyone is welcome to join, attend, and host events. Read more about LiveCode.NYC on our [website]((https://livecode.nyc/)). 
+[Livecode.NYC](https://livecode.nyc/) is a New York City-based artist collective devoted to the real-time programming technique called livecoding, and exploring its potential as a methodology of artistic expressions. This leaderless collective has no formal membership or hierarchy; anyone is welcome to join, attend, and host events. Read more about LiveCode.NYC on our [website]((https://livecode.nyc/)).
 
 ### About Harvestworks
 "Founded as a not-for-profit organization by artists in 1977, Harvestworks has helped a generation of artists create new works using technology. Our mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies."  Learn more about [Harvestworks](https://www.harvestworks.org/) on their website.
