@@ -1,16 +1,16 @@
 ---
 layout: event
-title: "LiveCodeNYC Group Residency: My _____ is an Ecosystem"
-date: 2024-04-26 11:00:00-0400
+title: "Motion at the 2024 Hudson Valley Maker Faire"
+date: 2024-05-18 11:00:00-0400
 image: /assets/img/2024/04/202404jessicaMonitor.jpg
-location-title: Harvestworks
-location: 10A Nolan Park, Governors Island, New York, NY 10004
+location-title: Garner Arts Center
+location: 55 West Railroad Avenue Garnerville, NY 10923
 type: group exhibition
 role: artist
-project-tag: 202404Motion
-event-tag: 202402Harvestworks
-categories: art artist audio creative code creativecode exhibition flute generative interactive installation live livecode maxmsp motion performance sound
-description: 3rd iteration of the Motion Series of interactive sound installation plus livecoded audio performance
+project-tag: 202405Motion
+event-tag: 202405HVMF
+categories: art artist creative code creativecode exhibition generative interactive installation maxmsp motion sound
+description: 3rd iteration of the Motion Series of interactive sound installations
 published: true
 ---
 ### {{page.description}}
@@ -19,33 +19,12 @@ published: true
 
 {{page.location}}
 
+*{{ "2024-05-18 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-05-18 17:00:00-0400" | date: "%I:%M %p" }}*
 
-###### Motion: Constrained @ My _____ is an Ecosystem, Installation
-*{{ "2024-04-26 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-04-26 17:00:00-0400" | date: "%I:%M %p" }}*
+*{{ "2024-05-19 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-05-19 17:00:00-0400" | date: "%I:%M %p" }}*
 
-*{{ "2024-04-27 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-04-27 17:00:00-0400" | date: "%I:%M %p" }}*
-
-
-*{{ "2024-04-28 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-04-26 17:00:00-0400" | date: "%I:%M %p" }}*
-
-*{{ "2024-05-03 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-04-28 17:00:00-0400" | date: "%I:%M %p" }}*
-
-
-*{{ "2024-05-04 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-05-04 17:00:00-0400" | date: "%I:%M %p" }}*
-
-
-*{{ "2024-05-05 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-05-05 17:00:00-0400" | date: "%I:%M %p" }}*
-
-
-###### LiveCoded Audio Performance
-
-*{{ "2024-05-05 15:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
-
-###### About Katarina's participation in this event
-Katarina participated in this group residency as an installation artist and as a livecoded audio performer, under the name Cougars Are Cats Too. She played flute and manipulated the sounds with MaxMSP to the visuals created by Jessica Stringham, performing under the name [This.Xor.That](https://www.thisxorthat.art/).
-
-### Artist Statement - About "Motion: Constrained @ My _____ is an Ecosystem"
-This installation is the third installment of the "Motion" series. It focuses on sonifying motions made within the constrained environment of a hallway.
+### Artist Statement
+This installation is the fourth installment of the "Motion" series. It focuses on sonifying motions made by passerbyers at the Hudson Valley Makers Faire. 
 
 The “Motion” series encourages using sound and motion to explore being embodied. It provides the opportunity for instinctive and joyful bodily exploration. Participants explore their bodies’ placements and impacts on the environment and its constituents. “Motion” is also a social experiment, studying how visitors choose to engage with the work, what patterns of interaction occur, how visitors influence each other, and how the system's responses influence visitors to act.
 
