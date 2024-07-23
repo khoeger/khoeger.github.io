@@ -19,9 +19,26 @@ published: true
 
 {{page.location}}
 
-*{{page.date | date: site.time_format }}*
 
-Katarina participated in this group residency as an installation artist and as a livecoded audio performer, under the name Cougars Are Cats Too. She played flute and manipulated the sounds with MaxMSP to the visuals created by Jessica Stringham, performing under the name [This.Xor.That](https://www.thisxorthat.art/). 
+###### Motion: Constrained @ My _____ is an Ecosystem, Installation
+*{{ "2024-04-26 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+*{{ "2024-04-27 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+*{{ "2024-04-28 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+*{{ "2024-05-03 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+*{{ "2024-05-04 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+*{{ "2024-05-05 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+###### LiveCoded Audio Performance
+
+*{{ "2024-05-05 15:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}*
+
+###### About Katarina's participation in this event
+Katarina participated in this group residency as an installation artist and as a livecoded audio performer, under the name Cougars Are Cats Too. She played flute and manipulated the sounds with MaxMSP to the visuals created by Jessica Stringham, performing under the name [This.Xor.That](https://www.thisxorthat.art/).
 
 ### Artist Statement - About "Motion: Constrained @ My _____ is an Ecosystem"
 This installation is the third installment of the "Motion" series. It focuses on sonifying motions made within the constrained environment of a hallway.
