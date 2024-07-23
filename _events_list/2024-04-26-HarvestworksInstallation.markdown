@@ -1,16 +1,16 @@
 ---
 layout: event
-title: "Motion: Constrained"
+title: "Motion: Constrained @ My _____ is an Ecosystem"
 date: 2024-04-26 11:00:00-0400
-image: /assets/img/2024/02/202402MuddTalk.jpg
+image: /assets/img/2024/04/202404jessicaMonitor.jpg
 location-title: Harvestworks
 location: 10A Nolan Park, Governors Island, New York, NY 10004
-type: group installation
+type: group exhibition
 role: artist
-project-tag: 202404Motion 
-event-tag: 202402MuddTalk
-categories: art artist creative code creativecode generative interactive installation maxmsp motion sound
-description: Iteration 3 of the Motion Series of interactive sound installations
+project-tag: 202404Motion
+event-tag: 202402Harvestworks
+categories: art artist creative code creativecode exhibition generative interactive installation maxmsp motion sound
+description: 3rd iteration of the Motion Series of interactive sound installations
 published: true
 ---
 ### {{page.description}}
@@ -21,15 +21,24 @@ published: true
 
 *{{page.date | date: site.time_format }}*
 
-### Purpose of Talk
- Hoeger and [Stringham](https://www.thisxorthat.art/) will discuss their creative coding-related pursuits and how they rekindled their friendship a decade after graduation through a shared passion and the LiveCode NYC community.
+### Artist Statement
+This installation is the third installment of the "Motion" series. It focuses on sonifying motions made within the constrained environment of a hallway.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8VN3FI0o2Q?si=YHCAmYW3x_HQJNid" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The “Motion” series encourages using sound and motion to explore being embodied. It provides the opportunity for instinctive and joyful bodily exploration. Participants explore their bodies’ placements and impacts on the environment and its constituents. “Motion” is also a social experiment, studying how visitors choose to engage with the work, what patterns of interaction occur, how visitors influence each other, and how the system's responses influence visitors to act.
 
-### About the presenters
-**Katarina Hoeger ’13** (she/her, mathematics) creates artistic experiences that invite participants to explore their embodiment and the impacts of their presences on their immediate environments. Her artist rigs are mediated by code. Some works include real-time data processing and immediate sonic feedback while others rely on generated visuals or sounds. Hoeger has been an artist-in-residence at Bethany Arts Community. She participates in Music Community Lab and LiveCode.NYC events. She holds the degrees of MFA in intermedia from the University of Maine, M.S. in computer science with a specialization in computational operations research from the College of William & Mary, and B.S. in mathematics from Harvey Mudd College.
+<iframe width="467" height="830" src="https://www.youtube.com/embed/y7qW_fih4Ts" title="Motion: Constrained Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Jessica Stringham ’13** (they/them, computer science) is a creative coder and machine learning engineer based in Brooklyn, New York. They enjoy trying to put distant memories of Harvey Mudd Core classes to use by finding creative ways to use concepts and then turn around and create weird glitchy art by cranking parameters past what the code was intended to handle. They have performed live visuals at shows associated with LiveCode.NYC and ITP-NYU. They have a B.S. in computer science from Harvey Mudd College, an MSc in artificial intelligence from the University of Edinburgh, and work as a staff machine learning engineer at Spotify.
+### Group Exhibition
+Processes. Loops. Glitch. Noise. Feedback. Nostalgia. Sustainability. World building. An ecosystem of ecosystems. This year’s show, [My ______ is an Ecosystem](https://www.harvestworks.org/livecodenyc2024-apr-26-may-5/) (said “my blank is an ecosystem”) features a selection of art, workshops, discussions, and performances that explore the former ideas in many ways.
 
-### Organizers
-Organized by Vanessa Chiu of the Office of Alumni and Parent Relations at Harvey Mudd College in Claremont, CA.
+From interactive installations to video art, and audiovisual performances to sculpture, this exhibition features artists using live coding, artificial intelligence, custom electronics and software, repurposed electronics and e-waste, permacomputing, and more.
+
+The title of the show refers to the relationships these featured artists build with their imaginations and tools. An alternative name for this show could be “This is an ecosystem,” referring to this collection of work, the event, and the community of artists involved.
+
+This year's exhibition is part of a [Livecode.NYC](https://livecode.nyc/) group residency at [Harvestworks](https://www.harvestworks.org/). This year, it is organized by [Cameron Alexander](https://emptyfla.sh/), [Eric Lee](https://www.instagram.com/eggsovereager/), and [Melody Loveless](https://www.melodyloveless.com/) with assistance from stage manager [Fuguo Xue](https://fuguoxue.github.io/).
+
+### About LiveCode.NYC
+[Livecode.NYC](https://livecode.nyc/) is a New York City-based artist collective devoted to the real-time programming technique called livecoding, and exploring its potential as a methodology of artistic expressions. This leaderless collective has no formal membership or hierarchy; anyone is welcome to join, attend, and host events. Read more about LiveCode.NYC on our [website]((https://livecode.nyc/)). 
+
+### About Harvestworks
+"Founded as a not-for-profit organization by artists in 1977, Harvestworks has helped a generation of artists create new works using technology. Our mission is to support the creation and presentation of art works achieved through the use of new and evolving technologies."  Learn more about [Harvestworks](https://www.harvestworks.org/) on their website.
