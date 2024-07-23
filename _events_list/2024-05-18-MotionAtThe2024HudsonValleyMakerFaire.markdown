@@ -11,7 +11,7 @@ project-tag: 202405Motion
 event-tag: 202405HVMF
 categories: art artist creative code creativecode exhibition generative interactive installation maxmsp motion sound
 description: 3rd iteration of the Motion Series of interactive sound installations
-published: true
+published: false
 ---
 ### {{page.description}}
 
@@ -24,7 +24,7 @@ published: true
 *{{ "2024-05-19 11:00:00-0400" | date: "%A, %-d %B %Y, %I:%M %p" }}* - *{{ "2024-05-19 17:00:00-0400" | date: "%I:%M %p" }}*
 
 ### Artist Statement
-This installation is the fourth installment of the "Motion" series. It focuses on sonifying motions made by passerbyers at the Hudson Valley Makers Faire. 
+This installation is the fourth installment of the "Motion" series. It focuses on sonifying motions made by passerbyers at the Hudson Valley Makers Faire.
 
 The “Motion” series encourages using sound and motion to explore being embodied. It provides the opportunity for instinctive and joyful bodily exploration. Participants explore their bodies’ placements and impacts on the environment and its constituents. “Motion” is also a social experiment, studying how visitors choose to engage with the work, what patterns of interaction occur, how visitors influence each other, and how the system's responses influence visitors to act.
 
