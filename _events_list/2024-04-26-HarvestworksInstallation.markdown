@@ -9,7 +9,7 @@ type: group exhibition
 role: artist
 project-tag: 202404Motion
 event-tag: 202402Harvestworks
-categories: art artist audio creative code creativecode exhibition flute generative interactive installation livecode maxmsp motion sound
+categories: art artist audio creative code creativecode exhibition flute generative interactive installation live livecode maxmsp motion performance sound
 description: 3rd iteration of the Motion Series of interactive sound installation plus livecoded audio performance
 published: true
 ---
