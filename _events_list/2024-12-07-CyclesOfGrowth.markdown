@@ -23,12 +23,16 @@ published: true
 
 Katarina will be performing visuals as Cougars Are Cats Too alongside Jeff Wave.
 She will use a live-coded version of the reconstituted media project in p5Live to generate visuals centered around the themes of cycles and growth.
-Katarina is organizing this event alongside John Dunlap (MrSynAckSter).  
+Katarina is organizing this event alongside John Dunlap (MrSynAckSter).
+
+- [Official Event Page](https://www.wonderville.nyc/events/cycles-of-growth)
+- [Purchase Tickets](https://withfriends.co/event/22319757/cycles_of_growth)
+
 
 ### Event Description
 We develop over time, in a cyclical fashion. On December 7, 2024, we invite you to join us at [Wonderville](https://www.wonderville.nyc/) for a group celebration and live coding mediated exploration of cycles and growth in all their forms. Sets delve into personal growth, algorithmic growth,  biological growth, and more.
 
-Featuring:
+#### Line Up
 
 
 - Alex Weiner (A) /  [MrSynAckSter](https://www.instagram.com/mrsynackster/)  (V)
@@ -50,5 +54,5 @@ Find us coding audio and visuals live in the arcade room a few times a year.
 - 8 PM Doors. 8:30 PM - 1 PM Show.
 - $10 - $20 Sliding Scale. 21+.
 
-### About LiveCode.NYC
+#### About LiveCode.NYC
 [Livecode.NYC](https://livecode.nyc/) is a New York City-based artist collective devoted to the real-time programming technique called livecoding, and exploring its potential as a methodology of artistic expressions. This leaderless collective has no formal membership or hierarchy; anyone is welcome to join, attend, and host events. Read more about LiveCode.NYC on our [website]((https://livecode.nyc/)).
